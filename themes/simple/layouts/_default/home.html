@@ -1,0 +1,58 @@
+{{ define "main" }}
+	<div class="container col-xxl-10 px-4 py-5">
+		<pre>Template: _default/home.html</pre>
+		<div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+			<div class="col-10 col-sm-8 col-lg-6">
+				<img
+					src="/images/home/environment-8802931_1280.jpg"
+					class="d-block mx-lg-auto img-fluid"
+					alt="Bootstrap Themes"
+					width="700"
+					height="500"
+					loading="lazy" />
+				<p>
+					Image by
+					<a
+						href="https://pixabay.com/users/amduma-17158812/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8802931"
+						>Manuel Torres Garcia</a
+					>
+					from
+					<a
+						href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8802931"
+						>Pixabay</a
+					>
+				</p>
+			</div>
+			<div class="col-lg-6">
+				<h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">
+					{{ .Title }}
+				</h1>
+				<p class="lead">{{ .Content }}</p>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			{{ range where .Site.RegularPages "Type" "feature" }}
+				<div class="col feature">
+					<h2 class="text-center mb-3">{{ .Title }}</h2>
+					{{ .Content }}
+				</div>
+			{{ end }}
+		</div>
+	</div>
+	<div class="container py-5 my-5">
+		{{ partial "reviews.html" . }}
+	</div>
+	<div class="container my-5">
+		<div class="row">
+			<div class="col-8">
+				{{ range where site.RegularPages "Section" "ne" "home" }}
+					<h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+					{{ .Summary }}
+				{{ end }}
+
+			</div>
+		</div>
+	</div>
+{{ end }}

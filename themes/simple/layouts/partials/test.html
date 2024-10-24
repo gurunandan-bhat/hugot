@@ -1,0 +1,6 @@
+{{- $reviewBatch := 2 }}
+{{- $reviewCols := div 12 $reviewBatch }}
+{{- $reviewList := where .Site.RegularPages "Type" "story" }}
+{{- range seq 0 $reviewBatch (sub ($reviewList | len) 1) }}
+	<pre>{{ . }}</pre>
+{{ end }}

@@ -1,0 +1,126 @@
+.montserrat-regular {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.pt-serif-regular {
+  font-family: "PT Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #2e2e2e;
+}
+
+.pt-serif-bold {
+  font-family: "PT Serif", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.pt-serif-regular-italic {
+  font-family: "PT Serif", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.pt-serif-bold-italic {
+  font-family: "PT Serif", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.pt-sans-regular {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.pt-sans-bold {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.pt-sans-regular-italic {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.pt-sans-bold-italic {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.roboto-flex-bold {
+  font-family: "Roboto Flex", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "wdth" 100,
+    "GRAD" 0,
+    "XOPQ" 96,
+    "XTRA" 468,
+    "YOPQ" 79,
+    "YTAS" 750,
+    "YTDE" -203,
+    "YTFI" 738,
+    "YTLC" 514,
+    "YTUC" 712;
+}
+
+.roboto-flex-regular {
+  font-family: "Roboto Flex", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "wdth" 100,
+    "GRAD" 0,
+    "XOPQ" 96,
+    "XTRA" 468,
+    "YOPQ" 79,
+    "YTAS" 750,
+    "YTDE" -203,
+    "YTFI" 738,
+    "YTLC" 514,
+    "YTUC" 712;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Roboto Flex", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "wdth" 100,
+    "GRAD" 0,
+    "XOPQ" 96,
+    "XTRA" 468,
+    "YOPQ" 79,
+    "YTAS" 750,
+    "YTDE" -203,
+    "YTFI" 738,
+    "YTLC" 514,
+    "YTUC" 712;
+}
+
+.nav-link.active {
+  color: crimson !important;
+}
+
+a {
+  text-decoration: none;
+  color: crimson;
+}

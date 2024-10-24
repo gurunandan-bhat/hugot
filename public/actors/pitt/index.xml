@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pitt on My Hugo Test Site</title>
+    <link>http://localhost:1313/actors/pitt/</link>
+    <description>Recent content in Pitt on My Hugo Test Site</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Oct 2024 10:43:36 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/actors/pitt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Afghan</title>
+      <link>http://localhost:1313/books/afghan/</link>
+      <pubDate>Wed, 16 Oct 2024 10:43:36 +0530</pubDate>
+      <guid>http://localhost:1313/books/afghan/</guid>
+      <description>&lt;p&gt;The Nellie, a cruising yawl, swung to her anchor without a flutter of&#xA;the sails, and was at rest. The flood had made, the wind was nearly&#xA;calm, and being bound down the river, the only thing for it was to come&#xA;to and wait for the turn of the tide.&lt;/p&gt;&#xA;&lt;p&gt;The sea-reach of the Thames stretched before us like the beginning of&#xA;an interminable waterway. In the offing the sea and the sky were welded&#xA;together without a joint, and in the luminous space the tanned sails of&#xA;the barges drifting up with the tide seemed to stand still in red&#xA;clusters of canvas sharply peaked, with gleams of varnished sprits. A&#xA;haze rested on the low shores that ran out to sea in vanishing&#xA;flatness. The air was dark above Gravesend, and farther back still&#xA;seemed condensed into a mournful gloom, brooding motionless over the&#xA;biggest, and the greatest, town on earth.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hand</title>
+      <link>http://localhost:1313/books/hand/</link>
+      <pubDate>Wed, 16 Oct 2024 10:41:06 +0530</pubDate>
+      <guid>http://localhost:1313/books/hand/</guid>
+      <description>&lt;p&gt;One morning, when Gregor Samsa woke from troubled dreams, he found&#xA;himself transformed in his bed into a horrible vermin. He lay on his&#xA;armour-like back, and if he lifted his head a little he could see his&#xA;brown belly, slightly domed and divided by arches into stiff sections.&#xA;The bedding was hardly able to cover it and seemed ready to slide off&#xA;any moment. His many legs, pitifully thin compared with the size of the&#xA;rest of him, waved about helplessly as he looked.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

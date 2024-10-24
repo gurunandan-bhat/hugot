@@ -1,0 +1,28 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-US'
+title = 'My Hugo Test Site'
+theme = 'simple'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Books'
+pageRef = '/books'
+weight = 20
+
+[[menus.main]]
+name = 'Films'
+pageRef = '/films'
+weight = 30
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"
+
+[taxonomies]
+genre = 'genres'
+actor = 'actors'

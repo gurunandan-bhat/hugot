@@ -1,0 +1,16 @@
+{{ define "main" }}
+	<div class="container">
+		<pre>This is the default list template</pre>
+		<pre>{{ debug.Dump site.Taxonomies }}</pre>
+		<h1 class="mb-5">{{ .Title }}</h1>
+		{{ .Content }}
+		{{ range .Pages }}
+			<div class="row mb-5">
+				<div class="col-lg-8">
+					<h2><a href="{{ .RelPermalink }}">{{ .LinkTitle | title }}</a></h2>
+					{{ .Summary }}
+				</div>
+			</div>
+		{{ end }}
+	</div>
+{{ end }}

@@ -1,0 +1,6 @@
+<img
+	src="{{ .Destination | safeURL }}"
+	{{- with .Text }}alt="{{ . }}"{{ end -}}
+	{{- with .Title }}title="{{ . }}"{{ end -}}
+	class="img-responsive w-100 mb-4" />
+{{- /* chomp trailing newline */ -}}

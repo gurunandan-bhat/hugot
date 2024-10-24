@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Newton on My Hugo Test Site</title>
+    <link>http://localhost:1313/actors/newton/</link>
+    <description>Recent content in Newton on My Hugo Test Site</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Oct 2024 10:46:10 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/actors/newton/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sea</title>
+      <link>http://localhost:1313/films/sea/</link>
+      <pubDate>Wed, 16 Oct 2024 10:46:10 +0530</pubDate>
+      <guid>http://localhost:1313/films/sea/</guid>
+      <description>&lt;p&gt;His remark did not seem at all surprising. It was just like Marlow. It&#xA;was accepted in silence. No one took the trouble to grunt even; and&#xA;presently he said, very slow—“I was thinking of very old times, when&#xA;the Romans first came here, nineteen hundred years ago—the other day&#xA;&amp;hellip;. Light came out of this river since—you say Knights? Yes; but it is&#xA;like a running blaze on a plain, like a flash of lightning in the&#xA;clouds. We live in the flicker—may it last as long as the old earth&#xA;keeps rolling! But darkness was here yesterday. Imagine the feelings of&#xA;a commander of a fine—what d’ye call ’em?—trireme in the Mediterranean,&#xA;ordered suddenly to the north; run overland across the Gauls in a&#xA;hurry; put in charge of one of these craft the legionaries—a wonderful&#xA;lot of handy men they must have been, too—used to build, apparently by&#xA;the hundred, in a month or two, if we may believe what we read. Imagine&#xA;him here—the very end of the world, a sea the colour of lead, a sky the&#xA;colour of smoke, a kind of ship about as rigid as a concertina—and&#xA;going up this river with stores, or orders, or what you like.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

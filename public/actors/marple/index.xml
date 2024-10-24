@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marple on My Hugo Test Site</title>
+    <link>http://localhost:1313/actors/marple/</link>
+    <description>Recent content in Marple on My Hugo Test Site</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Oct 2024 10:41:06 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/actors/marple/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hand</title>
+      <link>http://localhost:1313/books/hand/</link>
+      <pubDate>Wed, 16 Oct 2024 10:41:06 +0530</pubDate>
+      <guid>http://localhost:1313/books/hand/</guid>
+      <description>&lt;p&gt;One morning, when Gregor Samsa woke from troubled dreams, he found&#xA;himself transformed in his bed into a horrible vermin. He lay on his&#xA;armour-like back, and if he lifted his head a little he could see his&#xA;brown belly, slightly domed and divided by arches into stiff sections.&#xA;The bedding was hardly able to cover it and seemed ready to slide off&#xA;any moment. His many legs, pitifully thin compared with the size of the&#xA;rest of him, waved about helplessly as he looked.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

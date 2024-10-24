@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clooney on My Hugo Test Site</title>
+    <link>http://localhost:1313/actors/clooney/</link>
+    <description>Recent content in Clooney on My Hugo Test Site</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Oct 2024 10:48:10 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/actors/clooney/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rivers</title>
+      <link>http://localhost:1313/films/rivers/</link>
+      <pubDate>Wed, 16 Oct 2024 10:48:10 +0530</pubDate>
+      <guid>http://localhost:1313/films/rivers/</guid>
+      <description>&lt;p&gt;And Jove said, “My child, what are you talking about? How can I forget&#xA;Ulysses than whom there is no more capable man on earth, nor more&#xA;liberal in his offerings to the immortal gods that live in heaven? Bear&#xA;in mind, however, that Neptune is still furious with Ulysses for having&#xA;blinded an eye of Polyphemus king of the Cyclopes. Polyphemus is son to&#xA;Neptune by the nymph Thoosa, daughter to the sea-king Phorcys;&#xA;therefore though he will not kill Ulysses outright, he torments him by&#xA;preventing him from getting home. Still, let us lay our heads together&#xA;and see how we can help him to return; Neptune will then be pacified,&#xA;for if we are all of a mind he can hardly stand out against us.”&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why</title>
+      <link>http://localhost:1313/films/why/</link>
+      <pubDate>Wed, 16 Oct 2024 10:45:15 +0530</pubDate>
+      <guid>http://localhost:1313/films/why/</guid>
+      <description>&lt;p&gt;Telemachus saw her long before any one else did. He was sitting moodily&#xA;among the suitors thinking about his brave father, and how he would&#xA;send them flying out of the house, if he were to come to his own again&#xA;and be honoured as in days gone by. Thus brooding as he sat among them,&#xA;he caught sight of Minerva and went straight to the gate, for he was&#xA;vexed that a stranger should be kept waiting for admittance. He took&#xA;her right hand in his own, and bade her give him her spear. “Welcome,”&#xA;said he, “to our house, and when you have partaken of food you shall&#xA;tell us what you have come for.”&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Afghan</title>
+      <link>http://localhost:1313/books/afghan/</link>
+      <pubDate>Wed, 16 Oct 2024 10:43:36 +0530</pubDate>
+      <guid>http://localhost:1313/books/afghan/</guid>
+      <description>&lt;p&gt;The Nellie, a cruising yawl, swung to her anchor without a flutter of&#xA;the sails, and was at rest. The flood had made, the wind was nearly&#xA;calm, and being bound down the river, the only thing for it was to come&#xA;to and wait for the turn of the tide.&lt;/p&gt;&#xA;&lt;p&gt;The sea-reach of the Thames stretched before us like the beginning of&#xA;an interminable waterway. In the offing the sea and the sky were welded&#xA;together without a joint, and in the luminous space the tanned sails of&#xA;the barges drifting up with the tide seemed to stand still in red&#xA;clusters of canvas sharply peaked, with gleams of varnished sprits. A&#xA;haze rested on the low shores that ran out to sea in vanishing&#xA;flatness. The air was dark above Gravesend, and farther back still&#xA;seemed condensed into a mournful gloom, brooding motionless over the&#xA;biggest, and the greatest, town on earth.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What</title>
+      <link>http://localhost:1313/books/what/</link>
+      <pubDate>Wed, 16 Oct 2024 10:42:21 +0530</pubDate>
+      <guid>http://localhost:1313/books/what/</guid>
+      <description>&lt;p&gt;Tell me, O Muse, of that ingenious hero who travelled far and wide&#xA;after he had sacked the famous town of Troy. Many cities did he visit,&#xA;and many were the nations with whose manners and customs he was&#xA;acquainted; moreover he suffered much by sea while trying to save his&#xA;own life and bring his men safely home; but do what he might he could&#xA;not save his men, for they perished through their own sheer folly in&#xA;eating the cattle of the Sun-god Hyperion; so the god prevented them&#xA;from ever reaching home. Tell me, too, about all these things, oh&#xA;daughter of Jove, from whatsoever source you may know them.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

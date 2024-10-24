@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lollobrigida on My Hugo Test Site</title>
+    <link>http://localhost:1313/actors/lollobrigida/</link>
+    <description>Recent content in Lollobrigida on My Hugo Test Site</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Oct 2024 10:44:27 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/actors/lollobrigida/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>World</title>
+      <link>http://localhost:1313/films/world/</link>
+      <pubDate>Wed, 16 Oct 2024 10:44:27 +0530</pubDate>
+      <guid>http://localhost:1313/films/world/</guid>
+      <description>&lt;p&gt;He slid back into his former position. “Getting up early all the time”,&#xA;he thought, “it makes you stupid. You’ve got to get enough sleep. Other&#xA;travelling salesmen live a life of luxury. For instance, whenever I go&#xA;back to the guest house during the morning to copy out the contract,&#xA;these gentlemen are always still sitting there eating their breakfasts.&#xA;I ought to just try that with my boss; I’d get kicked out on the spot.&#xA;But who knows, maybe that would be the best thing for me. If I didn’t&#xA;have my parents to think about I’d have given in my notice a long time&#xA;ago, I’d have gone up to the boss and told him just what I think, tell&#xA;him everything I would, let him know just what I feel. He’d fall right&#xA;off his desk! And it’s a funny sort of business to be sitting up there&#xA;at your desk, talking down at your subordinates from up there,&#xA;especially when you have to go right up close because the boss is hard&#xA;of hearing. Well, there’s still some hope; once I’ve got the money&#xA;together to pay off my parents’ debt to him—another five or six years I&#xA;suppose—that’s definitely what I’ll do. That’s when I’ll make the big&#xA;change. First of all though, I’ve got to get up, my train leaves at&#xA;five.”&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

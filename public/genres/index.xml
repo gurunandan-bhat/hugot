@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genres on My Hugo Test Site</title>
+    <link>http://localhost:1313/genres/</link>
+    <description>Recent content in Genres on My Hugo Test Site</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Oct 2024 00:02:22 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/genres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drama</title>
+      <link>http://localhost:1313/genres/drama/</link>
+      <pubDate>Fri, 18 Oct 2024 00:02:22 +0530</pubDate>
+      <guid>http://localhost:1313/genres/drama/</guid>
+      <description>&lt;p&gt;This is an intro to Genre -&amp;gt; Drama&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Suspense</title>
+      <link>http://localhost:1313/genres/suspense/</link>
+      <pubDate>Wed, 16 Oct 2024 10:48:10 +0530</pubDate>
+      <guid>http://localhost:1313/genres/suspense/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Comedy</title>
+      <link>http://localhost:1313/genres/comedy/</link>
+      <pubDate>Wed, 16 Oct 2024 10:46:10 +0530</pubDate>
+      <guid>http://localhost:1313/genres/comedy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thriller</title>
+      <link>http://localhost:1313/genres/thriller/</link>
+      <pubDate>Wed, 16 Oct 2024 10:46:10 +0530</pubDate>
+      <guid>http://localhost:1313/genres/thriller/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Action</title>
+      <link>http://localhost:1313/genres/action/</link>
+      <pubDate>Wed, 16 Oct 2024 10:45:15 +0530</pubDate>
+      <guid>http://localhost:1313/genres/action/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tragedy</title>
+      <link>http://localhost:1313/genres/tragedy/</link>
+      <pubDate>Wed, 16 Oct 2024 10:41:06 +0530</pubDate>
+      <guid>http://localhost:1313/genres/tragedy/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

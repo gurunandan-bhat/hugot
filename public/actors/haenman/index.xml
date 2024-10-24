@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haenman on My Hugo Test Site</title>
+    <link>http://localhost:1313/actors/haenman/</link>
+    <description>Recent content in Haenman on My Hugo Test Site</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Oct 2024 10:42:21 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/actors/haenman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What</title>
+      <link>http://localhost:1313/books/what/</link>
+      <pubDate>Wed, 16 Oct 2024 10:42:21 +0530</pubDate>
+      <guid>http://localhost:1313/books/what/</guid>
+      <description>&lt;p&gt;Tell me, O Muse, of that ingenious hero who travelled far and wide&#xA;after he had sacked the famous town of Troy. Many cities did he visit,&#xA;and many were the nations with whose manners and customs he was&#xA;acquainted; moreover he suffered much by sea while trying to save his&#xA;own life and bring his men safely home; but do what he might he could&#xA;not save his men, for they perished through their own sheer folly in&#xA;eating the cattle of the Sun-god Hyperion; so the god prevented them&#xA;from ever reaching home. Tell me, too, about all these things, oh&#xA;daughter of Jove, from whatsoever source you may know them.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

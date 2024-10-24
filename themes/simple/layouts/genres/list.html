@@ -1,0 +1,23 @@
+{{ define "main" }}
+	<div class="container">
+		<div class="row">
+			<div class="col-6">
+				<pre>Template: genres/list.html</pre>
+				{{ .Content }}
+			</div>
+			<ul>
+				{{ range .Pages }}
+					<li>
+						Articles related to genre
+						<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+						<ul>
+							{{ range .Pages }}
+								<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+							{{ end }}
+						</ul>
+					</li>
+				{{ end }}
+			</ul>
+		</div>
+	</div>
+{{ end }}

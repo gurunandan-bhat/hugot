@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Actors on My Hugo Test Site</title>
+    <link>http://localhost:1313/actors/</link>
+    <description>Recent content in Actors on My Hugo Test Site</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Oct 2024 10:48:10 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/actors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clooney</title>
+      <link>http://localhost:1313/actors/clooney/</link>
+      <pubDate>Wed, 16 Oct 2024 10:48:10 +0530</pubDate>
+      <guid>http://localhost:1313/actors/clooney/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Damon</title>
+      <link>http://localhost:1313/actors/damon/</link>
+      <pubDate>Wed, 16 Oct 2024 10:48:10 +0530</pubDate>
+      <guid>http://localhost:1313/actors/damon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Roberts</title>
+      <link>http://localhost:1313/actors/roberts/</link>
+      <pubDate>Wed, 16 Oct 2024 10:48:10 +0530</pubDate>
+      <guid>http://localhost:1313/actors/roberts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Samson</title>
+      <link>http://localhost:1313/actors/samson/</link>
+      <pubDate>Wed, 16 Oct 2024 10:48:10 +0530</pubDate>
+      <guid>http://localhost:1313/actors/samson/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Newton</title>
+      <link>http://localhost:1313/actors/newton/</link>
+      <pubDate>Wed, 16 Oct 2024 10:46:10 +0530</pubDate>
+      <guid>http://localhost:1313/actors/newton/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Robbie</title>
+      <link>http://localhost:1313/actors/robbie/</link>
+      <pubDate>Wed, 16 Oct 2024 10:46:10 +0530</pubDate>
+      <guid>http://localhost:1313/actors/robbie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Winslet</title>
+      <link>http://localhost:1313/actors/winslet/</link>
+      <pubDate>Wed, 16 Oct 2024 10:46:10 +0530</pubDate>
+      <guid>http://localhost:1313/actors/winslet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Charles</title>
+      <link>http://localhost:1313/actors/charles/</link>
+      <pubDate>Wed, 16 Oct 2024 10:45:15 +0530</pubDate>
+      <guid>http://localhost:1313/actors/charles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wise</title>
+      <link>http://localhost:1313/actors/wise/</link>
+      <pubDate>Wed, 16 Oct 2024 10:45:15 +0530</pubDate>
+      <guid>http://localhost:1313/actors/wise/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lollobrigida</title>
+      <link>http://localhost:1313/actors/lollobrigida/</link>
+      <pubDate>Wed, 16 Oct 2024 10:44:27 +0530</pubDate>
+      <guid>http://localhost:1313/actors/lollobrigida/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Loren</title>
+      <link>http://localhost:1313/actors/loren/</link>
+      <pubDate>Wed, 16 Oct 2024 10:44:27 +0530</pubDate>
+      <guid>http://localhost:1313/actors/loren/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pitt</title>
+      <link>http://localhost:1313/actors/pitt/</link>
+      <pubDate>Wed, 16 Oct 2024 10:43:36 +0530</pubDate>
+      <guid>http://localhost:1313/actors/pitt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Affleck</title>
+      <link>http://localhost:1313/actors/affleck/</link>
+      <pubDate>Wed, 16 Oct 2024 10:42:58 +0530</pubDate>
+      <guid>http://localhost:1313/actors/affleck/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Armas</title>
+      <link>http://localhost:1313/actors/armas/</link>
+      <pubDate>Wed, 16 Oct 2024 10:42:58 +0530</pubDate>
+      <guid>http://localhost:1313/actors/armas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Firth</title>
+      <link>http://localhost:1313/actors/firth/</link>
+      <pubDate>Wed, 16 Oct 2024 10:42:21 +0530</pubDate>
+      <guid>http://localhost:1313/actors/firth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Haenman</title>
+      <link>http://localhost:1313/actors/haenman/</link>
+      <pubDate>Wed, 16 Oct 2024 10:42:21 +0530</pubDate>
+      <guid>http://localhost:1313/actors/haenman/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kumar</title>
+      <link>http://localhost:1313/actors/kumar/</link>
+      <pubDate>Wed, 16 Oct 2024 10:41:06 +0530</pubDate>
+      <guid>http://localhost:1313/actors/kumar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marple</title>
+      <link>http://localhost:1313/actors/marple/</link>
+      <pubDate>Wed, 16 Oct 2024 10:41:06 +0530</pubDate>
+      <guid>http://localhost:1313/actors/marple/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Willis</title>
+      <link>http://localhost:1313/actors/willis/</link>
+      <pubDate>Wed, 16 Oct 2024 10:41:06 +0530</pubDate>
+      <guid>http://localhost:1313/actors/willis/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
