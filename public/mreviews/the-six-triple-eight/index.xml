@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Six Triple Eight on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/the-six-triple-eight/</link>
+    <description>Recent content in The Six Triple Eight on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Dec 2024 08:18:35 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/the-six-triple-eight/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Six Triple Eight</title>
+      <link>http://localhost:1313/reviews/the-six-triple-eight/</link>
+      <pubDate>Mon, 23 Dec 2024 08:18:35 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/the-six-triple-eight/</guid>
+      <description>&lt;p&gt;Prolific filmmaker Tyler Perry&amp;rsquo;s latest is a departure from his usual fare. The actor-director tells the story of the inspiring women of the 6888th Central Postal Directory Battalion, the only all-Black unit of the Women&amp;rsquo;s Army Corps that served in Europe. It is a tale not many were aware of, and the movie highlights how the women endured and served with dedication despite the odds against them.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

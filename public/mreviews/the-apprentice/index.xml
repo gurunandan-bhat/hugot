@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Apprentice on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/the-apprentice/</link>
+    <description>Recent content in The Apprentice on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Oct 2024 13:30:38 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/the-apprentice/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Apprentice</title>
+      <link>http://localhost:1313/reviews/the-apprentice-2/</link>
+      <pubDate>Sat, 19 Oct 2024 13:30:38 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/the-apprentice-2/</guid>
+      <description>&lt;p&gt;Former United States president and presidential candidate Donald Trump went on a rant recently on filmmaker Ali Abbasi&amp;rsquo;s latest film The Apprentice, which narrates the Republican&amp;rsquo;s initial years as a real estate giant in New York and his relationship with attorney Roy Cohn. Perhaps, Trump&amp;rsquo;s reaction stems from information that is fed to him because had he watched the film, he may have only objected to certain aspects of Abbasi&amp;rsquo;s provocative film and not ranted about it in its entirety.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Apprentice</title>
+      <link>http://localhost:1313/reviews/the-apprentice/</link>
+      <pubDate>Thu, 17 Oct 2024 20:15:13 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/the-apprentice/</guid>
+      <description>&lt;p&gt;The Apprentice is one of the film that no one asked for but now that its here you can&amp;rsquo;t look away from it. The direction, cinematography, lighting, sets and most of all the performances all are worth praising but the film majorly avoids taking sides. For first half it makes you like Trump and for the other the pre-existing hate returns, so it doesn&amp;rsquo;t really add to his public narrative, the reason for its existence left questioning. But the film is worth the watch for its art.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

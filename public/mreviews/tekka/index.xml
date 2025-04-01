@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tekka on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/tekka/</link>
+    <description>Recent content in Tekka on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Oct 2024 08:29:17 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/tekka/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tekka</title>
+      <link>http://localhost:1313/reviews/tekka/</link>
+      <pubDate>Wed, 16 Oct 2024 08:29:17 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/tekka/</guid>
+      <description>&lt;p&gt;The film’s story is pretty much what you have seen in the trailer. For those who are uninitiated, here is the plot in brief. Iqlakh (Dev) loses his job, randomly kidnaps a young girl Avantika (Aameya) from her school, and takes her hostage. He demands to get his job back. Maya (Rukmini Maitra) from Kolkata Police comes to negotiate. Even after his company&amp;rsquo;s maintenance manager (Anirban Bhattacharya) verbally promises to give his job back to him, he demands the owner of the firm Anubrata Adhikari (Paran Bandyopadhyay) to come personally. Meanwhile, in a turn of events, little Aratrika’s mother Ira (Swastika Mukherjee) hunts down Iqlakh’s house and takes hostage of his little boy.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

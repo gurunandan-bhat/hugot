@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paradise on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/paradise/</link>
+    <description>Recent content in Paradise on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Dec 2024 21:37:03 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/paradise/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paradise</title>
+      <link>http://localhost:1313/reviews/paradise/</link>
+      <pubDate>Sun, 08 Dec 2024 21:37:03 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/paradise/</guid>
+      <description>&lt;p&gt;Filmmaker Prasanna Vithanage’s Paradise is a Sri Lankan-Indian joint venture produced by Newton Cinema and presented by Mani Ratnam’s Madras Talkies. The movie is a tri-lingual in English, Sinhala and Malayalam. Paradise tells the story of a couple from Kerala, Kesav (Roshan Mathew) and Amritha (Darshana Rajendran), who visit a hill station in Sri Lanka to celebrate their fifth wedding anniversary. Their trip coincides with the mass protests in April 2022 after the country declares bankruptcy. Hence, there are agitations at various places for basic necessities of life.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

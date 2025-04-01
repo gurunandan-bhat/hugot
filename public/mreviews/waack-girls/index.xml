@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Waack Girls on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/waack-girls/</link>
+    <description>Recent content in Waack Girls on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Nov 2024 09:14:59 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/waack-girls/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Waack Girls</title>
+      <link>http://localhost:1313/reviews/waack-girls/</link>
+      <pubDate>Fri, 22 Nov 2024 09:14:59 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/waack-girls/</guid>
+      <description>&lt;p&gt;An underdog dance group making something of itself: right from the opening frame of Waack Girls, you know that this will be the trajectory of this rag-tag bunch, based in Kolkata. But this Sooni Taraporevala-created-and-directed nine part series attempts to build in differentials. First off, Kolkata is still not a city you’d think of when it comes to street style dancing and underground meetings where dance-offs occur. A lovely Cal feeling is captured in a crumbling old mansion, in a tony club, in the corner puchka-wala, and in the accents people use. You do see some familiar structures on the skyline, like the Howrah Bridge, but they are just there, no emphasis laid. That is refreshing.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

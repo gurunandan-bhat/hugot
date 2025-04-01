@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vanvaas on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/vanvaas/</link>
+    <description>Recent content in Vanvaas on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Dec 2024 08:20:33 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/vanvaas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vanvaas</title>
+      <link>http://localhost:1313/reviews/vanvaas/</link>
+      <pubDate>Mon, 23 Dec 2024 08:20:33 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/vanvaas/</guid>
+      <description>&lt;p&gt;The core premise is potent with possibilities for an empathetic experience. When elderly Deepak Tyagi (Nana Patekar), battling dementia, is abandoned in crowded Banaras by his hard-hearted family of three sons and their wives, his journey back home and comeuppance for the callous is an emotional space. Co-writing with Amjad Ali and Sunil Sirvaiya, director Anil Sharma places the family property named Vimla Sadan in a picturesque, snow-laden Palampur in Himachal Pradesh. Tyagi has plans of turning it into a trust. His sons and daughters-in-law who want to get their hands on the money, would rather desert him in faraway Banaras with no papers to identify him than let him sign the deed. It is tough for a man with memory lapses to survive.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

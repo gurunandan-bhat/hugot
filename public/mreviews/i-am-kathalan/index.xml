@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I Am Kathalan on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/i-am-kathalan/</link>
+    <description>Recent content in I Am Kathalan on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Nov 2024 11:29:27 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/i-am-kathalan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Am Kathalan</title>
+      <link>http://localhost:1313/reviews/i-am-kathalan/</link>
+      <pubDate>Fri, 08 Nov 2024 11:29:27 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/i-am-kathalan/</guid>
+      <description>&lt;p&gt;If there exists a parallel world where losers are guaranteed to find salvation, Girish A.D’s characters would probably be the rulers of that world. Down and out protagonists have been a common factor in all his films till date, be it Thanneer Mathan Dinangal or Super Sharanya or Premalu. His latest outing I Am Kathalan is no different, but just as always, he brings the same underlying theme in a different packaging.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

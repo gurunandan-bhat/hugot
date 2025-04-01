@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Black Doves on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/black-doves/</link>
+    <description>Recent content in Black Doves on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Dec 2024 11:35:57 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/black-doves/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Black Doves</title>
+      <link>http://localhost:1313/reviews/black-doves/</link>
+      <pubDate>Thu, 19 Dec 2024 11:35:57 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/black-doves/</guid>
+      <description>&lt;p&gt;In the almost criminally enjoyable new Netflix series Black Doves, Keira Knightley and Ben Whishaw play a chic housewife and her gay best friend who just happen to be covert operatives. They straddle dual identities, as does the show, which can often juggle tones with the deftness of a circus performer. Black Doves is at once a complex espionage thriller, a cheekily humorous dark comedy, and when it needs to be, a dreary domestic drama. It soars on the strength of its two central performances, and writing that is both self-aware and endearingly sincere.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

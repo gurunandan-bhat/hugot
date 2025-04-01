@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Young Hearts on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/young-hearts/</link>
+    <description>Recent content in Young Hearts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Dec 2024 20:43:47 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/young-hearts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Young Hearts</title>
+      <link>http://localhost:1313/reviews/young-hearts/</link>
+      <pubDate>Tue, 17 Dec 2024 20:43:47 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/young-hearts/</guid>
+      <description>&lt;p&gt;Sometimes, the most gentle turns in a film can create a considerable emotional impact on the viewer. The filmmaker need not necessarily move a mountain to achieve that. Belgian filmmaker Anthony Schatteman’s Young Hearts, with its fresh take on teenage gay romance, is filled with several such moments that flow organically one after the other. Being screened in the World Cinema section at the 29th International Film Festival of Kerala (IFFK), this rather small film about young people has gained appreciation amid a flurry of bigger films boasting wider festival play.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

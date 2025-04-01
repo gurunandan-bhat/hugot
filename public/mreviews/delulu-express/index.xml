@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Delulu Express on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/delulu-express/</link>
+    <description>Recent content in Delulu Express on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Mar 2025 09:58:33 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/delulu-express/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Delulu Express</title>
+      <link>http://localhost:1313/reviews/delulu-express/</link>
+      <pubDate>Fri, 28 Mar 2025 09:58:33 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/delulu-express/</guid>
+      <description>&lt;p&gt;Watching a Zakir Khan stand-up special is like watching that funny friend from your childhood actually find his true calling. It’s sort of moving, because you know for a fact that none of those friends took their talent seriously. Society simply reduces them to a personality type — the witty guy, the joker, the attention seeker, the mischief monger, the crowd pleaser, the yapper. If anything, they barely recognise it as a talent. Khan’s sets often feel like an authentication of such transient, everyday humour. His languid delivery expands the most ordinary details into mini-narratives of being alive. Which is to say: Zakir Khan isn’t a comedian; he’s a very good storyteller with comic timing. He isn’t really funny; he’s funnily real.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

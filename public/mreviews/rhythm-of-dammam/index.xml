@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rhythm of Dammam on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/rhythm-of-dammam/</link>
+    <description>Recent content in Rhythm of Dammam on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Nov 2024 14:35:20 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/rhythm-of-dammam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rhythm of Dammam</title>
+      <link>http://localhost:1313/reviews/rhythm-of-dammam/</link>
+      <pubDate>Sat, 30 Nov 2024 14:35:20 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/rhythm-of-dammam/</guid>
+      <description>&lt;p&gt;The Siddis, a community unrepresented in Indian cinema, is under the spotlight in Rhythm of Dammam, an exceptionally evocative, visually arresting film written and directed by Kerala-born, New York-based Jayan Cherian. The film premiered this week at the 55th International Film Festival of India in Goa. It is now headed to the International Competition line-up of the upcoming 29th International Film Festival of Kerala.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moana 2 on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/moana-2/</link>
+    <description>Recent content in Moana 2 on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Nov 2024 14:43:37 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/moana-2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moana 2</title>
+      <link>http://localhost:1313/reviews/moana-2/</link>
+      <pubDate>Sat, 30 Nov 2024 14:43:37 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/moana-2/</guid>
+      <description>&lt;p&gt;Moana is back for another adventure! Whether that’s even necessary is a different question considering the first film, which came out eight years ago, was one of Walt Disney Animation films’ best outings of all time and a well-rounded product on its own. Our titular hero became a wayfinder, turned buddies with the demigod Maui by retrieving his fishhook and in due course, took her fellow Motunui people back into the sea as voyagers like how their ancestors once were. Moana 2 puts our heroes back in the open ocean on a new adventure that makes us wonder what’s the sea creature equivalent of a cash cow.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

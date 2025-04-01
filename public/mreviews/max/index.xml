@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Max on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/max/</link>
+    <description>Recent content in Max on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Feb 2025 00:02:47 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/max/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Max</title>
+      <link>http://localhost:1313/reviews/max/</link>
+      <pubDate>Sun, 23 Feb 2025 00:02:47 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/max/</guid>
+      <description>&lt;p&gt;It takes a certain kind of courage to write a one-note film and pack it with well-choreographed action set pieces without any of the trappings (barring an item number, sigh!) of a film where the hero is the saviour. For instance, the traditional mother sentiment is turned on its head — with the mother (Sudha Belawadi) telling others that the families of those in the police force should be brave — and there’s no romance angle that diverts the hero from his grand goal. This is one of the main reasons the film races past at a spiff two hours and 13 minutes. But what debut director Vijay Karthikeyaa has with him is an action star of Sudeep’s calibre. This is the kind of role Sudeep can do with his eyes closed — show brawn, fight, and casually spread his charisma around. And, he delights his core fan base with this film where he does all the things they’ve come to expect of him — kickass action, punch dialogues and a certain swagger that, strangely, comes effortlessly to someone also capable of deep nuance and sensitivity.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

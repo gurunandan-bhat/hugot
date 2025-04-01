@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Disclaimer on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/disclaimer/</link>
+    <description>Recent content in Disclaimer on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Oct 2024 22:47:06 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/disclaimer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disclaimer</title>
+      <link>http://localhost:1313/reviews/disclaimer/</link>
+      <pubDate>Fri, 11 Oct 2024 22:47:06 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/disclaimer/</guid>
+      <description>&lt;p&gt;Gravity and Roma director Alfonso Cuarón&amp;rsquo;s latest project, Disclaimer, is a fascinating and at times uncomfortable drama about a woman accused of being heartless in her past. Oscar winning actress Cate Blanchett steps up to play the aloof Catherine Ravenscroft who finds her perfect life falling apart with the publication of a book. Kevin Kline plays a former teacher who relishes the chance to teach her a lesson. The Apple TV+ series is a riveting story that unfolds chapter by chapter, like a novel.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spellbound on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/spellbound/</link>
+    <description>Recent content in Spellbound on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Nov 2024 08:21:48 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/spellbound/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spellbound</title>
+      <link>http://localhost:1313/reviews/spellbound/</link>
+      <pubDate>Sat, 30 Nov 2024 08:21:48 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/spellbound/</guid>
+      <description>&lt;p&gt;Skydance Animation&amp;rsquo;s second film, Spellbound, updates family dynamics in a modern way, letting kids know that sometimes happily ever after doesn&amp;rsquo;t work out. Shrek director Vicky Jensen helms this refreshing but overlong story of a teenage girl trying to undo a spell on her parents that has turned them into literal monsters. The colourfully appealing but flat world of Lumbria makes way for a quest for the royal trio in this well-meaning musical.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

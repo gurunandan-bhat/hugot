@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaalratri on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/kaalratri/</link>
+    <description>Recent content in Kaalratri on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Dec 2024 01:21:26 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/kaalratri/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kaalratri</title>
+      <link>http://localhost:1313/reviews/kaalratri/</link>
+      <pubDate>Tue, 17 Dec 2024 01:21:26 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/kaalratri/</guid>
+      <description>&lt;p&gt;Devi (Soumitrisha), who only remembers the past six years of her life, gets married to Rudra Roy Burman (Indrasish Roy) — a drunkard and lecherous son of Samaresh Roy Burman (Debesh Chattopadhyay). Devi’s mysterious friend Maya (Koushani Mukherjee) — known for her ominous presence – predicts that Rudra will die the next day after their marriage. Her prediction becomes real.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

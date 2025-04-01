@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blitz on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/blitz/</link>
+    <description>Recent content in Blitz on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Nov 2024 08:19:51 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/blitz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blitz</title>
+      <link>http://localhost:1313/reviews/blitz/</link>
+      <pubDate>Sat, 30 Nov 2024 08:19:51 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/blitz/</guid>
+      <description>&lt;p&gt;12 Years a Slave director Steve McQueen takes audiences through the life of a Londoner during the German blitzkrieg of their city during World War II. The Apple TV+ feature Blitz has more of a child&amp;rsquo;s perspective as a young boy named George escapes back to his mother after being sent away for evacuation. We see the good and bad of the times through his eyes as he loses his innocence during his misadventure.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

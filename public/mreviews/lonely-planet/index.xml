@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lonely Planet on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/lonely-planet/</link>
+    <description>Recent content in Lonely Planet on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Oct 2024 22:56:58 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/lonely-planet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lonely Planet</title>
+      <link>http://localhost:1313/reviews/lonely-planet/</link>
+      <pubDate>Fri, 11 Oct 2024 22:56:58 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/lonely-planet/</guid>
+      <description>&lt;p&gt;A foreign locale, two individuals at a crossroads&amp;hellip; on the surface, the Netflix film Lonely Planet had the right ingredients. But the Susannah Grant film does nothing with it. Starring Laura Dern as an established writer and Liam Hemsworth as a finance guy who meet at a retreat in Morocco, the film wastes our time with their ineffectual romance. It ends up being a tourism guide for the country.&lt;/p&gt;&#xA;&lt;p&gt;Dern is Katherine Loewe, who attends the Morocco retreat to finish upcoming book in peace. Hemsworth is Owen, who tags along to support his writer girlfriend Lily (Diana Silvers) after the success of her first book. Katherine and Owen meet and strike up an odd friendship as they divulge secrets about their lives. Their connection gets romantic, but there seems to be something missing between them.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Count of Monte Cristo on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/the-count-of-monte-cristo/</link>
+    <description>Recent content in The Count of Monte Cristo on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Feb 2025 19:56:25 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/the-count-of-monte-cristo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Count of Monte Cristo</title>
+      <link>http://localhost:1313/reviews/the-count-of-monte-cristo/</link>
+      <pubDate>Thu, 20 Feb 2025 19:56:25 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/the-count-of-monte-cristo/</guid>
+      <description>&lt;p&gt;The 2024 version of The Count of Monte Cristo, starring Pierre Niney, is a stunning and faithful adaptation of Alexandre Dumas&amp;rsquo;s 1844 novel about a man who exacts revenge on those who wronged him. Beautifully brought to the screen, the film is one of the most expensive films made in France. This is the kind of film Hollywood has forgotten to tell. Niney&amp;rsquo;s mesmerising performance as the vengeful Count is the main reason to tune into the film.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mazaka on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/mazaka/</link>
+    <description>Recent content in Mazaka on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Mar 2025 19:03:44 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/mazaka/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mazaka</title>
+      <link>http://localhost:1313/reviews/mazaka/</link>
+      <pubDate>Mon, 03 Mar 2025 19:03:44 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/mazaka/</guid>
+      <description>&lt;p&gt;Reviewing a film often involves stating the obvious: an interesting or amusing idea does not always translate into an engaging cinematic experience. Yet, after watching director Trinadha Rao Nakkina’s Telugu comedy Mazaka, written by Prasanna Kumar Bezawada, it feels necessary to reiterate this point. The writer-director duo take a premise with potential for outrageous humour but dilute it with predictable tropes, making the film tedious. The saving grace is the performances of Sundeep Kishan, Rao Ramesh, and Ritu Varma, though even they can only do so much to redeem the narrative. The film opens with a morning walker discovering a trail of red leading to two men washed up on Visakhapatnam beach. Alarmed, he alerts the police, only for the inspector (Ajay) to find that the men — Krishna (Sundeep Kishan) and his father Ramana (Rao Ramesh) — are not injured but simply hungover. The red stain, in fact, comes from a packet of avakaya (mango pickle) in their shirt pockets. The inspector, who is struggling with writer’s block while working on a novel, takes an interest in their story. The absurdity of the situation sets the tone for mindless fun and signals to the audience not to take anything too seriously — or ask too many questions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

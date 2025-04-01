@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anora on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/anora/</link>
+    <description>Recent content in Anora on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2024 14:39:36 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/anora/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anora</title>
+      <link>http://localhost:1313/reviews/anora/</link>
+      <pubDate>Tue, 29 Oct 2024 14:39:36 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/anora/</guid>
+      <description>&lt;p&gt;A lot of the splendour in Sean Baker’s Anora lies in its treatment – where we might be shown one thing, but deliberately made to feel something else. For example, the film opens with a discomfiting panning shot featuring barely-clothed exotic dancers performing with neon lights around them. However, Baker scores this scene with a loud, winsome techno song taking what is a distressing visual of young women forced to work a job that fetishises them, and drains the self-pity out of it.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

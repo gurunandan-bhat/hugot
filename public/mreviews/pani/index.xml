@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pani on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/pani/</link>
+    <description>Recent content in Pani on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2024 14:08:17 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/pani/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pani</title>
+      <link>http://localhost:1313/reviews/pani/</link>
+      <pubDate>Tue, 29 Oct 2024 14:08:17 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/pani/</guid>
+      <description>&lt;p&gt;When a gruesome murder happens in broad daylight at the beginning of a film, one expects the murder to be the major event around which everything else will revolve. But Joju George’s Pani really takes off from a smaller fight that Don (Sagar Surya) and Siju (V.P.Junaiz), the two murderers, get involved in at a supermarket later in the day.&lt;/p&gt;&#xA;&lt;p&gt;In the few sequences leading up to that supermarket incident, we realise that something has changed in the two, novices in the world of crime, heady with the excitement over the money that they were about to get from their first hit. They have tasted blood and now there is no going back. Only that, this time, their paths cross with that of Giri (Joju George), part of a mafia syndicate that is ruling over Thrissur city. But the animal instincts that had kicked in would turn the two into hunters, rather than the hunted.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

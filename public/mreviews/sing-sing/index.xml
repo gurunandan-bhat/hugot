@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sing Sing on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/sing-sing/</link>
+    <description>Recent content in Sing Sing on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Mar 2025 20:29:32 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/sing-sing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sing Sing</title>
+      <link>http://localhost:1313/reviews/sing-sing/</link>
+      <pubDate>Sat, 22 Mar 2025 20:29:32 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/sing-sing/</guid>
+      <description>&lt;p&gt;Perhaps the single greatest scene in any movie released last year was the one where Colman Domingo’s character — a convict named Divine G — pleads his case during a clemency hearing in the startling prison drama Sing Sing. He tells the examining committee about the theatre programme that he has spearheaded at the facility, and how uplifting the experience has been not just for him, but each and every prisoner who has participated in it. The scene purposefully recalls the many similar moments in The Shawshank Redemption, in which a hopeful Red, played by Morgan Freeman, desperately begs for mercy. It isn’t a flashy scene, but one that relies almost entirely on Domingo’s (mostly reactionary) performance — easily the best that he has delivered in his career. The same is true of the film itself. Directed by Greg Kwedar, Sing Sing debuted on Max after a negligible theatrical run abroad. Based on the real-life Rehabilitation Through the Arts programme that is conducted at the Sing Sing Correctional Facility in New York, the movie features a handful of ex-convicts playing semi-fictionalised versions of themselves. This gives it a layer of authenticity that would’ve been difficult to achieve with professional actors. There’s a rawness to the drama that’s mostly missing from mainstream American cinema these days, although Sing Sing — the movie premiered at Sundance in 2023 — doesn’t exactly qualify as mainstream.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

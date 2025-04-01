@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Judy on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/judy/</link>
+    <description>Recent content in Judy on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Nov 2024 10:50:17 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/judy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Judy</title>
+      <link>http://localhost:1313/reviews/judy/</link>
+      <pubDate>Sat, 30 Nov 2024 10:50:17 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/judy/</guid>
+      <description>&lt;p&gt;Being a child star is not a thing to envy. Judy, a musical drama, is both a warm and loving tribute to the actor and singer Judy Garland as well as a cautionary tale about the pressures and impact of celebrity. Born Frances Ethel Gumm, Garland worked as an actor, dancer and singer for 45 of the 47 years she lived. The film opens with a 14-year-old Judy (Darci Shaw) being cast to play what would become the iconic part of Dorothy in The Wizard of Oz. The pressure of early stardom and humiliation fuelled insecurities as a harsh studio executive listed out her physical flaws. He described her as above average but exceptional because of her singing voice. A studio minder offered her pills to suppress her appetite and pills to help her sleep at night.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

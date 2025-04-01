@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>That Christmas on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/that-christmas/</link>
+    <description>Recent content in That Christmas on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Dec 2024 08:06:54 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/that-christmas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>That Christmas</title>
+      <link>http://localhost:1313/reviews/that-christmas/</link>
+      <pubDate>Mon, 23 Dec 2024 08:06:54 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/that-christmas/</guid>
+      <description>&lt;p&gt;More than two decades ago, Love Actually became the quintessential British Christmas film. The rom-com featured connected stories of love, family, and, of course, Christmas. Writer-director Richard Curtis&amp;rsquo;s latest holiday offering is a family film, That Christmas, that follows the same template, but even with the mighty touch of Santa Claus, it can&amp;rsquo;t recreate that one-of-a-kind feeling. However, for a younger audience, the craziness of the narrative might be just passable.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

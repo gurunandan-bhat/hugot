@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Akhil Arora on My New Hugo Site</title>
+    <link>http://localhost:1313/critics/akhil-arora/</link>
+    <description>Recent content in Akhil Arora on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Oct 2024 00:24:38 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/critics/akhil-arora/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agatha All Along</title>
+      <link>http://localhost:1313/reviews/agatha-all-along/</link>
+      <pubDate>Mon, 14 Oct 2024 00:24:38 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/agatha-all-along/</guid>
+      <description>&lt;p&gt;With WandaVision, creator Jac Schaeffer made it clear that she wasn’t interested in the standard approach to superhero fare. For most of its running, the Marvel TV show’s exploration of Wanda Maximoff’s grief over the loss of her partner Vision took the form of a sitcom spoof, one that barrelled through decades of the format—from black-and-white 4:3 aspect ratio to the meta recasting and costume choices—in an episodic fashion. Sure, Schaeffer struggled to usher her non-standard superhero show away from the climactic final-third tropes of the genre. But there was still a lot of fun to be had in WandaVision. It was the perfect possible start for Marvel’s new television-heavy era on Disney+ (though what has come after has been more miss than hit).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CTRL</title>
+      <link>http://localhost:1313/reviews/ctrl-8/</link>
+      <pubDate>Sat, 05 Oct 2024 08:20:36 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/ctrl-8/</guid>
+      <description>&lt;p&gt;CTRL lacks control. The new Indian Netflix original movie—directed and co-written by Vikramaditya Motwane—has a lot on its mind. It wishes to tackle the perils of building a business with your partner, the blurred lines between online validation and offline happiness, generational malaise and being severely attached to devices, and the dangers posed by Big Tech, deep fakes and generative AI models. There’s a lot more, some of it frivolous and the rest bordering on spoilers. And that’s exactly the problem—it cannot pick a lane. CTRL tries to pack in so much in its 100-minute runtime that it ends up doing none of it well. Worse, everything it does feels stale. We’ve heard and seen variations of this. Nothing it does shocks or surprises.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joy on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/joy/</link>
+    <description>Recent content in Joy on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Dec 2024 11:24:47 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/joy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Joy</title>
+      <link>http://localhost:1313/reviews/joy/</link>
+      <pubDate>Thu, 19 Dec 2024 11:24:47 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/joy/</guid>
+      <description>&lt;p&gt;A well-intentioned drama that teeters on the edge of self-parody, Joy is a film that absolutely deserved to be made, but certainly not in this form. Some years ago, the utterly forgotten The Current War had all the messy ingenuity that a film about the creation of literal electricity demanded — the movie’s tone captured the spirit of its themes. Joy, which dramatises the events leading up to the first in vitro fertilisation (IVF) birth, would have you believe that all conception — let alone that of the artificial kind — is a cakewalk.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

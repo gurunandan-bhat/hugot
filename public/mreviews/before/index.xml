@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Before on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/before/</link>
+    <description>Recent content in Before on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Oct 2024 19:48:18 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/before/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Before</title>
+      <link>http://localhost:1313/reviews/before/</link>
+      <pubDate>Sun, 27 Oct 2024 19:48:18 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/before/</guid>
+      <description>&lt;p&gt;Billy Crystal is known for his roles that show off his comedic range like Harry Met Sally&amp;hellip; and City Slickers. With his latest project, Before, the veteran actor is trying out a different side to his talent. He plays a grieving widower who finds purpose treating a young boy named Noah with unprocessed trauma. Written by creator Sarah Thorp, the psychological thriller delves into coincidences, fate and things science can&amp;rsquo;t explain. The Apple TV+ has a shaky narrative that gets repetitive fast and leaves its big reveal too late.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

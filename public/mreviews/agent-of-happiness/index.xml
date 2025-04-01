@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agent of Happiness on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/agent-of-happiness/</link>
+    <description>Recent content in Agent of Happiness on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Nov 2024 08:59:59 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/agent-of-happiness/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agent of Happiness</title>
+      <link>http://localhost:1313/reviews/agent-of-happiness/</link>
+      <pubDate>Sat, 30 Nov 2024 08:59:59 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/agent-of-happiness/</guid>
+      <description>&lt;p&gt;In the late 1970s, the king of Bhutan coined the term “gross national happiness&amp;quot;. GNH parameters are used to measure progress, well-being and happiness, placing their importance over economic pursuits alone. This programme has been pivotal in shaping development policies and governance in Bhutan, a landlocked nation in eastern Himalayas that is often ranked as one of the happiest in the world. Happiness surveyor Amber Kumar Gurung of the Happiness Centre is the subject of a new documentary, &lt;em&gt;Agent of Happiness&lt;/em&gt; (in competition at the MAMI Mumbai film festival 2024).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

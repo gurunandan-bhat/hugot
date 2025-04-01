@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Black on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/black/</link>
+    <description>Recent content in Black on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Oct 2024 00:04:36 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/black/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Black</title>
+      <link>http://localhost:1313/reviews/black/</link>
+      <pubDate>Sun, 13 Oct 2024 00:04:36 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/black/</guid>
+      <description>&lt;p&gt;The best part of Black is how it reels you in right in the first ten minutes. The film starts in 1964. There is a couple eloping with the help of a friend (Vivek Prasanna). It is raining like crazy. Their journey is briefly interrupted by a vehicle in the ditch. This vehicle carries a marble statue of a guardian angel. There is thunder and lightning. Soon enough, this friend, who has sinister intentions, hears two gunshots. He rushes in to ask the couple what happened? Cut to black. Literally. The title credits pop up, and we are in 2024.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MobLand on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/mobland/</link>
+    <description>Recent content in MobLand on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Mar 2025 00:18:07 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/mobland/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MobLand</title>
+      <link>http://localhost:1313/reviews/mobland/</link>
+      <pubDate>Sun, 30 Mar 2025 00:18:07 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/mobland/</guid>
+      <description>&lt;p&gt;The new crime drama, MobLand, directed by Guy Ritchie, holds all the hallmarks of the filmmaker. And yet there is something distinctive missing from the gritty gangster saga as Tom Hardy plays Harry Da Souza, a fixer left to clean up the many messes of the Harrigan family. So far, the nine-episode London-set series is keeping a cliffhanger for each chapter in trying to raise the tension. Ronan Bennett&amp;rsquo;s series has had a slow-moving start, but it needs to amp things up to match the intensity of Ritchie&amp;rsquo;s other projects. Hardy&amp;rsquo;s Harry has been loyally serving Conrad Harrigan (Pierce Brosnan) for a long time now. The fixer saves the old crime lord and every member of his family whenever they get in a bind. But we join the story at a bit of a power struggle between the Harrigans and their rivals, the Stevensons, before erupting into an all out war. As Harry tries to smoothen things over, his family life suffers as well. Who will be left standing at the end when the lines are all drawn out against family loyalties?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

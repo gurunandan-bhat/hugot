@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thadavu on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/thadavu/</link>
+    <description>Recent content in Thadavu on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Feb 2025 06:24:07 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/thadavu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thadavu</title>
+      <link>http://localhost:1313/reviews/thadavu/</link>
+      <pubDate>Wed, 26 Feb 2025 06:24:07 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/thadavu/</guid>
+      <description>&lt;p&gt;Human beings are bound to have a breaking point, the limit till which they can take all the pain and sufferings that life throws at them. Geetha, the protagonist of Fazil Razak’s Thadavu(The Sentence) being screened in the international competition category at the 28th International Film Festival of Kerala (IFFK), does not seem to have one. In the short period from the life of the 51-year old that we get to see in the film, she lands in one crisis after another, the latest one being more grave than the previous that it seems impossible that she would overcome it. But, for the woman scarred by two unsuccessful marriages and a series of unfortunate events, including being blamed for a child’s death for no fault of her own, the question of giving in does not arise.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

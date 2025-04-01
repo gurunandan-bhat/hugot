@@ -1,0 +1,14 @@
+{{ define "main" }}
+    <pre>critics/term.html</pre>
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+    {{ range .Pages }}
+        <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+        {{ $filmPage := (site.Taxonomies.mreviews.Get .Title).Page }}
+        {{ .Summary }}
+        <p>
+            All reviews of
+            <a href="{{ $filmPage.RelPermalink }}">{{ .Title }} here</a>
+        </p>
+    {{ end }}
+{{ end }}

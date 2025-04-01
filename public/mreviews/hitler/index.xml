@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hitler on My New Hugo Site</title>
+    <link>http://localhost:1313/mreviews/hitler/</link>
+    <description>Recent content in Hitler on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Oct 2024 08:15:02 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/mreviews/hitler/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hitler</title>
+      <link>http://localhost:1313/reviews/hitler/</link>
+      <pubDate>Sat, 05 Oct 2024 08:15:02 +0530</pubDate>
+      <guid>http://localhost:1313/reviews/hitler/</guid>
+      <description>&lt;p&gt;Vijay Antony is on a spree with his recent films. While his contemporaries rarely churn out a couple of releases each year, the music director-turned-actor starred in four films last year and his latest release Hitler marks his third outing of 2024. But given how almost all of them turned out to be underwhelming, it feels like he’s shooting for quantity over quality, and Hitler, unfortunately, is the latest addition to that list.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
