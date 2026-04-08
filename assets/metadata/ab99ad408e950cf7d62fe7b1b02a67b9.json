@@ -1,0 +1,182 @@
+{
+	"id": 44012,
+	"title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+	"original_title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+	"original_language": "fr",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "A lonely young widow lives with her son following an immutable order: while the boy is in school, she cares for their apartment, does chores, and receives clients in the afternoon.",
+	"backdrop_path": "/z81DzVg9lrBPr4M88ldmZ3FbBUY.jpg",
+	"poster_path": "/fqfSu8Y1YSVFkoCJyiTXI6woYma.jpg",
+	"release_date": "1976-01-21",
+	"credits": {
+		"cast": [
+			{
+				"id": 3508,
+				"order": 0,
+				"name": "Delphine Seyrig",
+				"profile_path": "/y9dTKRclY0UviYD5OuINL51tue7.jpg",
+				"character": "Jeanne Dielman",
+				"gender": 1
+			},
+			{
+				"id": 130032,
+				"order": 1,
+				"name": "Jan Decorte",
+				"profile_path": "/kwsoWlH2rsSYDCBHEXJ7KTyT674.jpg",
+				"character": "Sylvain Dielman",
+				"gender": 2
+			},
+			{
+				"id": 130033,
+				"order": 2,
+				"name": "Henri Storck",
+				"profile_path": "/hbOCma9IFYX4f8iNVegyEw2z5Aa.jpg",
+				"character": "1st Caller",
+				"gender": 2
+			},
+			{
+				"id": 130034,
+				"order": 3,
+				"name": "Jacques Doniol-Valcroze",
+				"profile_path": "/vWW3DBMNR5CIESZz0E01PjVBDXE.jpg",
+				"character": "2nd Caller",
+				"gender": 2
+			},
+			{
+				"id": 130035,
+				"order": 4,
+				"name": "Yves Bical",
+				"character": "3rd Caller"
+			},
+			{
+				"id": 130030,
+				"order": 5,
+				"name": "Chantal Akerman",
+				"profile_path": "/6Q59Air1EjLHfq8NvvBpbTTgnWZ.jpg",
+				"character": "Neighbor (voice) (uncredited)",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 1520931,
+				"name": "Jacky Dufour",
+				"job": "Sound Effects",
+				"department": "Sound"
+			},
+			{
+				"id": 130030,
+				"name": "Chantal Akerman",
+				"profile_path": "/6Q59Air1EjLHfq8NvvBpbTTgnWZ.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 130030,
+				"name": "Chantal Akerman",
+				"profile_path": "/6Q59Air1EjLHfq8NvvBpbTTgnWZ.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 1017426,
+				"name": "Babette Mangolte",
+				"profile_path": "/lW1aBFQVh4GNXtqZPFL8QTIlJQm.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 1
+			},
+			{
+				"id": 2151373,
+				"name": "Corinne Jénart",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 236535,
+				"name": "Paul Vecchiali",
+				"profile_path": "/asmAmxUh09s7mNbFXWuAaEossPX.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 238582,
+				"name": "Liliane de Kermadec",
+				"profile_path": "/naoXiH19ijv2aK3KpzMiyIqXaMl.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2151378,
+				"name": "Françoise Van Thienen",
+				"job": "Sound Recordist",
+				"department": "Sound"
+			},
+			{
+				"id": 1600185,
+				"name": "Éliane Marcus",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1542493,
+				"name": "Guy Cavagnac",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2151375,
+				"name": "Evelyne Paul",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1093088,
+				"name": "Alain Dahan",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1604607,
+				"name": "Bénie Deswarte",
+				"job": "Sound Recordist",
+				"department": "Sound"
+			},
+			{
+				"id": 2007039,
+				"name": "Alain Marchall",
+				"job": "Sound Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 1365894,
+				"name": "Philippe Graff",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1134239,
+				"name": "Jean-Pol Ferbus",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 5986172,
+				"name": "Patricia Canino",
+				"job": "Editor",
+				"department": "Editing"
+			}
+		]
+	}
+}

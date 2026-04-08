@@ -1,0 +1,218 @@
+{
+	"id": 30017,
+	"title": "Close-Up",
+	"original_title": "کلوزآپ ، نمای نزدیک",
+	"original_language": "fa",
+	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "This fiction-documentary hybrid uses a sensational real-life event—the arrest of a young man on charges that he fraudulently impersonated the well-known filmmaker Mohsen Makhmalbaf—as the basis for a stunning, multilayered investigation into movies, identity, artistic creation, and existence, in which the real people from the case play themselves.",
+	"backdrop_path": "/3t1qZqP1e17wQshpPKSqII1OogM.jpg",
+	"poster_path": "/m9HG2N9ZKCmNN9qOHJTNyy18wn3.jpg",
+	"release_date": "1990-05-09",
+	"credits": {
+		"cast": [
+			{
+				"id": 1118644,
+				"order": 0,
+				"name": "Hossain Sabzian",
+				"profile_path": "/oHItibnsFtvoK7nHMqizLhjkcFc.jpg",
+				"character": "Self",
+				"gender": 2
+			},
+			{
+				"id": 143370,
+				"order": 1,
+				"name": "Monoochehr Ahankhah",
+				"character": "Self"
+			},
+			{
+				"id": 143371,
+				"order": 2,
+				"name": "Mahrokh Ahankhah",
+				"character": "Self"
+			},
+			{
+				"id": 1118645,
+				"order": 3,
+				"name": "Abolfazl Ahankhah",
+				"character": "Self",
+				"gender": 2
+			},
+			{
+				"id": 1118646,
+				"order": 4,
+				"name": "Mehrdad Ahankhah",
+				"character": "Self"
+			},
+			{
+				"id": 143372,
+				"order": 5,
+				"name": "Nayer Mohseni Zonoozi",
+				"character": "Self",
+				"gender": 1
+			},
+			{
+				"id": 1118648,
+				"order": 6,
+				"name": "Hossain Farazmand",
+				"character": "Reporter",
+				"gender": 2
+			},
+			{
+				"id": 1118647,
+				"order": 7,
+				"name": "Ahmad Reza Moayed Mohseni",
+				"character": "Family Friend"
+			},
+			{
+				"id": 1118649,
+				"order": 8,
+				"name": "Hooshang Shamaei",
+				"character": "Taxi Driver"
+			},
+			{
+				"id": 1118650,
+				"order": 9,
+				"name": "Mohammad Ali Barrati",
+				"character": "Soldier"
+			},
+			{
+				"id": 1118651,
+				"order": 10,
+				"name": "Davood Goodarzi",
+				"character": "Sergeant"
+			},
+			{
+				"id": 1118652,
+				"order": 11,
+				"name": "Haj Ali Reza Ahmadi",
+				"character": "Judge"
+			},
+			{
+				"id": 1118653,
+				"order": 12,
+				"name": "Hassan Komaili",
+				"character": "Court Recorder"
+			},
+			{
+				"id": 1118654,
+				"order": 13,
+				"name": "Davood Mohabbat",
+				"character": "Court Recorder"
+			},
+			{
+				"id": 3116896,
+				"order": 14,
+				"name": "Hassan Farazmand",
+				"character": "Self"
+			},
+			{
+				"id": 3116898,
+				"order": 15,
+				"name": "Hushang Shahai",
+				"character": "Self"
+			},
+			{
+				"id": 120226,
+				"order": 16,
+				"name": "Mohsen Makhmalbaf",
+				"profile_path": "/4QvsWx8DkKnomRfnfbSQRocRBEQ.jpg",
+				"character": "Self",
+				"gender": 2
+			},
+			{
+				"id": 119294,
+				"order": 17,
+				"name": "Abbas Kiarostami",
+				"profile_path": "/rTlz5ciu41FxyVuXA82a3tSYVZ8.jpg",
+				"character": "Self",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 119294,
+				"name": "Abbas Kiarostami",
+				"profile_path": "/rTlz5ciu41FxyVuXA82a3tSYVZ8.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 119294,
+				"name": "Abbas Kiarostami",
+				"profile_path": "/rTlz5ciu41FxyVuXA82a3tSYVZ8.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 119294,
+				"name": "Abbas Kiarostami",
+				"profile_path": "/rTlz5ciu41FxyVuXA82a3tSYVZ8.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1118641,
+				"name": "Ali Reza Zarrin",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1118642,
+				"name": "Ali Reza Zarrindast",
+				"profile_path": "/bJ1SiajZTYSv3aYnVdblFlk6UZt.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 3523611,
+				"name": "Mohammad Haghighi",
+				"job": "Sound",
+				"department": "Sound"
+			},
+			{
+				"id": 1666118,
+				"name": "Jahangir Mirshekari",
+				"job": "Sound",
+				"department": "Sound"
+			},
+			{
+				"id": 3604406,
+				"name": "Farima Zand-Pour",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1118643,
+				"name": "Hassan Aghakarimi",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3219337,
+				"name": "Hassan Zahedi",
+				"job": "Sound",
+				"department": "Sound"
+			},
+			{
+				"id": 1546136,
+				"name": "Ahmad Asgari",
+				"job": "Sound",
+				"department": "Sound"
+			}
+		]
+	}
+}

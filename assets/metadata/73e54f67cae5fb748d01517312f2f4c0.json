@@ -1,0 +1,338 @@
+{
+	"id": 43904,
+	"title": "L'Atalante",
+	"original_title": "L'Atalante",
+	"original_language": "fr",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 10749,
+			"name": "Romance"
+		}
+	],
+	"overview": "Newly married couple Juliette and ship captain Jean struggle through marriage as they travel on the L'Atalante along with the captain's first mate and a cabin boy.",
+	"backdrop_path": "/dFbCil5MUoRX2s4u2XcK7knJpT.jpg",
+	"poster_path": "/qg3PQG6QeFpcg45XhYQpsYcabna.jpg",
+	"release_date": "1934-04-24",
+	"credits": {
+		"cast": [
+			{
+				"id": 12748,
+				"order": 0,
+				"name": "Michel Simon",
+				"profile_path": "/cB7x5hkjMEd2fsVC86tIpEZ9jff.jpg",
+				"character": "Père Jules",
+				"gender": 2
+			},
+			{
+				"id": 11545,
+				"order": 1,
+				"name": "Dita Parlo",
+				"profile_path": "/kbCBLwzBRgbb91mi5vjnnDWOzlM.jpg",
+				"character": "Juliette",
+				"gender": 1
+			},
+			{
+				"id": 11550,
+				"order": 2,
+				"name": "Jean Dasté",
+				"profile_path": "/j85NbYeqdwOqjcJ7uviE19cf1dt.jpg",
+				"character": "Jean",
+				"gender": 2
+			},
+			{
+				"id": 142918,
+				"order": 3,
+				"name": "Gilles Margaritis",
+				"profile_path": "/iFmjjsy3RcKAcmHEpXjKBXky9pU.jpg",
+				"character": "Peddler",
+				"gender": 2
+			},
+			{
+				"id": 142915,
+				"order": 4,
+				"name": "Louis Lefebvre",
+				"profile_path": "/1CgLIFGhcWjFso2res6mMcAp3ni.jpg",
+				"character": "Cabin Boy",
+				"gender": 2
+			},
+			{
+				"id": 142919,
+				"order": 5,
+				"name": "Maurice Gilles",
+				"character": "Office Manager",
+				"gender": 2
+			},
+			{
+				"id": 142914,
+				"order": 6,
+				"name": "Raphaël Diligent",
+				"profile_path": "/xbeIZRICJzIFRtJcd4nuS4o3GNT.jpg",
+				"character": "Raspoutine, the boatman",
+				"gender": 2
+			},
+			{
+				"id": 1831912,
+				"order": 7,
+				"name": "Claude Aveline",
+				"character": "(uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1986204,
+				"order": 8,
+				"name": "René Blech",
+				"character": "Best Man at Wedding (uncredited)"
+			},
+			{
+				"id": 1446931,
+				"order": 9,
+				"name": "Lou Bonin",
+				"character": "Passenger at Railway Station (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 247601,
+				"order": 10,
+				"name": "Charles Dorat",
+				"profile_path": "/92UdM56tdYl60JvQyVXaWfgN40z.jpg",
+				"character": "Thief (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1986212,
+				"order": 11,
+				"name": "Genya Lozinska",
+				"character": "Fortune Teller (uncredited)"
+			},
+			{
+				"id": 1986215,
+				"order": 12,
+				"name": "Gen Paul",
+				"character": "Master of Ceremonies at Wedding (uncredited)"
+			},
+			{
+				"id": 25162,
+				"order": 13,
+				"name": "Jacques Prévert",
+				"character": "Passenger at Railway Station (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1057981,
+				"order": 14,
+				"name": "Pierre Prévert",
+				"profile_path": "/dJ7r8m9x36lGLc5mbZqiYRx5kx3.jpg",
+				"character": "Traveler in a Hurry (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 142917,
+				"order": 15,
+				"name": "Albert Riéra",
+				"character": "(uncredited)"
+			},
+			{
+				"id": 133184,
+				"order": 16,
+				"name": "Jacques Brunius",
+				"profile_path": "/hqqG2bwf69X2RXHs5AbwQSJlexb.jpg",
+				"character": "Policeman with a Bicycle (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 239033,
+				"order": 17,
+				"name": "Paul Grimault",
+				"profile_path": "/xh1VuiRvX98orBhubcyQQIpJFLn.jpg",
+				"character": "Passenger at Railway Station (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2311043,
+				"order": 18,
+				"name": "Fanny Clair",
+				"character": "Juliette's Mother (uncredited)"
+			},
+			{
+				"id": 1965940,
+				"order": 19,
+				"name": "Kani Kıpçak",
+				"profile_path": "/aGZQS6Ka2Uyf0fizvK0pm22Ilmt.jpg",
+				"character": "Jackie Jackmark (uncredited)",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 142865,
+				"name": "Jean Vigo",
+				"profile_path": "/zhrrNzuGZgUVY5sz5RdpPlrQral.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1118847,
+				"name": "Jacques-Louis Nounez",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 18479,
+				"name": "Maurice Jaubert",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 102862,
+				"name": "Louis Chavance",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1118849,
+				"name": "Francis Jourdain",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 5261,
+				"name": "Boris Kaufman",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1342492,
+				"name": "Acho Chakatouny",
+				"profile_path": "/ddOQTR7xwMIR9XID4yJR4usmmZ.jpg",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1986218,
+				"name": "Henri Arbel",
+				"job": "Unit Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1831916,
+				"name": "Pierre Merle",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 142917,
+				"name": "Albert Riéra",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1986219,
+				"name": "Lucien Baujard",
+				"job": "Sound",
+				"department": "Sound"
+			},
+			{
+				"id": 1986220,
+				"name": "Marcel Royné",
+				"job": "Sound",
+				"department": "Sound"
+			},
+			{
+				"id": 1986221,
+				"name": "Roger Parry",
+				"job": "Still Photographer",
+				"department": "Camera"
+			},
+			{
+				"id": 1688661,
+				"name": "Fred Matter",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 1986222,
+				"name": "Jacqueline Morland",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 142916,
+				"name": "Jean Guinée",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 142917,
+				"name": "Albert Riéra",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 142865,
+				"name": "Jean Vigo",
+				"profile_path": "/zhrrNzuGZgUVY5sz5RdpPlrQral.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5491148,
+				"name": "Jean-Louis Bompoint",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 5491150,
+				"name": "Pierre Lestringuez",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 142865,
+				"name": "Jean Vigo",
+				"profile_path": "/zhrrNzuGZgUVY5sz5RdpPlrQral.jpg",
+				"job": "Property Master",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 960721,
+				"name": "Jean-Paul Alphen",
+				"job": "Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 960721,
+				"name": "Jean-Paul Alphen",
+				"job": "Underwater Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 1118848,
+				"name": "Louis Berger",
+				"job": "Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 5261,
+				"name": "Boris Kaufman",
+				"job": "Aerial Camera",
+				"department": "Camera",
+				"gender": 2
+			}
+		]
+	}
+}

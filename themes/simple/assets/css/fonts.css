@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "DIN-Bold";
+    src:
+        url("fonts/DIN-2014_Bold.woff") format("woff"),
+        url("fonts/DIN-2014_Bold.otf") format("opentype"); /* Fallback for certain environments */
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; /* Improves performance by showing fallback text while loading */
+}
+
+@font-face {
+    font-family: "DIN-Light";
+    src:
+        url("fonts/DIN-2014_Light.woff") format("woff"),
+        url("fonts/DIN-2014_Light.otf") format("opentype"); /* Fallback for certain environments */
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; /* Improves performance by showing fallback text while loading */
+}
+
+@font-face {
+    font-family: "DIN-Regular";
+    src:
+        url("fonts/DIN-2014_Regular.woff") format("woff"),
+        url("fonts/DIN-2014_Regular.otf") format("opentype"); /* Fallback for certain environments */
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; /* Improves performance by showing fallback text while loading */
+}

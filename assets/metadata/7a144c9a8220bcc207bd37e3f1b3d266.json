@@ -1,0 +1,306 @@
+{
+	"id": 48035,
+	"title": "Ordet",
+	"original_title": "Ordet",
+	"original_language": "da",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "The three sons of devout Danish farmer Morten have widely disparate religious beliefs. Youngest son Anders shares his father's religion, but eldest son Mikkel has lost his faith, while middle child Johannes has become delusional and proclaims that he is Jesus Christ himself. When Mikkel's wife, Inger goes into a difficult childbirth, everyone's beliefs are put to the test.",
+	"backdrop_path": "/62pTb3zkfE2860lIqQFlxQ5tUEL.jpg",
+	"poster_path": "/c9Oef9uQEuadZlnvv8hphRmTIgx.jpg",
+	"release_date": "1955-01-09",
+	"credits": {
+		"cast": [
+			{
+				"id": 142930,
+				"order": 0,
+				"name": "Henrik Malberg",
+				"profile_path": "/edseioiieFlxWuL8qYj69x3ZaNX.jpg",
+				"character": "Morten Borgen (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 47155,
+				"order": 1,
+				"name": "Birgitte Federspiel",
+				"profile_path": "/kloY23KHUdqDt83uXTaqDRJUwwH.jpg",
+				"character": "Inger Borgen (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 142928,
+				"order": 2,
+				"name": "Emil Hass Christensen",
+				"profile_path": "/b2D5XW1auQoIafloAjveY9cgv7L.jpg",
+				"character": "Mikkel Borgen (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 142906,
+				"order": 3,
+				"name": "Preben Lerdorff Rye",
+				"profile_path": "/f6VP05RiT63IiEb1apDjry6eO67.jpg",
+				"character": "Johannes Borgen (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 142929,
+				"order": 4,
+				"name": "Cay Kristiansen",
+				"profile_path": "/loreSyRixGNfsucHtvrn1qvpb29.jpg",
+				"character": "Anders Borgen (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 578958,
+				"order": 5,
+				"name": "Ejner Federspiel",
+				"profile_path": "/9vT5vk5fKpa7EUwF9rFFAaZFLhM.jpg",
+				"character": "Peter Petersen (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 142931,
+				"order": 6,
+				"name": "Gerda Nielsen",
+				"character": "Anne Petersen (uncredited)"
+			},
+			{
+				"id": 142925,
+				"order": 7,
+				"name": "Sylvia Eckhausen",
+				"character": "Kirstin Petersen (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 142927,
+				"order": 8,
+				"name": "Ann Elisabeth Groth",
+				"character": "Maren Borgen (uncredited)"
+			},
+			{
+				"id": 142932,
+				"order": 9,
+				"name": "Susanne Rud",
+				"character": "Lilleinger Borgen (uncredited)"
+			},
+			{
+				"id": 137368,
+				"order": 10,
+				"name": "Ove Rud",
+				"profile_path": "/vmXobEyHMG7Ehfi3Zbm6jou5bfh.jpg",
+				"character": "Pastor (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 142933,
+				"order": 11,
+				"name": "Henry Skjær",
+				"character": "The Doctor (uncredited)"
+			},
+			{
+				"id": 142934,
+				"order": 12,
+				"name": "Edith Trane",
+				"character": "Mette Maren (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 142924,
+				"order": 13,
+				"name": "Hanne Agesen",
+				"character": "Karen (uncredited)"
+			},
+			{
+				"id": 142900,
+				"order": 14,
+				"name": "Kirsten Andreasen",
+				"character": "(uncredited)",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 11572,
+				"name": "Carl Theodor Dreyer",
+				"profile_path": "/l4g1K4ai3HgAIg0267O5ppnknVX.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 142923,
+				"name": "Kaj Munk",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 11572,
+				"name": "Carl Theodor Dreyer",
+				"profile_path": "/l4g1K4ai3HgAIg0267O5ppnknVX.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 11572,
+				"name": "Carl Theodor Dreyer",
+				"profile_path": "/l4g1K4ai3HgAIg0267O5ppnknVX.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1876054,
+				"name": "Erik Nielsen",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1017687,
+				"name": "Tage Nielsen",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1017698,
+				"name": "Edith Schlüssel",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 51212,
+				"name": "Erik Aaes",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1876060,
+				"name": "N. Sandt Jensen",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1876061,
+				"name": "Roma Jensen",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1111128,
+				"name": "Knud Kristensen",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 56885,
+				"name": "Henning Bendtsen",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1105475,
+				"name": "Jesper Gottschalch",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1433814,
+				"name": "Karen Petersen",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1096395,
+				"name": "Kaj Gram Larsen",
+				"job": "Sound Design Assistant",
+				"department": "Crew"
+			},
+			{
+				"id": 1555811,
+				"name": "Henning Møller",
+				"job": "Sound Design Assistant",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1903240,
+				"name": "Helge Bille",
+				"job": "Electrician",
+				"department": "Lighting"
+			},
+			{
+				"id": 1903241,
+				"name": "Bruno Fuglsang",
+				"job": "Electrician",
+				"department": "Lighting"
+			},
+			{
+				"id": 1903242,
+				"name": "Lauritz Fuglsang",
+				"job": "Electrician",
+				"department": "Lighting"
+			},
+			{
+				"id": 1903243,
+				"name": "Viggo Staal",
+				"job": "Electrician",
+				"department": "Lighting"
+			},
+			{
+				"id": 1710934,
+				"name": "Ove Hansen",
+				"job": "Gaffer",
+				"department": "Lighting"
+			},
+			{
+				"id": 1903244,
+				"name": "John Carlsen",
+				"job": "First Assistant Camera",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1769242,
+				"name": "Erik Wittrup Willumsen",
+				"job": "First Assistant Camera",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1208346,
+				"name": "Emil Reesen",
+				"job": "Conductor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1903247,
+				"name": "Sylvia Schierbeck",
+				"job": "Vocal Coach",
+				"department": "Sound"
+			},
+			{
+				"id": 1903248,
+				"name": "Sven Poulsen",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 1876058,
+				"name": "Poul Schierbeck",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			}
+		]
+	}
+}

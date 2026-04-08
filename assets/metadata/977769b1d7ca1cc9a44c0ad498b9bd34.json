@@ -1,0 +1,401 @@
+{
+	"id": 42044,
+	"title": "Shoah",
+	"original_title": "Shoah",
+	"original_language": "fr",
+	"genres": [
+		{
+			"id": 99,
+			"name": "Documentary"
+		},
+		{
+			"id": 36,
+			"name": "History"
+		}
+	],
+	"overview": "Director Claude Lanzmann spent 11 years on this sprawling documentary about the Holocaust, conducting his own interviews and refusing to use a single frame of archival footage. Dividing Holocaust witnesses into three categories – survivors, bystanders, and perpetrators – Lanzmann presents testimonies from survivors of the Chelmno concentration camp, an Auschwitz escapee, and witnesses of the Warsaw Ghetto Uprising, as well as a chilling report of gas chambers from an SS officer at Treblinka.",
+	"backdrop_path": "/bJolDsqM8vnlusFJdnCi9rg1nX7.jpg",
+	"poster_path": "/yvwF7dfSCybFcBOklUzKpE46bHM.jpg",
+	"release_date": "1985-04-21",
+	"credits": {
+		"cast": [
+			{
+				"id": 127491,
+				"order": 0,
+				"name": "Claude Lanzmann",
+				"profile_path": "/lD6OD0OoTNMqXBC3uXgRrE2tmlh.jpg",
+				"character": "Self - Interviewer",
+				"gender": 2
+			},
+			{
+				"id": 1197444,
+				"order": 1,
+				"name": "Simon Srebnik",
+				"character": "Self"
+			},
+			{
+				"id": 1197445,
+				"order": 2,
+				"name": "Michael Podchlebnik",
+				"character": "Self"
+			},
+			{
+				"id": 1197446,
+				"order": 3,
+				"name": "Motke Zaidl",
+				"character": "Self"
+			},
+			{
+				"id": 1182964,
+				"order": 4,
+				"name": "Jan Karski",
+				"character": "Self"
+			},
+			{
+				"id": 2067223,
+				"order": 5,
+				"name": "Paula Biren",
+				"character": "Self"
+			},
+			{
+				"id": 2697960,
+				"order": 6,
+				"name": "Abraham Bomba",
+				"character": "Self"
+			},
+			{
+				"id": 2697962,
+				"order": 7,
+				"name": "Inge Deutschkron",
+				"character": "Self",
+				"gender": 1
+			},
+			{
+				"id": 2067222,
+				"order": 8,
+				"name": "Ruth Elias",
+				"character": "Self"
+			},
+			{
+				"id": 2697964,
+				"order": 9,
+				"name": "Richard Glazar",
+				"character": "Self"
+			},
+			{
+				"id": 2697965,
+				"order": 10,
+				"name": "Filip Müller",
+				"character": "Self"
+			},
+			{
+				"id": 2697966,
+				"order": 11,
+				"name": "Rudolf Vrba",
+				"character": "Self"
+			},
+			{
+				"id": 2697967,
+				"order": 12,
+				"name": "Raul Hilberg",
+				"character": "Self"
+			},
+			{
+				"id": 3854379,
+				"order": 13,
+				"name": "Hanna Zaïdl",
+				"character": "Self"
+			},
+			{
+				"id": 3854380,
+				"order": 14,
+				"name": "Jan Piwonski",
+				"character": "Self"
+			},
+			{
+				"id": 3854381,
+				"order": 15,
+				"name": "Itzhak Dugin",
+				"character": "Self"
+			},
+			{
+				"id": 3854382,
+				"order": 16,
+				"name": "Helena Pietyra",
+				"character": "Self"
+			},
+			{
+				"id": 3854383,
+				"order": 17,
+				"name": "Pan Filipowicz",
+				"character": "Self"
+			},
+			{
+				"id": 3854384,
+				"order": 18,
+				"name": "Pan Falborski",
+				"character": "Self"
+			},
+			{
+				"id": 3854385,
+				"order": 19,
+				"name": "Czeslaw Borowi",
+				"character": "Self"
+			},
+			{
+				"id": 3854387,
+				"order": 20,
+				"name": "Henrik Gawkowski",
+				"character": "Self",
+				"gender": 2
+			},
+			{
+				"id": 3854392,
+				"order": 21,
+				"name": "Franz Suchomel",
+				"character": "Self"
+			},
+			{
+				"id": 3854393,
+				"order": 22,
+				"name": "Joseph Oberhauser",
+				"character": "Self"
+			},
+			{
+				"id": 3854394,
+				"order": 23,
+				"name": "Alfred Spiess",
+				"character": "Self"
+			},
+			{
+				"id": 3854395,
+				"order": 24,
+				"name": "Franz Schalling",
+				"character": "Self"
+			},
+			{
+				"id": 3854396,
+				"order": 25,
+				"name": "Martha Michelsohn",
+				"character": "Self"
+			},
+			{
+				"id": 3854398,
+				"order": 26,
+				"name": "Moshe Mordo",
+				"character": "Self"
+			},
+			{
+				"id": 3854399,
+				"order": 27,
+				"name": "Armando Aaron",
+				"character": "Self"
+			},
+			{
+				"id": 3854401,
+				"order": 28,
+				"name": "Walter Stier",
+				"character": "Self"
+			},
+			{
+				"id": 3854402,
+				"order": 29,
+				"name": "Franz Grassler",
+				"character": "Self"
+			},
+			{
+				"id": 3854404,
+				"order": 30,
+				"name": "Gertude Schneider",
+				"character": "Self"
+			},
+			{
+				"id": 3854405,
+				"order": 31,
+				"name": "Itzhak Zuckermann",
+				"character": "Self"
+			},
+			{
+				"id": 3854406,
+				"order": 32,
+				"name": "Simha Rotem",
+				"character": "Self"
+			},
+			{
+				"id": 2398322,
+				"order": 33,
+				"name": "Francine Kaufmann",
+				"character": "Self - Interpreter: Hebrew"
+			},
+			{
+				"id": 3854408,
+				"order": 34,
+				"name": "Barbara Janicka",
+				"character": "Self - Interpreter: Polish"
+			},
+			{
+				"id": 3854409,
+				"order": 35,
+				"name": "Mrs. Apfelbaum",
+				"character": "Self - Interpreter: Yiddish"
+			},
+			{
+				"id": 3854410,
+				"order": 36,
+				"name": "Charlotte Hirschhorn",
+				"character": "Self - Gertrude Schneider's mother"
+			}
+		],
+		"crew": [
+			{
+				"id": 127491,
+				"name": "Claude Lanzmann",
+				"profile_path": "/lD6OD0OoTNMqXBC3uXgRrE2tmlh.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1908614,
+				"name": "Catherine Trouillet",
+				"job": "Assistant Sound Editor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 41836,
+				"name": "Anna Ruiz",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1946589,
+				"name": "Bénédicte Mallet",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1179785,
+				"name": "Bernard Aubouy",
+				"job": "Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1179785,
+				"name": "Bernard Aubouy",
+				"job": "Sound",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1582381,
+				"name": "Michel Vionnet",
+				"job": "Sound",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3854453,
+				"name": "Geneviève de Gouvion Saint-Cyr",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1089799,
+				"name": "Sabine Mamou",
+				"profile_path": "/jpEP9K1ULo9czzyT2gKxoEZpfhS.jpg",
+				"job": "Sound Editor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1888418,
+				"name": "Yael Perlov",
+				"job": "Assistant Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 3854454,
+				"name": "Christine Simonot",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 3854452,
+				"name": "Catherine Sabba",
+				"job": "Assistant Sound Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 1265224,
+				"name": "Phil Gries",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 98259,
+				"name": "Danielle Fillios",
+				"job": "Sound Editor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 35921,
+				"name": "Dominique Chapuis",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1159701,
+				"name": "Anne-Marie L'Hôte",
+				"job": "Sound Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 24822,
+				"name": "William Lubtchansky",
+				"profile_path": "/sprvxeAmDZFtbMrUfGcc8UIf5WX.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2038682,
+				"name": "Ziva Postec",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1179785,
+				"name": "Bernard Aubouy",
+				"job": "Sound Engineer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1582381,
+				"name": "Michel Vionnet",
+				"job": "Sound Engineer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2038681,
+				"name": "Jimmy Glasberg",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 6626,
+				"name": "Jean-Yves Escoffier",
+				"profile_path": "/g0jseDbeCzjg81gxRZcUO0VyIVH.jpg",
+				"job": "Assistant Camera",
+				"department": "Camera",
+				"gender": 2
+			}
+		]
+	}
+}

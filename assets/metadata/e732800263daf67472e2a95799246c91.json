@@ -1,0 +1,318 @@
+{
+	"id": 1398,
+	"title": "Stalker",
+	"original_title": "Сталкер",
+	"original_language": "ru",
+	"genres": [
+		{
+			"id": 878,
+			"name": "Science Fiction"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
+	"backdrop_path": "/6yrbWzzrPp7pwz6zHdifspJk8t3.jpg",
+	"poster_path": "/1qhOyf5C4s9ZdvY8d5JDx9DFMeT.jpg",
+	"release_date": "1979-05-25",
+	"credits": {
+		"cast": [
+			{
+				"id": 28079,
+				"order": 0,
+				"name": "Alisa Freyndlikh",
+				"profile_path": "/6r90VxIyPWE63DnBS91xeomZmIP.jpg",
+				"character": "Stalker's Wife",
+				"gender": 1
+			},
+			{
+				"id": 28078,
+				"order": 1,
+				"name": "Aleksandr Kaydanovskiy",
+				"profile_path": "/yHYfkxQu3GVKxx5ibFmEom8qAS6.jpg",
+				"character": "Stalker",
+				"gender": 2
+			},
+			{
+				"id": 8475,
+				"order": 2,
+				"name": "Anatoliy Solonitsyn",
+				"profile_path": "/37Vb7vNMHAz1s2WI5kW4BHt0X0N.jpg",
+				"character": "Writer",
+				"gender": 2
+			},
+			{
+				"id": 1190992,
+				"order": 3,
+				"name": "Mykola Hrynko",
+				"profile_path": "/n8lxXQbLYOed7AeowxA49yB2jyS.jpg",
+				"character": "Professor",
+				"gender": 2
+			},
+			{
+				"id": 28080,
+				"order": 4,
+				"name": "Natalya Abramova",
+				"profile_path": "/iJOfkfk0MT3rW1iVrzp8t4pKotr.jpg",
+				"character": "Marta",
+				"gender": 1
+			},
+			{
+				"id": 1073948,
+				"order": 5,
+				"name": "Faime Jurno",
+				"profile_path": "/kx04DJQeV2v3fdU23MeudKyTuBm.jpg",
+				"character": "Writer's Companion",
+				"gender": 1
+			},
+			{
+				"id": 1626954,
+				"order": 6,
+				"name": "Evgeniy Kostin",
+				"character": "Lyuger, Owner of Cafe",
+				"gender": 2
+			},
+			{
+				"id": 2037109,
+				"order": 7,
+				"name": "Raimo Rendi",
+				"character": "Police Patrol"
+			},
+			{
+				"id": 85219,
+				"order": 8,
+				"name": "Vladimir Zamanskiy",
+				"profile_path": "/r5xiJE30c6gTd6Ps2Z5oLKAszM9.jpg",
+				"character": "Professor's Telephone Interlocutor (voice) (uncredited)",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 28081,
+				"name": "Aleksandra Demidova",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 8463,
+				"name": "Lyudmila Feiginova",
+				"profile_path": "/RKVyuvv5ZqGf9rjIkRWepJywcy.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 8452,
+				"name": "Andrei Tarkovsky",
+				"profile_path": "/mytn9s5kc6CqzKZtbuJ73oA6ujy.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 28082,
+				"name": "Aleksandr Knyazhinsky",
+				"profile_path": "/hpk4rRd2EVVBc68LbncDqKBsZb3.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 28083,
+				"name": "Raisa Lukina",
+				"profile_path": "/6dWApHm1Ul7apYoHEMJNn9MHwfk.jpg",
+				"job": "Music Editor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 150634,
+				"name": "Arkadiy Strugatskiy",
+				"profile_path": "/dVqqW6CzTSTGnUUr9I74wOKhy9y.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1092909,
+				"name": "Willie Geller",
+				"job": "Production Manager",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2794161,
+				"name": "Aleksandr Boym",
+				"profile_path": "/9dG9TXrckyDeX5H1ezs1TDZ3izA.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1584743,
+				"name": "Mariya Chugunova",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 1584741,
+				"name": "Rashit Safiullin",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 8471,
+				"name": "Larisa Tarkovskaya",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 8467,
+				"name": "Nelli Fomina",
+				"profile_path": "/hJ8WExzL6x3sVpq1H6cGNLHNit4.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1584742,
+				"name": "Vitaliy Lvov",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1584740,
+				"name": "Shavkat Abdusalamov",
+				"profile_path": "/g2WBjqusAmecvXisYWzTDUf7fkQ.jpg",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 591945,
+				"name": "Evgeny Tsymbal",
+				"profile_path": "/1cHODRwYLcRWatSG2JrOLGnAyvi.jpg",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1086268,
+				"name": "Arvo Iho",
+				"profile_path": "/gexJWdQbtpMhwqXTAnp3MgG7ZU1.jpg",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 47917,
+				"name": "Leonid Kalashnikov",
+				"profile_path": "/A5ZqBnmMPvDjLMDRWDB0mNTnGTs.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 8452,
+				"name": "Andrei Tarkovsky",
+				"profile_path": "/mytn9s5kc6CqzKZtbuJ73oA6ujy.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1585388,
+				"name": "Aleksan",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 8452,
+				"name": "Andrei Tarkovsky",
+				"profile_path": "/mytn9s5kc6CqzKZtbuJ73oA6ujy.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1584739,
+				"name": "Vladlen Sharun",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 88782,
+				"name": "Konstantin Lopushansky",
+				"profile_path": "/znz4T3wzZP0Ayodh2lSwX4imPa3.jpg",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 560802,
+				"name": "Eduard Artemyev",
+				"profile_path": "/yFRPDiSJcYkNLBzDjlS6xdBmP7S.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2353458,
+				"name": "Arseny Tarkovsky",
+				"profile_path": "/2AsxBK9pa9TMkcVXrQtOr2qLYJ6.jpg",
+				"job": "Poem",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 150635,
+				"name": "Boris Strugatskiy",
+				"profile_path": "/oXXFL4yQuJaVPklkWlZwiDpCMCo.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 150635,
+				"name": "Boris Strugatskiy",
+				"profile_path": "/oXXFL4yQuJaVPklkWlZwiDpCMCo.jpg",
+				"job": "Novel",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 150634,
+				"name": "Arkadiy Strugatskiy",
+				"profile_path": "/dVqqW6CzTSTGnUUr9I74wOKhy9y.jpg",
+				"job": "Novel",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2353458,
+				"name": "Arseny Tarkovsky",
+				"profile_path": "/2AsxBK9pa9TMkcVXrQtOr2qLYJ6.jpg",
+				"job": "Author",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 55518,
+				"name": "Georgi Rerberg",
+				"profile_path": "/9ausnjqac0MVwVMuPIkK6Edq5t9.jpg",
+				"job": "Cinematography",
+				"department": "Crew",
+				"gender": 2
+			}
+		]
+	}
+}

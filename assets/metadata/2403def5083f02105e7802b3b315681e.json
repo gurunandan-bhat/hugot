@@ -1,0 +1,351 @@
+{
+	"id": 1396,
+	"title": "Mirror",
+	"original_title": "Зеркало",
+	"original_language": "ru",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 36,
+			"name": "History"
+		}
+	],
+	"overview": "A dying man in his forties recalls his childhood, his mother, the war and personal moments that tell of and juxtapose pivotal moments in Soviet history with daily life.",
+	"backdrop_path": "/9UAcMhSCDJ2OCo5QdPpSERjhMA1.jpg",
+	"poster_path": "/AttDP5OEsMxtHPPN7Z92p2Ntnmd.jpg",
+	"release_date": "1975-03-07",
+	"credits": {
+		"cast": [
+			{
+				"id": 55512,
+				"order": 0,
+				"name": "Margarita Terekhova",
+				"profile_path": "/28pPZOjEoL8o6Ewb8HW2SdrzU6D.jpg",
+				"character": "Natalya / Maroussia - the Mother",
+				"gender": 1
+			},
+			{
+				"id": 55514,
+				"order": 1,
+				"name": "Ignat Daniltsev",
+				"profile_path": "/cf63G5PBEcqVWcHcgkWoTFZ0PU0.jpg",
+				"character": "Ignat / Alexei - 12 Years Old",
+				"gender": 2
+			},
+			{
+				"id": 8471,
+				"order": 2,
+				"name": "Larisa Tarkovskaya",
+				"character": "Nadezha",
+				"gender": 1
+			},
+			{
+				"id": 55513,
+				"order": 3,
+				"name": "Alla Demidova",
+				"profile_path": "/b5Zarge6KPfANSpwWkehIDkVyeD.jpg",
+				"character": "Lisa",
+				"gender": 1
+			},
+			{
+				"id": 8475,
+				"order": 4,
+				"name": "Anatoliy Solonitsyn",
+				"profile_path": "/37Vb7vNMHAz1s2WI5kW4BHt0X0N.jpg",
+				"character": "Forensic Doctor",
+				"gender": 2
+			},
+			{
+				"id": 1190992,
+				"order": 5,
+				"name": "Mykola Hrynko",
+				"profile_path": "/n8lxXQbLYOed7AeowxA49yB2jyS.jpg",
+				"character": "Printery Director",
+				"gender": 2
+			},
+			{
+				"id": 8480,
+				"order": 6,
+				"name": "Tamara Ogorodnikova",
+				"profile_path": "/dpSKediIMxmz6L9rZzxthVDpgeK.jpg",
+				"character": "Nanny / Neighbour / Strange Woman at Tea Table",
+				"gender": 1
+			},
+			{
+				"id": 13710,
+				"order": 7,
+				"name": "Yuriy Nazarov",
+				"profile_path": "/5kSJ2Q9fcUYD5yeGvQiw2z4tFxC.jpg",
+				"character": "Rifle Shooting Instructor",
+				"gender": 2
+			},
+			{
+				"id": 1090481,
+				"order": 8,
+				"name": "Oleg Yankovskiy",
+				"profile_path": "/4Mw5mEOQKSkpV0zKEGZcfHOYSGL.jpg",
+				"character": "The Father",
+				"gender": 2
+			},
+			{
+				"id": 55516,
+				"order": 9,
+				"name": "Filipp Yankovsky",
+				"profile_path": "/9fuNu6Psr1ZHlND2G6Xd5m1B9yZ.jpg",
+				"character": "Aleksei - 5 Years Old",
+				"gender": 2
+			},
+			{
+				"id": 1836807,
+				"order": 10,
+				"name": "Tatyana Reshetnikova",
+				"profile_path": "/hwUIBK42aHE0qSCTBeDYUpRsIJB.jpg",
+				"character": "Proofreader in Printing House",
+				"gender": 1
+			},
+			{
+				"id": 1119000,
+				"order": 11,
+				"name": "Innokentiy Smoktunovskiy",
+				"profile_path": "/cKhKa6bILO5bp9Miwd5HXQVUEUz.jpg",
+				"character": "Narrator - The Author's Words (voice)",
+				"gender": 2
+			},
+			{
+				"id": 2353458,
+				"order": 12,
+				"name": "Arseny Tarkovsky",
+				"profile_path": "/2AsxBK9pa9TMkcVXrQtOr2qLYJ6.jpg",
+				"character": "Narrator - His Own Poems (voice)",
+				"gender": 2
+			},
+			{
+				"id": 2579447,
+				"order": 13,
+				"name": "Mariya Tarkovskaya-Vishnyakova",
+				"character": "Old Mother",
+				"gender": 1
+			},
+			{
+				"id": 2579446,
+				"order": 14,
+				"name": "Yuri Sventikov",
+				"character": "Asafiev - War Orphan",
+				"gender": 2
+			},
+			{
+				"id": 2579448,
+				"order": 15,
+				"name": "Olga Kizilova",
+				"character": "Redheaded Girl",
+				"gender": 1
+			},
+			{
+				"id": 2573430,
+				"order": 16,
+				"name": "Ernesto del Bosque",
+				"character": "Spanish Refugee",
+				"gender": 2
+			},
+			{
+				"id": 2573431,
+				"order": 17,
+				"name": "Luis Correcher",
+				"character": "Spanish Refugee",
+				"gender": 1
+			},
+			{
+				"id": 2573432,
+				"order": 18,
+				"name": "Ángel Gutiérrez",
+				"profile_path": "/AdidiisXZshpQdR2DujhU1Qb0rp.jpg",
+				"character": "Spanish Refugee",
+				"gender": 2
+			},
+			{
+				"id": 2579453,
+				"order": 19,
+				"name": "Dionisio García Zapico",
+				"character": "Spanish Refugee"
+			},
+			{
+				"id": 2579476,
+				"order": 20,
+				"name": "Tomas Pamies",
+				"character": "Spanish Refugee"
+			},
+			{
+				"id": 2573436,
+				"order": 21,
+				"name": "Teresa Del Bosque",
+				"character": "Spanish Refugee Twin"
+			},
+			{
+				"id": 2573437,
+				"order": 22,
+				"name": "Tatiana Del Bosque",
+				"character": "Spanish Refugee Twin"
+			}
+		],
+		"crew": [
+			{
+				"id": 8463,
+				"name": "Lyudmila Feiginova",
+				"profile_path": "/RKVyuvv5ZqGf9rjIkRWepJywcy.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 55518,
+				"name": "Georgi Rerberg",
+				"profile_path": "/9ausnjqac0MVwVMuPIkK6Edq5t9.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 55519,
+				"name": "Erik Waisberg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 55517,
+				"name": "Aleksandr Misharin",
+				"profile_path": "/kZ75SzAjmY4JMH1EoVPCMlbrLMm.jpg",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 8452,
+				"name": "Andrei Tarkovsky",
+				"profile_path": "/mytn9s5kc6CqzKZtbuJ73oA6ujy.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 8467,
+				"name": "Nelli Fomina",
+				"profile_path": "/hJ8WExzL6x3sVpq1H6cGNLHNit4.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 560802,
+				"name": "Eduard Artemyev",
+				"profile_path": "/yFRPDiSJcYkNLBzDjlS6xdBmP7S.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1632786,
+				"name": "Semyon Litvinov",
+				"job": "Sound",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2543641,
+				"name": "Anatoliy Nikolayev",
+				"profile_path": "/nYGdxFV6v80AFNAEBGZjakr603q.jpg",
+				"job": "Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2573349,
+				"name": "Igor Shtanko",
+				"job": "Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 8471,
+				"name": "Larisa Tarkovskaya",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 1398680,
+				"name": "Nikolay Dvigubskiy",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1637171,
+				"name": "Yuriy Kushneryov",
+				"profile_path": "/tTcwl7fBejooh4oEGLsL1XmnM4v.jpg",
+				"job": "Production Manager",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2156559,
+				"name": "Ventzislav Ivanov",
+				"job": "Assistant Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 2573415,
+				"name": "A. Merkulov",
+				"job": "Construction Foreman",
+				"department": "Art"
+			},
+			{
+				"id": 1632789,
+				"name": "Vera Rudina",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 2353458,
+				"name": "Arseny Tarkovsky",
+				"profile_path": "/2AsxBK9pa9TMkcVXrQtOr2qLYJ6.jpg",
+				"job": "Poem",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1877105,
+				"name": "Valeriy Kharchenko",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1584743,
+				"name": "Mariya Chugunova",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 8452,
+				"name": "Andrei Tarkovsky",
+				"profile_path": "/mytn9s5kc6CqzKZtbuJ73oA6ujy.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2353458,
+				"name": "Arseny Tarkovsky",
+				"profile_path": "/2AsxBK9pa9TMkcVXrQtOr2qLYJ6.jpg",
+				"job": "Author",
+				"department": "Writing",
+				"gender": 2
+			}
+		]
+	}
+}

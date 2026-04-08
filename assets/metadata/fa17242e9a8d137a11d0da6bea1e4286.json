@@ -1,0 +1,425 @@
+{
+	"id": 17295,
+	"title": "The Battle of Algiers",
+	"original_title": "La battaglia di Algeri",
+	"original_language": "it",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 10752,
+			"name": "War"
+		},
+		{
+			"id": 36,
+			"name": "History"
+		}
+	],
+	"overview": "Paratrooper commander Colonel Mathieu, a former French Resistance fighter during World War II, is sent to Algeria to reinforce efforts to squelch the uprisings of the Algerian War. There he faces Ali la Pointe, a former petty criminal who, as the leader of the Algerian Front de Liberation Nationale, directs terror strategies against the colonial French government occupation. As each side resorts to ever-increasing brutality, no violent act is too unthinkable.",
+	"backdrop_path": "/A5sZ1OxIH5StZgqBE9MslgsWjK6.jpg",
+	"poster_path": "/2p3AFtOHFvP6OeVMqlnL1zLKOqL.jpg",
+	"release_date": "1966-09-08",
+	"credits": {
+		"cast": [
+			{
+				"id": 140996,
+				"order": 0,
+				"name": "Brahim Hadjadj",
+				"profile_path": "/84w4StAMYafVsw2Ci2sE70fyPpy.jpg",
+				"character": "Ali La Pointe",
+				"gender": 2
+			},
+			{
+				"id": 39953,
+				"order": 1,
+				"name": "Jean Martin",
+				"profile_path": "/f7J7ItHt6AHz8z2PQuWpdH0lCHz.jpg",
+				"character": "Colonel Philippe Mathieu",
+				"gender": 2
+			},
+			{
+				"id": 557864,
+				"order": 2,
+				"name": "Yacef Saâdi",
+				"profile_path": "/7zRZq2sS1XFQa4JgKZVtauWKAv3.jpg",
+				"character": "El-Hadi Jaffar",
+				"gender": 2
+			},
+			{
+				"id": 1055191,
+				"order": 3,
+				"name": "Fouzia El Kader",
+				"profile_path": "/7hJkCgyubDlc4CDaFW4XduXp3qy.jpg",
+				"character": "Halima",
+				"gender": 1
+			},
+			{
+				"id": 1077248,
+				"order": 4,
+				"name": "Mohamed Ben Kassen",
+				"profile_path": "/u9YNccRK8opw9W8M5yS291buNAg.jpg",
+				"character": "Petit Omar",
+				"gender": 2
+			},
+			{
+				"id": 1446515,
+				"order": 5,
+				"name": "Hadj Smaine Mohamed Seghir",
+				"profile_path": "/27OP1y0lfHpGV5Spu1b8BUA1Umx.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1439880,
+				"order": 6,
+				"name": "Larbi Zekkal",
+				"profile_path": "/zbV5OjY1bhJ4eg0ttZHWky3o5qO.jpg",
+				"character": "Combattant FLN",
+				"gender": 2
+			},
+			{
+				"id": 1439879,
+				"order": 7,
+				"name": "Rouiched",
+				"profile_path": "/xxI87MXvn9ZvEh6xmcHP0gBiZkW.jpg",
+				"character": "The Drunk Man (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2720098,
+				"order": 8,
+				"name": "Noureddine Brahimi",
+				"profile_path": "/8R6FukyLQ8obPQb4oEAXHBiPBcQ.jpg",
+				"character": "Responsable FLN",
+				"gender": 2
+			},
+			{
+				"id": 5107215,
+				"order": 9,
+				"name": "Si Mohamed Baghdadi",
+				"profile_path": "/rjInfnTbj5FaXzFvA1JaorAmpHm.jpg",
+				"character": "Larbi Ben M'hidi",
+				"gender": 2
+			},
+			{
+				"id": 4543725,
+				"order": 10,
+				"name": "Abderrahmane Brahimi",
+				"profile_path": "/8NSuIWB8GYMtjmBS8kwzgLvRPwX.jpg",
+				"character": "Le Marié de la Casbah",
+				"gender": 2
+			},
+			{
+				"id": 4545261,
+				"order": 11,
+				"name": "Fatiha Djoudi",
+				"character": "La Mariée de la Casbah",
+				"gender": 1
+			},
+			{
+				"id": 1770961,
+				"order": 12,
+				"name": "Franco Moruzzi",
+				"character": "Mahmoud (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 4564355,
+				"order": 13,
+				"name": "Tomasso Neri",
+				"character": "Captain Dubois"
+			},
+			{
+				"id": 1077247,
+				"order": 14,
+				"name": "Samia Kerbash",
+				"character": "Fathia"
+			},
+			{
+				"id": 557865,
+				"order": 15,
+				"name": "Ugo Paletti",
+				"character": "Captain"
+			},
+			{
+				"id": 1510525,
+				"order": 16,
+				"name": "Gene Wesson",
+				"character": "(uncredited)",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 90694,
+				"name": "Gillo Pontecorvo",
+				"profile_path": "/iRwLtl4aRdZMsfwGBUMbgELsDG6.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 90694,
+				"name": "Gillo Pontecorvo",
+				"profile_path": "/iRwLtl4aRdZMsfwGBUMbgELsDG6.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 71416,
+				"name": "Franco Solinas",
+				"profile_path": "/guvjgiq2BPp8H8AlpvmUSLwTuGs.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 589385,
+				"name": "Antonio Musu",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 557864,
+				"name": "Yacef Saâdi",
+				"profile_path": "/7zRZq2sS1XFQa4JgKZVtauWKAv3.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 15078,
+				"name": "Fred Baker",
+				"profile_path": "/vTGhx4jcScfafQpXpM31UqDIKYU.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1259,
+				"name": "Ennio Morricone",
+				"profile_path": "/avjgzi45bdXgC1AtyNsRc5nxtFM.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 90694,
+				"name": "Gillo Pontecorvo",
+				"profile_path": "/iRwLtl4aRdZMsfwGBUMbgELsDG6.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 33790,
+				"name": "Mario Morra",
+				"profile_path": "/nS9hTUALFrrbOozw2RiFhtAlaje.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 15132,
+				"name": "Mario Serandrei",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 44986,
+				"name": "Sergio Canevari",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1588522,
+				"name": "Hamdi Mohamed",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1588523,
+				"name": "Maurizio Giustini",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1588524,
+				"name": "Silvano Mancini",
+				"job": "Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 25822,
+				"name": "Marcello Gatti",
+				"profile_path": "/2ngMGQWf7L0Mhqw1tiTFkW8puLL.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1588525,
+				"name": "Nazzareno Belardinelli",
+				"job": "Gaffer",
+				"department": "Lighting"
+			},
+			{
+				"id": 557153,
+				"name": "Claudio Racca",
+				"job": "Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 128997,
+				"name": "Anna Maria Montanari",
+				"job": "First Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 3443326,
+				"name": "Ali Marok",
+				"profile_path": "/4exJRpCC1JZSPRltO8JBFBVc5xo.jpg",
+				"job": "Assistant Camera",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 4545106,
+				"name": "Kamel Djebara",
+				"profile_path": "/t2dlq5LUv0RIDDQFqYk2iKPyzx2.jpg",
+				"job": "Set Photographer",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1122686,
+				"name": "Sergio Merolle",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1446515,
+				"name": "Hadj Smaine Mohamed Seghir",
+				"profile_path": "/27OP1y0lfHpGV5Spu1b8BUA1Umx.jpg",
+				"job": "Production Supervisor",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1090578,
+				"name": "Fernando Morandi",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 132257,
+				"name": "Giuliano Montaldo",
+				"profile_path": "/6N9xJXsClFdzs6pF5vs1UjXlPgs.jpg",
+				"job": "Second Unit",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1439884,
+				"name": "Moussa Haddad",
+				"profile_path": "/wgbpPQKSSZgW8s0HBbWE9hQDdeW.jpg",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 32672,
+				"name": "Aldo Gasparri",
+				"job": "Special Effects",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1309439,
+				"name": "Lina Caterini",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 45670,
+				"name": "Bruno Nicolai",
+				"profile_path": "/nTROuM0wjr9pZrPaAB6UswBnerW.jpg",
+				"job": "Music Director",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1046375,
+				"name": "Matteo Spinola",
+				"job": "Unit Publicist",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 929339,
+				"name": "Mohamed Zinet",
+				"profile_path": "/1zbSOuOYT9lBPlN2ZNihEtgU9wV.jpg",
+				"job": "Production Coordinator",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2720098,
+				"name": "Noureddine Brahimi",
+				"profile_path": "/8R6FukyLQ8obPQb4oEAXHBiPBcQ.jpg",
+				"job": "Production Director",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 935113,
+				"name": "Sarah Maldoror",
+				"profile_path": "/7w5MRfYaCoGxS1zYx0QpCd2u0Iz.jpg",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 2094616,
+				"name": "Omar Bouksani",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1537155,
+				"name": "Alberto Bartolomei",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1438865,
+				"name": "Enrico Lucherini",
+				"profile_path": "/e2SFV2aZLQZd4uIL7cBULXooMM2.jpg",
+				"job": "Unit Publicist",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1158637,
+				"name": "Margherita Autuori",
+				"profile_path": "/jgVm9TgXQsvaO0vJ5GeqLxf1V48.jpg",
+				"job": "Unit Publicist",
+				"department": "Crew"
+			},
+			{
+				"id": 935113,
+				"name": "Sarah Maldoror",
+				"profile_path": "/7w5MRfYaCoGxS1zYx0QpCd2u0Iz.jpg",
+				"job": "Creative Consultant",
+				"department": "Crew",
+				"gender": 1
+			}
+		]
+	}
+}

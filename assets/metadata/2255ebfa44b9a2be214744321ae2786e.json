@@ -1,0 +1,791 @@
+{
+	"id": 239,
+	"title": "Some Like It Hot",
+	"original_title": "Some Like It Hot",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 10749,
+			"name": "Romance"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		}
+	],
+	"overview": "In Prohibition-era Chicago, musicians Joe and Jerry witness a mob hit, and flee the state in an all-female band disguised as Josephine and Daphne, but further complications set in.",
+	"backdrop_path": "/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
+	"poster_path": "/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+	"release_date": "1959-03-19",
+	"credits": {
+		"cast": [
+			{
+				"id": 3150,
+				"order": 0,
+				"name": "Tony Curtis",
+				"profile_path": "/6Pj1XkYdI5Wc40Jl0UxJk8PPwlY.jpg",
+				"character": "Joe (Josephine)",
+				"gender": 2
+			},
+			{
+				"id": 3151,
+				"order": 1,
+				"name": "Jack Lemmon",
+				"profile_path": "/7jWVWLr1VJqQrN3d4YJaATCIHRw.jpg",
+				"character": "Jerry (Daphne)",
+				"gender": 2
+			},
+			{
+				"id": 3149,
+				"order": 2,
+				"name": "Marilyn Monroe",
+				"profile_path": "/vcp6rHL2sZWdlJQDEWsEe0jAAe1.jpg",
+				"character": "Sugar Kane Kowalczyk",
+				"gender": 1
+			},
+			{
+				"id": 3152,
+				"order": 3,
+				"name": "George Raft",
+				"profile_path": "/rTNM6gZpPduQfPb5UrDmYj48ALk.jpg",
+				"character": "Spats Colombo",
+				"gender": 2
+			},
+			{
+				"id": 3155,
+				"order": 4,
+				"name": "Pat O'Brien",
+				"profile_path": "/a2io08DZPKgsaM8p9So2LAHOiPn.jpg",
+				"character": "Detective Mulligan",
+				"gender": 2
+			},
+			{
+				"id": 3156,
+				"order": 5,
+				"name": "Joe E. Brown",
+				"profile_path": "/r4xvWwOfTjDrSxx2MRhsJW1omX.jpg",
+				"character": "Osgood Fielding III",
+				"gender": 2
+			},
+			{
+				"id": 3160,
+				"order": 6,
+				"name": "Nehemiah Persoff",
+				"profile_path": "/vJoqhr7HVxP9HLTqt2rxo5OsSvq.jpg",
+				"character": "Little Bonaparte",
+				"gender": 2
+			},
+			{
+				"id": 3161,
+				"order": 7,
+				"name": "Joan Shawlee",
+				"profile_path": "/oUmK5YF1jcGs5eEGStI1I3iF5vd.jpg",
+				"character": "Sweet Sue",
+				"gender": 1
+			},
+			{
+				"id": 1700403,
+				"order": 8,
+				"name": "Billy Gray",
+				"character": "Sig Poliakoff"
+			},
+			{
+				"id": 3163,
+				"order": 9,
+				"name": "George E. Stone",
+				"profile_path": "/xuQahElsqcJ24XpEbQEnvHOJMwJ.jpg",
+				"character": "Toothpick Charlie",
+				"gender": 2
+			},
+			{
+				"id": 1238851,
+				"order": 10,
+				"name": "Dave Barry",
+				"profile_path": "/sjBsu8FAne6NIJ77h1LLYqTWgYg.jpg",
+				"character": "Beinstock",
+				"gender": 2
+			},
+			{
+				"id": 84229,
+				"order": 11,
+				"name": "Mike Mazurki",
+				"profile_path": "/pqvD7JIIJ6NbzbnpvUmDWI63T39.jpg",
+				"character": "Spats' Henchman",
+				"gender": 2
+			},
+			{
+				"id": 1045763,
+				"order": 12,
+				"name": "Harry Wilson",
+				"profile_path": "/jbJHEyDbCRyD7hnUbmNjCNqWTMT.jpg",
+				"character": "Spats' Henchman",
+				"gender": 2
+			},
+			{
+				"id": 164975,
+				"order": 13,
+				"name": "Beverly Wills",
+				"profile_path": "/hfL1tnpME2VeTsbswifI3agrdnT.jpg",
+				"character": "Dolores",
+				"gender": 1
+			},
+			{
+				"id": 3168,
+				"order": 14,
+				"name": "Barbara Drew",
+				"character": "Nellie",
+				"gender": 1
+			},
+			{
+				"id": 81501,
+				"order": 15,
+				"name": "Edward G. Robinson Jr.",
+				"profile_path": "/3lUuOEIaso97RC5CzdHe3qwoUFD.jpg",
+				"character": "Johnny Paradise",
+				"gender": 2
+			},
+			{
+				"id": 1344987,
+				"order": 16,
+				"name": "Mary Foley",
+				"character": "Band Member (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 4258167,
+				"order": 17,
+				"name": "Georgia Joan Hannan",
+				"character": "Band Member (uncredited)"
+			},
+			{
+				"id": 1358269,
+				"order": 18,
+				"name": "Colleen O'Sullivan",
+				"character": "Band Member (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 2501534,
+				"order": 19,
+				"name": "Al Breneman",
+				"character": "Bellhop (uncredited)"
+			},
+			{
+				"id": 34324,
+				"order": 20,
+				"name": "Tom Kennedy",
+				"profile_path": "/alBZz3yjAGTx6FJXwfHIgInX30W.jpg",
+				"character": "Bouncer (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1468481,
+				"order": 21,
+				"name": "Edwin Rochelle",
+				"character": "Chef (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2459943,
+				"order": 22,
+				"name": "Robert Cole",
+				"character": "Club Patron (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1549831,
+				"order": 23,
+				"name": "Sammy Shack",
+				"character": "Commuter at Station (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 165132,
+				"order": 24,
+				"name": "Fred Sherman",
+				"character": "Drunk (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1221372,
+				"order": 25,
+				"name": "Sandra Warner",
+				"profile_path": "/lFfjqXFv8ZE3XxSvNoK5zgyoWEt.jpg",
+				"character": "Emily (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 2501575,
+				"order": 26,
+				"name": "Danny Richards Jr.",
+				"character": "Fresh Bellboy (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 16417,
+				"order": 27,
+				"name": "Paul Frees",
+				"profile_path": "/pACT0LYkEyff7PGt88iqr5u9T7u.jpg",
+				"character": "Funeral Director / Waiter / Josephine (voice) (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2501540,
+				"order": 28,
+				"name": "Ted Christy",
+				"character": "Gangster (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2459078,
+				"order": 29,
+				"name": "Phil Bloom",
+				"character": "Gangster at Convention (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2459049,
+				"order": 30,
+				"name": "Willie Bloom",
+				"character": "Gangster at Convention (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1543058,
+				"order": 31,
+				"name": "James J. Casino",
+				"character": "Gangster at Convention (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1427105,
+				"order": 32,
+				"name": "Bing Conley",
+				"character": "Gangster at Convention (uncredited)"
+			},
+			{
+				"id": 1662018,
+				"order": 33,
+				"name": "Paul Cristo",
+				"character": "Gangster at Convention (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1547818,
+				"order": 34,
+				"name": "Duke Fishman",
+				"character": "Gangster at Convention (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2342150,
+				"order": 35,
+				"name": "Joseph Glick",
+				"character": "Gangster at Convention (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1668553,
+				"order": 36,
+				"name": "Joseph La Cava",
+				"character": "Gangster at Convention (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1778343,
+				"order": 37,
+				"name": "King Lockwood",
+				"character": "Gangster at Convention (uncredited)"
+			},
+			{
+				"id": 1074209,
+				"order": 38,
+				"name": "Jack Perry",
+				"profile_path": "/jvcZmUyOpNXHFlscvl0RmK5pf00.jpg",
+				"character": "Gangster at Convention (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1289627,
+				"order": 39,
+				"name": "Sid Troy",
+				"character": "Gangster at Convention (uncredited)"
+			},
+			{
+				"id": 1547827,
+				"order": 40,
+				"name": "Ralph Volkie",
+				"profile_path": "/4wFifu7lpDeFYxA46SxFY26rk0a.jpg",
+				"character": "Gangster at Massacre (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1152705,
+				"order": 41,
+				"name": "Jimmy Dime",
+				"profile_path": "/jWyPz8zzzLCw3zlUC2wrrjiuSqm.jpg",
+				"character": "Gangster Convention Greeter (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1287871,
+				"order": 42,
+				"name": "Jack Gordon",
+				"character": "Gangster with Charlie (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 191823,
+				"order": 43,
+				"name": "Steve Carruthers",
+				"profile_path": "/lafDxGcaP7zzYGi5s1BlVjnMNjy.jpg",
+				"character": "Hotel Guest (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1216356,
+				"order": 44,
+				"name": "Sam Harris",
+				"character": "Hotel Guest (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1176510,
+				"order": 45,
+				"name": "William H. O'Brien",
+				"profile_path": "/dHqtM4SNmq6W2WBnxyXgRdlgSfk.jpg",
+				"character": "Hotel Guest (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 134001,
+				"order": 46,
+				"name": "Laurie Mitchell",
+				"profile_path": "/9HuJBs3jlw26DCZirMHMSuGz9zV.jpg",
+				"character": "Mary Lou (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 120048,
+				"order": 47,
+				"name": "Joe Gray",
+				"character": "Mobster at Banquet (uncredited)"
+			},
+			{
+				"id": 3345,
+				"order": 48,
+				"name": "Tito Vuolo",
+				"profile_path": "/kZ7lZ66IMcQcGt59xs6PD3GdHAb.jpg",
+				"character": "Mozzarella (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 562713,
+				"order": 49,
+				"name": "Harold 'Tommy' Hart",
+				"character": "Official #2 (uncredited)"
+			},
+			{
+				"id": 1364421,
+				"order": 50,
+				"name": "Scott Seaton",
+				"profile_path": "/17szXtRhSUmdYCivNTtlFPNwQh6.jpg",
+				"character": "Old Man (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 153395,
+				"order": 51,
+				"name": "Marian Collier",
+				"profile_path": "/ohSTBTqC4XRqrQZdfGBP7p3pxFH.jpg",
+				"character": "Olga (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 1072437,
+				"order": 52,
+				"name": "Brandon Beach",
+				"character": "Party Guest (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1543059,
+				"order": 53,
+				"name": "Noble 'Kid' Chissell",
+				"profile_path": "/mTGhwum9F9fpXjH93dcsLYsHXwX.jpg",
+				"character": "Police Officer (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 975597,
+				"order": 54,
+				"name": "Franklyn Farnum",
+				"profile_path": "/273KbcYjCmFpDMUcFtNKf7hNTRV.jpg",
+				"character": "Party Guest (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1078774,
+				"order": 55,
+				"name": "George Ford",
+				"character": "Police Officer (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1462194,
+				"order": 56,
+				"name": "John Roy",
+				"character": "Police Officer (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1514041,
+				"order": 57,
+				"name": "William Hoehne Jr.",
+				"character": "Policeman (uncredited)"
+			},
+			{
+				"id": 1353645,
+				"order": 58,
+				"name": "Carl M. Leviness",
+				"profile_path": "/8SJQSmHZESdalItwsoarlnaohmK.jpg",
+				"character": "Retirement Home Resident (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2069956,
+				"order": 59,
+				"name": "Helen Perry",
+				"character": "Rosella (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 1759,
+				"order": 60,
+				"name": "Grace Lee Whitney",
+				"profile_path": "/3ItcKdBxe6rP7PeCg9lo7JoL2T4.jpg",
+				"character": "Rosella (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 151865,
+				"order": 61,
+				"name": "Pat Comiskey",
+				"character": "Spats' Henchman (uncredited)"
+			},
+			{
+				"id": 2501571,
+				"order": 62,
+				"name": "Tipp McClure",
+				"character": "Spats' Henchman (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1821525,
+				"order": 63,
+				"name": "Alex Ball",
+				"character": "Speakeasy Patron (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2501538,
+				"order": 64,
+				"name": "Beulah Christian",
+				"character": "Speakeasy Patron (uncredited)"
+			},
+			{
+				"id": 2458444,
+				"order": 65,
+				"name": "Bobby Gilbert",
+				"character": "Speakeasy Patron (uncredited)"
+			},
+			{
+				"id": 137260,
+				"order": 66,
+				"name": "Stuart Hall",
+				"character": "Speakeasy Patron (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1468755,
+				"order": 67,
+				"name": "Shep Houghton",
+				"profile_path": "/ecu2vbnOuM9WQfc2HtijJe1vxEZ.jpg",
+				"character": "Speakeasy Patron (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 13856,
+				"order": 68,
+				"name": "Hank Mann",
+				"profile_path": "/5EGNEc8hjNmyNA6bh39czJ0BcGS.jpg",
+				"character": "Speakeasy Patron (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 569144,
+				"order": 69,
+				"name": "Frank McLure",
+				"profile_path": "/cdPFQjqIGBUHg5k2Ud39sB4B8jq.jpg",
+				"character": "Speakeasy Patron (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1208035,
+				"order": 70,
+				"name": "Bert Stevens",
+				"character": "Speakeasy Patron (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1208039,
+				"order": 71,
+				"name": "Arthur Tovey",
+				"profile_path": "/uMJFlEposvwfVxLV4ciTZGLz9wY.jpg",
+				"character": "Speakeasy Patron (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 115331,
+				"order": 72,
+				"name": "John Indrisano",
+				"character": "Waiter (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1537729,
+				"order": 73,
+				"name": "Cosmo Sardo",
+				"profile_path": "/s1UjjN9YT6W8JYf8UB0UuK7lXeY.jpg",
+				"character": "Waiter (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2011688,
+				"order": 74,
+				"name": "Sam Bagley",
+				"character": "(uncredited)"
+			},
+			{
+				"id": 2501560,
+				"order": 75,
+				"name": "George Lake",
+				"character": "(uncredited)"
+			},
+			{
+				"id": 1747678,
+				"order": 76,
+				"name": "Tiger Joe Marsh",
+				"character": "(uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 151771,
+				"order": 77,
+				"name": "Jack Mather",
+				"profile_path": "/tpCMvjy25fvEVNUhpqU3Cty28ZO.jpg",
+				"character": "(uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1250242,
+				"order": 78,
+				"name": "Joe Palma",
+				"character": "(uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1496053,
+				"order": 79,
+				"name": "Carl Sklover",
+				"profile_path": "/yHFkElMPlDhiXTSDXDAo0tfnCps.jpg",
+				"character": "(uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 119255,
+				"order": 80,
+				"name": "Billy Wayne",
+				"profile_path": "/5aEISDrL1cjanHCvX4fuSzKnqhq.jpg",
+				"character": "(uncredited)",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 3146,
+				"name": "Billy Wilder",
+				"profile_path": "/nWV9BDDCbRegP7etiPjl3vYnJEq.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 3146,
+				"name": "Billy Wilder",
+				"profile_path": "/nWV9BDDCbRegP7etiPjl3vYnJEq.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 8621,
+				"name": "Arthur P. Schmidt",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 3148,
+				"name": "Charles Lang",
+				"profile_path": "/gSPlvM65CY8WITIugbO2PyKMDaU.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 4127,
+				"name": "Orry-Kelly",
+				"profile_path": "/sbO49ovOUfjyYwRHA66uSVsssSr.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1454978,
+				"name": "Alice Monte",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 3146,
+				"name": "Billy Wilder",
+				"profile_path": "/nWV9BDDCbRegP7etiPjl3vYnJEq.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4106,
+				"name": "Allen K. Wood",
+				"job": "Production Manager",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 51379,
+				"name": "Eve Newman",
+				"job": "Music Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 17672,
+				"name": "Agnes Flanagan",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 10919,
+				"name": "Fred Lau",
+				"job": "Sound",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 14056,
+				"name": "Emile LaVigne",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 4104,
+				"name": "Edward G. Boyle",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 4107,
+				"name": "Milt Rice",
+				"job": "Special Effects",
+				"department": "Crew"
+			},
+			{
+				"id": 12495,
+				"name": "Ted Haworth",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 4100,
+				"name": "Adolph Deutsch",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 940683,
+				"name": "Sam Nelson",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 3158,
+				"name": "Michael Logan",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3157,
+				"name": "Robert Thoeren",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3147,
+				"name": "I. A. L. Diamond",
+				"profile_path": "/tm4mgbRqYYQMqbIps8F6iKmOBM9.jpg",
+				"job": "Associate Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3147,
+				"name": "I. A. L. Diamond",
+				"profile_path": "/tm4mgbRqYYQMqbIps8F6iKmOBM9.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1427699,
+				"name": "John Franco",
+				"job": "Continuity",
+				"department": "Directing"
+			},
+			{
+				"id": 1897584,
+				"name": "Tom Plews",
+				"job": "Props",
+				"department": "Art"
+			},
+			{
+				"id": 3159,
+				"name": "Doane Harrison",
+				"job": "Associate Producer",
+				"department": "Production",
+				"gender": 2
+			}
+		]
+	}
+}

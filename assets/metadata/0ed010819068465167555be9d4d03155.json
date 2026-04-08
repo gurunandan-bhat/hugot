@@ -1,0 +1,277 @@
+{
+	"id": 5801,
+	"title": "Pather Panchali",
+	"original_title": "পথের পাঁচালী",
+	"original_language": "bn",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 36,
+			"name": "History"
+		}
+	],
+	"overview": "Impoverished priest Harihar Ray leaves his rural Bengal village in search of work. His wife, Sarbojaya, looks after their rebellious daughter, Durga, and young son, Apu. The children enjoy the small pleasures of their difficult life.",
+	"backdrop_path": "/wadoNHCMPElgYuOqLxqDQqXpTMx.jpg",
+	"poster_path": "/frZj5djlU9hFEjMcL21RJZVuG5O.jpg",
+	"release_date": "1955-08-26",
+	"credits": {
+		"cast": [
+			{
+				"id": 13762,
+				"order": 0,
+				"name": "Kanu Bannerjee",
+				"profile_path": "/4Si1KHQMsgIlmRtxoMualY6Iazv.jpg",
+				"character": "Harihar Ray",
+				"gender": 2
+			},
+			{
+				"id": 13763,
+				"order": 1,
+				"name": "Karuna Banerjee",
+				"profile_path": "/pm4DcNLgkzzuHO53mi1BEuYnliv.jpg",
+				"character": "Sarbojaya Ray",
+				"gender": 1
+			},
+			{
+				"id": 45593,
+				"order": 2,
+				"name": "Chunibala Devi",
+				"character": "Indir Thakrun",
+				"gender": 1
+			},
+			{
+				"id": 45591,
+				"order": 3,
+				"name": "Uma Das Gupta",
+				"character": "Durga Ray",
+				"gender": 1
+			},
+			{
+				"id": 45592,
+				"order": 4,
+				"name": "Subir Banerjee",
+				"character": "Apurba \"Apu\" Kumar Ray",
+				"gender": 2
+			},
+			{
+				"id": 1559031,
+				"order": 5,
+				"name": "Runki Banerjee",
+				"profile_path": "/stIqJonoZE6oeHpWsc5vFHrLHlw.jpg",
+				"character": "Little Durga Ray"
+			},
+			{
+				"id": 1409834,
+				"order": 6,
+				"name": "Reba Devi",
+				"profile_path": "/rwCatordwQdDqizNLtiUlIB75i2.jpg",
+				"character": "Seja Thakrun",
+				"gender": 1
+			},
+			{
+				"id": 1554963,
+				"order": 7,
+				"name": "Aparna Devi",
+				"profile_path": "/pQ2WmrepdJS4ry0hr7tlvoHpeEh.jpg",
+				"character": "Nilmoni's Wife"
+			},
+			{
+				"id": 1124677,
+				"order": 8,
+				"name": "Tulsi Chakraborty",
+				"profile_path": "/rRyitVbDqnP8pnq1KYfelSD2PNJ.jpg",
+				"character": "Prasanna, School Teacher"
+			},
+			{
+				"id": 1559037,
+				"order": 9,
+				"name": "Binoy Mukherjee",
+				"character": "Baidyanath Majumdar"
+			},
+			{
+				"id": 1559032,
+				"order": 10,
+				"name": "Haren Banerjee",
+				"character": "Chinibas, Sweet-seller"
+			},
+			{
+				"id": 1559034,
+				"order": 11,
+				"name": "Nibhanani Devi",
+				"profile_path": "/qY95iJSXYPFt1jh53vCvXBXvFiz.jpg",
+				"character": "Dasi Thakurun",
+				"gender": 1
+			},
+			{
+				"id": 1559036,
+				"order": 12,
+				"name": "Roma Ganguli",
+				"character": "Roma"
+			},
+			{
+				"id": 1559038,
+				"order": 13,
+				"name": "Haridhan Nag"
+			},
+			{
+				"id": 1559033,
+				"order": 14,
+				"name": "Rampada Das"
+			},
+			{
+				"id": 1559039,
+				"order": 15,
+				"name": "Harimohan Nag",
+				"character": "Doctor"
+			},
+			{
+				"id": 1559040,
+				"order": 16,
+				"name": "Kshirod Roy",
+				"character": "Priest"
+			},
+			{
+				"id": 1559041,
+				"order": 17,
+				"name": "Suren Roy"
+			},
+			{
+				"id": 5824086,
+				"order": 18,
+				"name": "Manju"
+			},
+			{
+				"id": 5824088,
+				"order": 19,
+				"name": "Shyamal"
+			},
+			{
+				"id": 5824089,
+				"order": 20,
+				"name": "Papia"
+			},
+			{
+				"id": 5824090,
+				"order": 21,
+				"name": "Putul Rani"
+			},
+			{
+				"id": 3531355,
+				"order": 22,
+				"name": "Aparna"
+			}
+		],
+		"crew": [
+			{
+				"id": 12167,
+				"name": "Dulal Dutta",
+				"profile_path": "/lXWvedwh8mONznYcNCFdazn7VZw.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 12168,
+				"name": "Bansi Chandragupta",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 12160,
+				"name": "Satyajit Ray",
+				"profile_path": "/zscxYk8UFenZYJMtTULfbCUdm2k.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 12160,
+				"name": "Satyajit Ray",
+				"profile_path": "/zscxYk8UFenZYJMtTULfbCUdm2k.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 12166,
+				"name": "Subrata Mitra",
+				"profile_path": "/kplyeqwOXDumsQeL5USjGafht14.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 12160,
+				"name": "Satyajit Ray",
+				"profile_path": "/zscxYk8UFenZYJMtTULfbCUdm2k.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1559024,
+				"name": "Anil Choudhury",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1559028,
+				"name": "Subir Hajra",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 12168,
+				"name": "Bansi Chandragupta",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 12168,
+				"name": "Bansi Chandragupta",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1559025,
+				"name": "Ashish Barman",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1559029,
+				"name": "Bhupen Ghosh",
+				"job": "Sound",
+				"department": "Sound"
+			},
+			{
+				"id": 1559027,
+				"name": "Santi Chatterjee",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 13745,
+				"name": "Ravi Shankar",
+				"profile_path": "/seZPaYPkBtx4nnDtRXWrUc2x7t3.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 13744,
+				"name": "Bibhutibhushan Bandyopadhyay",
+				"profile_path": "/wFV0f08L2mH3Z5tromgHHi2viOT.jpg",
+				"job": "Novel",
+				"department": "Writing",
+				"gender": 2
+			}
+		]
+	}
+}

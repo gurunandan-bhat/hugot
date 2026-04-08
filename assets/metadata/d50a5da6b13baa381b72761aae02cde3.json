@@ -1,0 +1,388 @@
+{
+	"id": 10227,
+	"title": "PlayTime",
+	"original_title": "PlayTime",
+	"original_language": "fr",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		}
+	],
+	"overview": "Clumsy Monsieur Hulot finds himself perplexed by the intimidating complexity of a gadget-filled Paris. He attempts to meet with a business contact but soon becomes lost. His roundabout journey parallels that of an American tourist, and as they weave through the inventive urban environment, they intermittently meet, developing an interest in one another. They eventually get together at a chaotic restaurant, along with several other quirky characters.",
+	"backdrop_path": "/ynz9uQBiNGojJzpxhpbGDXkpTP.jpg",
+	"poster_path": "/kQOrS0DLUXYsqPMedM2G6NJcJBq.jpg",
+	"release_date": "1967-12-13",
+	"credits": {
+		"cast": [
+			{
+				"id": 5763,
+				"order": 0,
+				"name": "Jacques Tati",
+				"profile_path": "/tdrgWmYHnKkGxm7leCNCZee3b6O.jpg",
+				"character": "Monsieur Hulot",
+				"gender": 2
+			},
+			{
+				"id": 67960,
+				"order": 1,
+				"name": "Barbara Dennek",
+				"profile_path": "/vVpI0nu5QYIhd06E7DFHBmlp0u5.jpg",
+				"character": "Young Tourist",
+				"gender": 1
+			},
+			{
+				"id": 18242,
+				"order": 2,
+				"name": "Rita Maiden",
+				"profile_path": "/z21gHqDxwCgBxdzySbmZVYHNARQ.jpg",
+				"character": "Mr. Schultz's Companion",
+				"gender": 1
+			},
+			{
+				"id": 39145,
+				"order": 3,
+				"name": "France Rumilly",
+				"profile_path": "/1ac5D5IliuUWxRlHZ5WbJPNI44h.jpg",
+				"character": "Woman Selling Eyeglasses",
+				"gender": 1
+			},
+			{
+				"id": 1921077,
+				"order": 4,
+				"name": "France Delahalle",
+				"profile_path": "/qPkk4QmDkOldaAhrY6NiOslHeO9.jpg",
+				"character": "Shopper in Department Store",
+				"gender": 1
+			},
+			{
+				"id": 1206571,
+				"order": 5,
+				"name": "Valérie Camille",
+				"character": "Mr. Lacs's Secretary",
+				"gender": 1
+			},
+			{
+				"id": 1924061,
+				"order": 6,
+				"name": "Erika Dentzler",
+				"character": "Mme. Giffard",
+				"gender": 1
+			},
+			{
+				"id": 3133648,
+				"order": 7,
+				"name": "Nicole Ray",
+				"character": "Singer"
+			},
+			{
+				"id": 3133649,
+				"order": 8,
+				"name": "Yvette Ducreux",
+				"character": "Hat Check Girl"
+			},
+			{
+				"id": 3133650,
+				"order": 9,
+				"name": "Nathalie Jem",
+				"character": "Customer of the Royal Garden"
+			},
+			{
+				"id": 3133651,
+				"order": 10,
+				"name": "Jacqueline Lecomte",
+				"character": "Young Tourist's Friend"
+			},
+			{
+				"id": 2513244,
+				"order": 11,
+				"name": "Olivia Poli",
+				"character": "Customer of the Royal Garden"
+			},
+			{
+				"id": 47965,
+				"order": 12,
+				"name": "Alice Field",
+				"profile_path": "/2np8d70rhxGVdGMGLI609Nop9CT.jpg",
+				"character": "Customer of the Royal Garden",
+				"gender": 1
+			},
+			{
+				"id": 3133652,
+				"order": 13,
+				"name": "Sophie Wennek",
+				"character": "Customer of the Royal Garden"
+			},
+			{
+				"id": 3133653,
+				"order": 14,
+				"name": "Evy Cavallaro",
+				"character": "Customer of the Royal Garden"
+			},
+			{
+				"id": 1004633,
+				"order": 15,
+				"name": "Laure Paillette",
+				"profile_path": "/raHcFZmGVNDeNLmGJMrLQh7lVrA.jpg",
+				"character": "Lamp Woman #1",
+				"gender": 1
+			},
+			{
+				"id": 1995487,
+				"order": 16,
+				"name": "Colette Proust",
+				"profile_path": "/2L8gMman4ldfMelO34uaKw6kpGn.jpg",
+				"character": "Lamp Woman #2",
+				"gender": 1
+			},
+			{
+				"id": 1529404,
+				"order": 17,
+				"name": "Luce Bonifassy",
+				"profile_path": "/qVfZUjaa2WTRBtwmE1SzMAg4EbE.jpg",
+				"character": "Customer of the Royal Garden",
+				"gender": 1
+			},
+			{
+				"id": 1109809,
+				"order": 18,
+				"name": "Ketty France",
+				"character": "Customer of the Royal Garden"
+			},
+			{
+				"id": 3133654,
+				"order": 19,
+				"name": "Eliane Firmin-Didot",
+				"character": "Customer of the Royal Garden"
+			},
+			{
+				"id": 35958,
+				"order": 20,
+				"name": "Billy Kearns",
+				"profile_path": "/yX9kCJ4HLVyYPRZ83XQSACpNz8g.jpg",
+				"character": "Mr. Schulz, the American businessman",
+				"gender": 2
+			},
+			{
+				"id": 3133655,
+				"order": 21,
+				"name": "Tony Andal",
+				"character": "Tony, Restaurant's Doorman"
+			},
+			{
+				"id": 39334,
+				"order": 22,
+				"name": "Yves Barsacq",
+				"profile_path": "/bxTkvQcR3b78MM3BXGBJ0jSbOL9.jpg",
+				"character": "Hulot's Friend",
+				"gender": 2
+			},
+			{
+				"id": 1174515,
+				"order": 23,
+				"name": "André Fouché",
+				"profile_path": "/7YcGjgPfAeLduVG70j9vDWiO83k.jpg",
+				"character": "Restaurant Manager",
+				"gender": 2
+			},
+			{
+				"id": 580216,
+				"order": 24,
+				"name": "Georges Montant",
+				"profile_path": "/wmtP2XGIvoGQXvtN0jXtEPYaK3s.jpg",
+				"character": "Mr. Giffard",
+				"gender": 2
+			},
+			{
+				"id": 2591258,
+				"order": 25,
+				"name": "Georges Faye",
+				"character": "Architect"
+			},
+			{
+				"id": 142593,
+				"order": 26,
+				"name": "John Abbey",
+				"profile_path": "/7ffhS0Co7BSp7KnDQRgqKatA4O4.jpg",
+				"character": "Mr. Lacs",
+				"gender": 2
+			},
+			{
+				"id": 38171,
+				"order": 27,
+				"name": "Reinhard Kolldehoff",
+				"profile_path": "/gQwOGcEcEdGVdTnE30YADnojNXw.jpg",
+				"character": "German Businessman",
+				"gender": 2
+			},
+			{
+				"id": 39344,
+				"order": 28,
+				"name": "Michel Francini",
+				"profile_path": "/aqnuDPOTALnBIgF7RBMIedu4ObA.jpg",
+				"character": "1st Maitre D'",
+				"gender": 2
+			},
+			{
+				"id": 3133656,
+				"order": 29,
+				"name": "Grégoire Katz",
+				"character": "German Salesman"
+			},
+			{
+				"id": 2657493,
+				"order": 30,
+				"name": "Jack Gauthier",
+				"character": "The Guide"
+			},
+			{
+				"id": 1500823,
+				"order": 31,
+				"name": "Henri Piccoli",
+				"character": "An Important Gentleman"
+			},
+			{
+				"id": 3133657,
+				"order": 32,
+				"name": "Léon Doyen",
+				"character": "Old Doorman"
+			},
+			{
+				"id": 992716,
+				"order": 33,
+				"name": "Douglas Read"
+			},
+			{
+				"id": 1326530,
+				"order": 34,
+				"name": "François Viaur",
+				"profile_path": "/cN9Ex7afkpnn2F7ONo0BeC2q2tD.jpg",
+				"character": "Waiter at the Royal Garden",
+				"gender": 2
+			},
+			{
+				"id": 3133658,
+				"order": 35,
+				"name": "Bob Harley"
+			},
+			{
+				"id": 3133659,
+				"order": 36,
+				"name": "Jacques Chauveau"
+			},
+			{
+				"id": 3133660,
+				"order": 37,
+				"name": "Gilbert Reeb"
+			},
+			{
+				"id": 583500,
+				"order": 38,
+				"name": "Marc Monjou",
+				"character": "False Hulot with beard",
+				"gender": 2
+			},
+			{
+				"id": 1624814,
+				"order": 39,
+				"name": "Billy Bourbon"
+			}
+		],
+		"crew": [
+			{
+				"id": 5763,
+				"name": "Jacques Tati",
+				"profile_path": "/tdrgWmYHnKkGxm7leCNCZee3b6O.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 5774,
+				"name": "Jacques Lagrange",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5763,
+				"name": "Jacques Tati",
+				"profile_path": "/tdrgWmYHnKkGxm7leCNCZee3b6O.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 67961,
+				"name": "Art Buchwald",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 67962,
+				"name": "Bernard Maurice",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 67963,
+				"name": "Francis Lemarque",
+				"profile_path": "/7jWyEjisR8mOtT0QmMhJPTaFqfq.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 26020,
+				"name": "Jean Badal",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 32074,
+				"name": "Andréas Winding",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 67964,
+				"name": "Gérard Pollicand",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1867349,
+				"name": "Eugène Roman",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 32321,
+				"name": "Jacques Cottin",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 69216,
+				"name": "Maurice Laumain",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3571,
+				"name": "Jacques Maumont",
+				"job": "Sound Director",
+				"department": "Sound",
+				"gender": 2
+			}
+		]
+	}
+}

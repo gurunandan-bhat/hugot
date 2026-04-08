@@ -1,0 +1,75 @@
+{
+	"id": 26317,
+	"title": "Man with a Movie Camera",
+	"original_title": "Человек с киноаппаратом",
+	"original_language": "ru",
+	"genres": [
+		{
+			"id": 99,
+			"name": "Documentary"
+		}
+	],
+	"overview": "A cameraman wanders around with a camera slung over his shoulder, documenting urban life with dazzling inventiveness.",
+	"backdrop_path": "/byRNEm1QwfQC1Mn0K4gLM2fIfWO.jpg",
+	"poster_path": "/vJgAdgJWX54v0oXfIvhwjlZnmgn.jpg",
+	"release_date": "1929-05-12",
+	"credits": {
+		"cast": [
+			{
+				"id": 1042437,
+				"order": 0,
+				"name": "Mikhail Kaufman",
+				"profile_path": "/o2EH1WP2Qu271ToI63okSZwCzTF.jpg",
+				"character": "The Cameraman",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 95111,
+				"name": "Dziga Vertov",
+				"profile_path": "/6CvXGGtNiF3ofSe1MFtGwgJnCVo.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 95115,
+				"name": "Star Mishkel-Eneva",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1042437,
+				"name": "Mikhail Kaufman",
+				"profile_path": "/o2EH1WP2Qu271ToI63okSZwCzTF.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1550009,
+				"name": "Gleb Troyanski",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1057498,
+				"name": "Elizaveta Svilova",
+				"profile_path": "/mvcgUvZ12Qa1Ut2nE6Zx6CRNmiX.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 95111,
+				"name": "Dziga Vertov",
+				"profile_path": "/6CvXGGtNiF3ofSe1MFtGwgJnCVo.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			}
+		]
+	}
+}

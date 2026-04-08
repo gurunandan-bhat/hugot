@@ -1,0 +1,15 @@
+{{ define "main" }}
+    <pre>cast/taxonomy.html</pre>
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+    {{ range .Pages }}
+        <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+        <p>
+            {{- $pages := slice }}
+            {{- range .Pages }}
+                {{- $pages = append (printf "<a href='%s'>%s</a>" .RelPermalink .LinkTitle) $pages }}
+            {{- end }}
+            {{- (delimit $pages " | ") | safeHTML }}
+        </p>
+    {{ end }}
+{{ end }}

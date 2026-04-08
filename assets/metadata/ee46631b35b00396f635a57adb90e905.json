@@ -1,0 +1,428 @@
+{
+	"id": 776,
+	"title": "The Rules of the Game",
+	"original_title": "La Règle du jeu",
+	"original_language": "fr",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 10749,
+			"name": "Romance"
+		}
+	],
+	"overview": "The Marquis de la Chesnaye and his wife host a weekend gala where a variety of complicated romantic and social entanglements between guests and servants lead to tragedy, all against the backdrop of a looming war.",
+	"backdrop_path": "/eGn78oJms1vrE4Z38m05d5GSTvk.jpg",
+	"poster_path": "/8JOzt7uFZyshcuzCBmYU6CDJL4D.jpg",
+	"release_date": "1939-07-09",
+	"credits": {
+		"cast": [
+			{
+				"id": 11528,
+				"order": 0,
+				"name": "Jean Renoir",
+				"profile_path": "/ePLyIIgSud1ZhhaLtj1yFo2diC4.jpg",
+				"character": "Octave",
+				"gender": 2
+			},
+			{
+				"id": 4121,
+				"order": 1,
+				"name": "Marcel Dalio",
+				"profile_path": "/yYZMbAl56e5S7uFbiFbj0YziIDB.jpg",
+				"character": "Robert de la Cheyniest",
+				"gender": 2
+			},
+			{
+				"id": 11534,
+				"order": 2,
+				"name": "Nora Gregor",
+				"profile_path": "/7hOjInnf0E4G2Ohwz7QPvdamMcj.jpg",
+				"character": "Christine de la Cheyniest",
+				"gender": 1
+			},
+			{
+				"id": 11541,
+				"order": 3,
+				"name": "Julien Carette",
+				"profile_path": "/6b0lgm5lexNOYnBl9LilhR7NwLa.jpg",
+				"character": "Marceau, le braconnier",
+				"gender": 2
+			},
+			{
+				"id": 11542,
+				"order": 4,
+				"name": "Roland Toutain",
+				"profile_path": "/gsfZvHnCLMRlxVbNwNmU652fuH9.jpg",
+				"character": "André Jurieux",
+				"gender": 2
+			},
+			{
+				"id": 11535,
+				"order": 5,
+				"name": "Paulette Dubost",
+				"profile_path": "/tlAc3Z7ACgvg6N6qVqh8KCwdiyc.jpg",
+				"character": "Lisette, sa camériste",
+				"gender": 1
+			},
+			{
+				"id": 11543,
+				"order": 6,
+				"name": "Gaston Modot",
+				"profile_path": "/6XEN6LX7stfMhnLi7ng0qkwfHJ6.jpg",
+				"character": "Edouard Schumacher, le garde-chasse",
+				"gender": 2
+			},
+			{
+				"id": 9744,
+				"order": 7,
+				"name": "Mila Parély",
+				"profile_path": "/kAfGY0eT1wf1O9UsDuaWKSyQmgk.jpg",
+				"character": "Geneviève de Marras",
+				"gender": 1
+			},
+			{
+				"id": 11539,
+				"order": 8,
+				"name": "Anne Mayen",
+				"profile_path": "/2BZNuw8HFzxeWTqWuNKYZCoXBDx.jpg",
+				"character": "Jackie, nièce de Christine"
+			},
+			{
+				"id": 1197883,
+				"order": 9,
+				"name": "Eddy Debray",
+				"profile_path": "/c9Z1KmrDlMgi9VANBKtseRJzcBt.jpg",
+				"character": "Corneille, le majordome",
+				"gender": 2
+			},
+			{
+				"id": 11537,
+				"order": 10,
+				"name": "Odette Talazac",
+				"profile_path": "/kg8IRL0M0iCBKRDQOsURlAixruT.jpg",
+				"character": "Madame de la Plante",
+				"gender": 1
+			},
+			{
+				"id": 11538,
+				"order": 11,
+				"name": "Claire Gérard",
+				"profile_path": "/qAu4kDIa2YQQ6apj7RCKdADQLC9.jpg",
+				"character": "Madame de la Bruyère",
+				"gender": 1
+			},
+			{
+				"id": 144364,
+				"order": 12,
+				"name": "Pierre Magnier",
+				"profile_path": "/o75tOvZRHdYDyCviOwPU8uIoRwh.jpg",
+				"character": "Le général",
+				"gender": 2
+			},
+			{
+				"id": 1460966,
+				"order": 13,
+				"name": "Pierre Nay",
+				"profile_path": "/jKUgCJr6nqJ4YM9uB8lxNBAjURl.jpg",
+				"character": "Monsieur de St. Aubin",
+				"gender": 2
+			},
+			{
+				"id": 1460967,
+				"order": 14,
+				"name": "Richard Francœur",
+				"profile_path": "/4GOo11Pt7GhcC7pbT09V13jJNgm.jpg",
+				"character": "Monsieur La Bruyère",
+				"gender": 2
+			},
+			{
+				"id": 11601,
+				"order": 15,
+				"name": "Léon Larive",
+				"profile_path": "/igrzIXXMqZ2PPJkivGkFWSCAgxX.jpg",
+				"character": "Le cuisinier",
+				"gender": 2
+			},
+			{
+				"id": 11540,
+				"order": 16,
+				"name": "Lise Elina",
+				"profile_path": "/hFenVQ8bkqpvhxgOgpe0VRlMwJF.jpg",
+				"character": "Radio-Reporter",
+				"gender": 1
+			},
+			{
+				"id": 548717,
+				"order": 17,
+				"name": "Nicolas Amato",
+				"profile_path": "/m4YyU3wMT7U5v8fcKsmj9LvYVuM.jpg",
+				"character": "L'invité sud-américain (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 38376,
+				"order": 18,
+				"name": "Jacques Beauvais",
+				"profile_path": "/seR6nAVbej5phrKXhwZcWkjrk7P.jpg",
+				"character": "Adolphe, un domestique (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 133185,
+				"order": 19,
+				"name": "Henri Cartier-Bresson",
+				"profile_path": "/8PoxkduHwvoTlahyhPWpgYZOehK.jpg",
+				"character": "Le domestique anglais (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1460968,
+				"order": 20,
+				"name": "Celestin",
+				"character": "Le garçon de cuisine (uncredited)"
+			},
+			{
+				"id": 103890,
+				"order": 21,
+				"name": "Tony Corteggiani",
+				"character": "Berthelin (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1460969,
+				"order": 22,
+				"name": "Géo Forster",
+				"profile_path": "/633UNtzpzrfaVoTmbe4UuyjW2bD.jpg",
+				"character": "L'invité efféminé (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1460970,
+				"order": 23,
+				"name": "Camille François",
+				"profile_path": "/bQI9WLjpp2ahPsJCUYL6F3yTmop.jpg",
+				"character": "La journaliste (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 103886,
+				"order": 24,
+				"name": "Jenny Hélia",
+				"profile_path": "/4cmqt7sLN0KUFXwMRCSLQ11IBA6.jpg",
+				"character": "La servante (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 1505996,
+				"order": 25,
+				"name": "Maurice Marceau",
+				"profile_path": "/zfvFOQSxii9X5PugW3MlLjnZR2r.jpg",
+				"character": "Un garde-chasse (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 140365,
+				"order": 26,
+				"name": "Marcel Melrac",
+				"profile_path": "/3dXfDVO8ygpWkGZxyfZnnpxE2bT.jpg",
+				"character": "Célestin, l'aide cuisinier",
+				"gender": 2
+			},
+			{
+				"id": 133187,
+				"order": 27,
+				"name": "André Zwobada",
+				"profile_path": "/nGbqqxK9aM7Bp5ur6zqD6gE5xVr.jpg",
+				"character": "L'ingénieur (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1342969,
+				"order": 28,
+				"name": "Marguerite de Morlaye",
+				"profile_path": "/wXkjqJag1YVzuzZIOnVGBQrHGIw.jpg",
+				"character": "une invitée",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 11528,
+				"name": "Jean Renoir",
+				"profile_path": "/ePLyIIgSud1ZhhaLtj1yFo2diC4.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 11533,
+				"name": "Coco Chanel",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 11528,
+				"name": "Jean Renoir",
+				"profile_path": "/ePLyIIgSud1ZhhaLtj1yFo2diC4.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 11531,
+				"name": "Marthe Huguet",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 11532,
+				"name": "Marguerite Renoir",
+				"profile_path": "/voHXNa8MNbQxPWW26hX4RBsAbkn.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 11529,
+				"name": "Carl Koch",
+				"job": "Novel",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 11530,
+				"name": "Jean Bachelet",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 960039,
+				"name": "Roger Desormière",
+				"profile_path": "/rY4s6AO4RP2uYkEiihy2uhivxSv.jpg",
+				"job": "Conductor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 960721,
+				"name": "Jean-Paul Alphen",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 37450,
+				"name": "Jacques Lemare",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1876121,
+				"name": "Alain Renoir",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 11528,
+				"name": "Jean Renoir",
+				"profile_path": "/ePLyIIgSud1ZhhaLtj1yFo2diC4.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 10473,
+				"name": "Max Douy",
+				"profile_path": "/9AHNTR1LQAUDOxjAZPeOYWDajf1.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1876122,
+				"name": "Ralph",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 11558,
+				"name": "Eugène Lourié",
+				"profile_path": "/utvEzHHhT65x9o2Md91recfgr3n.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 11561,
+				"name": "Joseph de Bretagne",
+				"job": "Sound Engineer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 11563,
+				"name": "Jean Mousselle",
+				"job": "Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 1698685,
+				"name": "Sam Levin",
+				"job": "Still Photographer",
+				"department": "Camera"
+			},
+			{
+				"id": 11555,
+				"name": "Joseph Kosma",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 133185,
+				"name": "Henri Cartier-Bresson",
+				"profile_path": "/8PoxkduHwvoTlahyhPWpgYZOehK.jpg",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2004336,
+				"name": "Claude Renoir Sr.",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 133187,
+				"name": "André Zwobada",
+				"profile_path": "/nGbqqxK9aM7Bp5ur6zqD6gE5xVr.jpg",
+				"job": "Second Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1460970,
+				"name": "Camille François",
+				"profile_path": "/bQI9WLjpp2ahPsJCUYL6F3yTmop.jpg",
+				"job": "Production Supervisor",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1997768,
+				"name": "Raymond Pillon",
+				"job": "Unit Manager",
+				"department": "Production"
+			}
+		]
+	}
+}

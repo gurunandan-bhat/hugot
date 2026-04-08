@@ -1,0 +1,19 @@
+@import "components/header.css";
+@import "components/footer.css";
+
+body {
+    color: #222;
+    font-family: "DIN-Regular";
+    line-height: 1.5;
+    margin: 1rem;
+    max-width: 768px;
+}
+
+h1 {
+    font-family: "DIN-Light";
+}
+
+a {
+    color: crimson;
+    text-decoration: none;
+}

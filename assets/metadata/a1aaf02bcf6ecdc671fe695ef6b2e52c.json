@@ -1,0 +1,113 @@
+{
+	"id": 27432,
+	"title": "Killer of Sheep",
+	"original_title": "Killer of Sheep",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "An African-American man working at a slaughterhouse in the Watts area of Los Angeles leads a dissatisfied and listless existence.",
+	"backdrop_path": "/r763vsubExGcDJypctYuLLJmhB.jpg",
+	"poster_path": "/z1CqJKI6gmdAMprD1NOYSCHVXEv.jpg",
+	"release_date": "1978-11-14",
+	"credits": {
+		"cast": [
+			{
+				"id": 16506,
+				"order": 0,
+				"name": "Henry G. Sanders",
+				"profile_path": "/4HWUP5K5kPxt5c0Xp65QOyV5gPG.jpg",
+				"character": "Stan",
+				"gender": 2
+			},
+			{
+				"id": 143438,
+				"order": 1,
+				"name": "Kaycee Moore",
+				"profile_path": "/7e3SzMwd9i5GEHNUhvfLEY0fBzB.jpg",
+				"character": "Stan's Wife",
+				"gender": 1
+			},
+			{
+				"id": 143439,
+				"order": 2,
+				"name": "Charles Bracy",
+				"character": "Bracy",
+				"gender": 2
+			},
+			{
+				"id": 143440,
+				"order": 3,
+				"name": "Angela Burnett",
+				"character": "Stan's Daughter",
+				"gender": 1
+			},
+			{
+				"id": 122289,
+				"order": 4,
+				"name": "Eugene Cherry",
+				"character": "Eugene",
+				"gender": 2
+			},
+			{
+				"id": 143441,
+				"order": 5,
+				"name": "Jack Drummond",
+				"character": "Stan's Son",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 97755,
+				"name": "Charles Burnett",
+				"profile_path": "/798g9dlNawhj20PbP0w5U4eqq.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 143439,
+				"name": "Charles Bracy",
+				"job": "Sound",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 97755,
+				"name": "Charles Burnett",
+				"profile_path": "/798g9dlNawhj20PbP0w5U4eqq.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 97755,
+				"name": "Charles Burnett",
+				"profile_path": "/798g9dlNawhj20PbP0w5U4eqq.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 97755,
+				"name": "Charles Burnett",
+				"profile_path": "/798g9dlNawhj20PbP0w5U4eqq.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 97755,
+				"name": "Charles Burnett",
+				"profile_path": "/798g9dlNawhj20PbP0w5U4eqq.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			}
+		]
+	}
+}

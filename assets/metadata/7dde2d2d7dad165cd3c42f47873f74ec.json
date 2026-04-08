@@ -1,0 +1,628 @@
+{
+	"id": 422,
+	"title": "8½",
+	"original_title": "8½",
+	"original_language": "it",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Guido Anselmi, a film director, finds himself creatively barren at the peak of his career. Urged by his doctors to rest, Anselmi heads for a luxurious resort, but a sorry group gathers—his producer, staff, actors, wife, mistress, and relatives—each one begging him to get on with the show. In retreat from their dependency, he fantasizes about past women and dreams of his childhood.",
+	"backdrop_path": "/y2FNZLHynsevBnVTocGW6c3pQpr.jpg",
+	"poster_path": "/t8pFvll3cFrn5NmqZz2FawqIwPe.jpg",
+	"release_date": "1963-02-14",
+	"credits": {
+		"cast": [
+			{
+				"id": 5676,
+				"order": 0,
+				"name": "Marcello Mastroianni",
+				"profile_path": "/bfLnFfNfMC73Q7WW90xQy2PvRZm.jpg",
+				"character": "Guido Anselmi",
+				"gender": 2
+			},
+			{
+				"id": 4959,
+				"order": 1,
+				"name": "Claudia Cardinale",
+				"profile_path": "/gbTVdZGrOwteJ7qYSzyn8XpUk0H.jpg",
+				"character": "Claudia",
+				"gender": 1
+			},
+			{
+				"id": 5682,
+				"order": 2,
+				"name": "Anouk Aimée",
+				"profile_path": "/rXkZZRfbBlGfcxQstQqeXX0GDZx.jpg",
+				"character": "Luisa Anselmi",
+				"gender": 1
+			},
+			{
+				"id": 5683,
+				"order": 3,
+				"name": "Sandra Milo",
+				"profile_path": "/730Y68UaEtm9G34KvsNe7xbdXMi.jpg",
+				"character": "Carla",
+				"gender": 1
+			},
+			{
+				"id": 5684,
+				"order": 4,
+				"name": "Rossella Falk",
+				"profile_path": "/30pEtkiH2drjkke3nfjjGYhouhN.jpg",
+				"character": "Rossella",
+				"gender": 1
+			},
+			{
+				"id": 5685,
+				"order": 5,
+				"name": "Barbara Steele",
+				"profile_path": "/8keqPuxnSBgLIVBPspd3hHlQiEE.jpg",
+				"character": "Gloria Morin",
+				"gender": 1
+			},
+			{
+				"id": 4116,
+				"order": 6,
+				"name": "Madeleine Lebeau",
+				"profile_path": "/4Mx6Nj7sPwA8OWHgcWOTL6OXWWE.jpg",
+				"character": "Madeleine, the French Actress",
+				"gender": 1
+			},
+			{
+				"id": 5686,
+				"order": 7,
+				"name": "Caterina Boratto",
+				"profile_path": "/bG0jlOnMdhgvrqKaIHrQwLcmToI.jpg",
+				"character": "Mysterious Lady",
+				"gender": 1
+			},
+			{
+				"id": 5687,
+				"order": 8,
+				"name": "Eddra Gale",
+				"profile_path": "/h50PxpPG4BU7dj0HL0sYrZJQP47.jpg",
+				"character": "La Saraghina",
+				"gender": 1
+			},
+			{
+				"id": 5688,
+				"order": 9,
+				"name": "Guido Alberti",
+				"profile_path": "/qE4NJkE8fjYyCEy3e8x9LEzpdyM.jpg",
+				"character": "Pace, the Producer",
+				"gender": 2
+			},
+			{
+				"id": 1485027,
+				"order": 10,
+				"name": "Mario Conocchia",
+				"profile_path": "/ud4HjFxDkTgIdm1sCUUDoiclto7.jpg",
+				"character": "Conocchia, the Production Manager",
+				"gender": 2
+			},
+			{
+				"id": 1485028,
+				"order": 11,
+				"name": "Bruno Agostini",
+				"profile_path": "/B5u278NFZOTu4babK2vKeGSUz.jpg",
+				"character": "Bruno, the Second Production Secretary"
+			},
+			{
+				"id": 1064720,
+				"order": 12,
+				"name": "Cesarino Miceli Picardi",
+				"profile_path": "/4VbcqkyHGeuNHTEiGlgIRCnFYCy.jpg",
+				"character": "Cesarino, the Production Supervisor",
+				"gender": 2
+			},
+			{
+				"id": 550266,
+				"order": 13,
+				"name": "Jean Rougeul",
+				"profile_path": "/aZFnPYmlOzk7KCqV4TyTYkqrPJ8.jpg",
+				"character": "Carini, the Film Critic",
+				"gender": 2
+			},
+			{
+				"id": 39019,
+				"order": 14,
+				"name": "Mario Pisu",
+				"profile_path": "/9nEleEKOn0IVbRINF9vmywBgKBr.jpg",
+				"character": "Mario Mezzabotta",
+				"gender": 2
+			},
+			{
+				"id": 1485029,
+				"order": 15,
+				"name": "Yvonne Casadei",
+				"character": "Jacqueline Bonbon",
+				"gender": 1
+			},
+			{
+				"id": 1485030,
+				"order": 16,
+				"name": "Ian Dallas",
+				"character": "Maurice, Maya's Assistant",
+				"gender": 2
+			},
+			{
+				"id": 99514,
+				"order": 17,
+				"name": "Mino Doro",
+				"profile_path": "/rlkx0GBc7avW5orDNAGNiPz0GbN.jpg",
+				"character": "Claudia's Agent",
+				"gender": 2
+			},
+			{
+				"id": 165525,
+				"order": 18,
+				"name": "Nadia Sanders",
+				"profile_path": "/igRUIJjIAvWoCbrOR94OESLQ7kC.jpg",
+				"character": "Nadine, the Hostess",
+				"gender": 1
+			},
+			{
+				"id": 1317071,
+				"order": 19,
+				"name": "Georgia Simmons",
+				"profile_path": "/3ebz7Kt20P7pr5dUrWG4Upmyagp.jpg",
+				"character": "Guido's Grandmother",
+				"gender": 1
+			},
+			{
+				"id": 564551,
+				"order": 20,
+				"name": "Edy Vessel",
+				"profile_path": "/60SbkFm0XVJ6nGzOaWy8oTjQ14r.jpg",
+				"character": "The Model",
+				"gender": 1
+			},
+			{
+				"id": 2072450,
+				"order": 21,
+				"name": "Tito Masini",
+				"character": "The Cardinal",
+				"gender": 2
+			},
+			{
+				"id": 946144,
+				"order": 22,
+				"name": "Annie Gorassini",
+				"profile_path": "/3RJCj7lGL4ZAaBoDiVIeeOlfU1L.jpg",
+				"character": "Producer's Friend",
+				"gender": 1
+			},
+			{
+				"id": 235350,
+				"order": 23,
+				"name": "Rossella Como",
+				"profile_path": "/lWBguDrQEJQucDRXZU8QbfLKyKY.jpg",
+				"character": "Luisa's Friend",
+				"gender": 1
+			},
+			{
+				"id": 1209983,
+				"order": 24,
+				"name": "Mark Herron",
+				"profile_path": "/ijKItczuXjYOWdry6vUBodRFktj.jpg",
+				"character": "Luisa's Suitor",
+				"gender": 2
+			},
+			{
+				"id": 2072451,
+				"order": 25,
+				"name": "Marisa Colomber",
+				"character": "Guido's Aunt"
+			},
+			{
+				"id": 1604649,
+				"order": 26,
+				"name": "Neil Robinson",
+				"character": "The French Actress's Agent",
+				"gender": 2
+			},
+			{
+				"id": 2072452,
+				"order": 27,
+				"name": "Elisabetta Catalano",
+				"character": "Matilde, Luisa's Sister",
+				"gender": 1
+			},
+			{
+				"id": 590445,
+				"order": 28,
+				"name": "Eugene Walter",
+				"profile_path": "/61ZTxAQYElRbgvP9KbKgykv0lmO.jpg",
+				"character": "The American Journalist",
+				"gender": 2
+			},
+			{
+				"id": 2072453,
+				"order": 29,
+				"name": "Hazel Rogers",
+				"character": "La negretta",
+				"gender": 1
+			},
+			{
+				"id": 1820305,
+				"order": 30,
+				"name": "Gilda Dahlberg",
+				"profile_path": "/uajjHIz3WU2E6dRYbUUaf3ksasm.jpg",
+				"character": "American Journalist's Wife",
+				"gender": 1
+			},
+			{
+				"id": 2072454,
+				"order": 31,
+				"name": "Mario Tarchetti",
+				"character": "Claudia's Press Office",
+				"gender": 2
+			},
+			{
+				"id": 2072455,
+				"order": 32,
+				"name": "Mary Indovino",
+				"character": "Maya, the Clairvoyant",
+				"gender": 1
+			},
+			{
+				"id": 2072456,
+				"order": 33,
+				"name": "Frazier Rippy",
+				"character": "The Lay Secretary"
+			},
+			{
+				"id": 2072457,
+				"order": 34,
+				"name": "Francesco Rigamonti",
+				"character": "Luisa's Friend",
+				"gender": 2
+			},
+			{
+				"id": 1039469,
+				"order": 35,
+				"name": "Giulio Paradisi",
+				"profile_path": "/pjKDKjPlrSuEorOtQ6qdB8XwP24.jpg",
+				"character": "A Friend",
+				"gender": 2
+			},
+			{
+				"id": 2072458,
+				"order": 36,
+				"name": "Marco Gemini",
+				"character": "Guido as a Child",
+				"gender": 2
+			},
+			{
+				"id": 543556,
+				"order": 37,
+				"name": "Giuditta Rissone",
+				"profile_path": "/izscVv2i7k9vz4uwU0W9Exts9Wg.jpg",
+				"character": "Guido's Mother",
+				"gender": 1
+			},
+			{
+				"id": 5965,
+				"order": 38,
+				"name": "Annibale Ninchi",
+				"profile_path": "/kwO6UhwndhSVwEZZ3XGwsNizZfu.jpg",
+				"character": "Guido's Father",
+				"gender": 2
+			},
+			{
+				"id": 1042793,
+				"order": 39,
+				"name": "Dina De Santis",
+				"profile_path": "/g36ZrZEYdsIWjtWlksUhXVetCic.jpg",
+				"character": "Dina (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 572047,
+				"order": 40,
+				"name": "Eva Gioia",
+				"character": "Eva (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 1108286,
+				"order": 41,
+				"name": "Maria Tedeschi",
+				"profile_path": "/tF3oeho2TkUZJrbpaIjN0slxYO7.jpg",
+				"character": "School Director (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 1760933,
+				"order": 42,
+				"name": "Antonio Acqua",
+				"character": "A Man in a Car (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 592521,
+				"order": 43,
+				"name": "Giulio Calì",
+				"character": "A Man in the Mud (uncredited)"
+			},
+			{
+				"id": 101196,
+				"order": 44,
+				"name": "Franco Caracciolo",
+				"profile_path": "/krozhumz57kaox4DjInHKswS3QZ.jpg",
+				"character": "Young Priest (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1537167,
+				"order": 45,
+				"name": "Olimpia Cavalli",
+				"profile_path": "/b2rDr3XRQDjvEkac6AMhfOkKFVt.jpg",
+				"character": "Olimpia (uncredited)"
+			},
+			{
+				"id": 1139379,
+				"order": 46,
+				"name": "Sonia Gessner",
+				"profile_path": "/n37eQPWAfQAL2X4QOdXjD45pU2O.jpg",
+				"character": "(uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 1071084,
+				"order": 47,
+				"name": "Mathilda Calnan",
+				"profile_path": "/jbuoShgqwGPt7XbuH5EiZGjWI9k.jpg",
+				"character": "Luisa's Friend (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 2604336,
+				"order": 48,
+				"name": "Nadia Balabine",
+				"profile_path": "/okgKsLJ0QWNL70CoayIyXmrFfah.jpg",
+				"character": "Priest Teacher (uncredited)"
+			},
+			{
+				"id": 120613,
+				"order": 49,
+				"name": "John Karlsen",
+				"profile_path": "/fKtoAqPcyi73eW2BaAWhHE2bwEr.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 5397,
+				"name": "Ennio Flaiano",
+				"profile_path": "/mBihuri6Noe6IWiPtwTalkMSJ7P.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5396,
+				"name": "Tullio Pinelli",
+				"profile_path": "/lRElHqsl2Wi2VizQ79TSxQsnL57.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5678,
+				"name": "Brunello Rondi",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5679,
+				"name": "Angelo Rizzoli",
+				"profile_path": "/m0OGWi6emwOwfQaM4XuRwCBPA9c.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3098,
+				"name": "Nino Rota",
+				"profile_path": "/v42v3uM7jqwoZxDJ8MlEtT6Ol7a.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 4415,
+				"name": "Federico Fellini",
+				"profile_path": "/r0GTpMWUrxgPRbMmv38mNggOBvA.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 5680,
+				"name": "Gianni Di Venanzo",
+				"profile_path": "/54yU99jkZ6HSI1gRAASakuyQEAp.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 4415,
+				"name": "Federico Fellini",
+				"profile_path": "/r0GTpMWUrxgPRbMmv38mNggOBvA.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1560815,
+				"name": "Mario Basili",
+				"job": "Unit Manager",
+				"department": "Production"
+			},
+			{
+				"id": 938953,
+				"name": "Clemente Fracassi",
+				"job": "Line Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1189554,
+				"name": "Nello Meniconi",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1064784,
+				"name": "Luciano Ricceri",
+				"profile_path": "/xlQ55lRIt32gLEH87wJQTmkGMo0.jpg",
+				"job": "Assistant Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 5397,
+				"name": "Ennio Flaiano",
+				"profile_path": "/mBihuri6Noe6IWiPtwTalkMSJ7P.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2604495,
+				"name": "Adriana Olasio",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1560817,
+				"name": "Mario Faraoni",
+				"job": "Sound",
+				"department": "Sound"
+			},
+			{
+				"id": 4415,
+				"name": "Federico Fellini",
+				"profile_path": "/r0GTpMWUrxgPRbMmv38mNggOBvA.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1039469,
+				"name": "Giulio Paradisi",
+				"profile_path": "/pjKDKjPlrSuEorOtQ6qdB8XwP24.jpg",
+				"job": "Second Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 544825,
+				"name": "Orietta Nasalli Rocca",
+				"job": "Assistant Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 24670,
+				"name": "Otello Fava",
+				"profile_path": "/oEYLMdjjgww7Mq6cP5CBMDSwTfe.jpg",
+				"job": "Makeup Department Head",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 5487,
+				"name": "Alessandro von Norman",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1537155,
+				"name": "Alberto Bartolomei",
+				"job": "Sound",
+				"department": "Sound"
+			},
+			{
+				"id": 3333244,
+				"name": "Albino Morandin",
+				"job": "Production Secretary",
+				"department": "Production"
+			},
+			{
+				"id": 1879485,
+				"name": "Mirella Gamacchio",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 25801,
+				"name": "Guidarino Guidi",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 36016,
+				"name": "Pasqualino De Santis",
+				"profile_path": "/edpUP1MUFgbAjL2oKGPX35DQGHo.jpg",
+				"job": "Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 994213,
+				"name": "Francesco Aluigi",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1099090,
+				"name": "Angelo Iacono",
+				"profile_path": "/baeBsvtwB7o95xXjVCZtvfwpNc5.jpg",
+				"job": "Production Secretary",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1560812,
+				"name": "Vito Anzalone",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 5681,
+				"name": "Piero Gherardi",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 5681,
+				"name": "Piero Gherardi",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1560814,
+				"name": "Renata Magnanti",
+				"job": "Hair Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1848241,
+				"name": "Leo Catozzo",
+				"profile_path": "/xBFSzUphJRhFzk39JJOjhnZjeSj.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			}
+		]
+	}
+}
