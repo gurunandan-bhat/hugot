@@ -1,0 +1,288 @@
+{
+	"id": 68427,
+	"title": "Daughters of the Dust",
+	"original_title": "Daughters of the Dust",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 10749,
+			"name": "Romance"
+		}
+	],
+	"overview": "In 1902, an African-American family living on a sea island off the coast of South Carolina prepares to move to the North.",
+	"backdrop_path": "/l8ofJ0ErKaL5F3JKmYVn4aa4i1w.jpg",
+	"poster_path": "/sk5qednzLeDZMIhto6Oa9QFKOon.jpg",
+	"release_date": "1991-01-24",
+	"credits": {
+		"cast": [
+			{
+				"id": 551900,
+				"order": 0,
+				"name": "Cora Lee Day",
+				"profile_path": "/e1oWNRoNg3eMt0EcPMwFZyDcUbh.jpg",
+				"character": "Nana Peazant"
+			},
+			{
+				"id": 551901,
+				"order": 1,
+				"name": "Alva Rogers",
+				"profile_path": "/3VG2BiZ5XwZufXiwwsVi98uZNA8.jpg",
+				"character": "Eula Peazant"
+			},
+			{
+				"id": 1421260,
+				"order": 2,
+				"name": "Barbara O. Jones",
+				"profile_path": "/AvtppBsnqfnsUBwJ2pVgvf7l0xa.jpg",
+				"character": "Yellow Mary",
+				"gender": 1
+			},
+			{
+				"id": 1092666,
+				"order": 3,
+				"name": "Trula Hoosier",
+				"profile_path": "/vnMUnKLz5dGHcxxMoP0QboYClGi.jpg",
+				"character": "Trula",
+				"gender": 1
+			},
+			{
+				"id": 1790088,
+				"order": 4,
+				"name": "Umar Abdurrahamn",
+				"character": "Bilal Muhammad"
+			},
+			{
+				"id": 1287307,
+				"order": 5,
+				"name": "Adisa Anderson",
+				"character": "Eli Peazant"
+			},
+			{
+				"id": 143438,
+				"order": 6,
+				"name": "Kaycee Moore",
+				"profile_path": "/7e3SzMwd9i5GEHNUhvfLEY0fBzB.jpg",
+				"character": "Haagar Peazant",
+				"gender": 1
+			},
+			{
+				"id": 1234271,
+				"order": 7,
+				"name": "Bahni Turpin",
+				"profile_path": "/5pGC4pFliDDTOUhVnnMZ0Bk3N28.jpg",
+				"character": "Iona Peazant",
+				"gender": 1
+			},
+			{
+				"id": 23355,
+				"order": 8,
+				"name": "Cheryl Lynn Bruce",
+				"profile_path": "/u3Na9OzrjiJpqQ4Hpp7S1hT0oTF.jpg",
+				"character": "Viola Peazant",
+				"gender": 1
+			},
+			{
+				"id": 99359,
+				"order": 9,
+				"name": "Tommy Redmond Hicks",
+				"profile_path": "/jx7MpUfQ8zyLnNLjvIACxMDLiEs.jpg",
+				"character": "Mr. Snead",
+				"gender": 2
+			},
+			{
+				"id": 55672,
+				"order": 10,
+				"name": "Tony King",
+				"profile_path": "/rBAaSCjG9wq1jrzipC8MA9MKd2X.jpg",
+				"character": "Newlywed Man",
+				"gender": 2
+			},
+			{
+				"id": 1790093,
+				"order": 11,
+				"name": "Cornell Royal",
+				"character": "Daddy Mack Peazant"
+			}
+		],
+		"crew": [
+			{
+				"id": 1265153,
+				"name": "Jeremy Hoenack",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1265153,
+				"name": "Jeremy Hoenack",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1597,
+				"name": "Michael Payne",
+				"job": "Sound Supervisor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 142603,
+				"name": "Julie Dash",
+				"profile_path": "/dJs2o6EK87J450ojmFZYYtgsJvZ.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 142603,
+				"name": "Julie Dash",
+				"profile_path": "/dJs2o6EK87J450ojmFZYYtgsJvZ.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 66134,
+				"name": "John Barnes",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1349873,
+				"name": "Arthur Jafa",
+				"profile_path": "/qaaaqyxc0bV0UTQobZTVftdB5wo.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 142603,
+				"name": "Julie Dash",
+				"profile_path": "/dJs2o6EK87J450ojmFZYYtgsJvZ.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1720048,
+				"name": "Pamm R. Jackson",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1349873,
+				"name": "Arthur Jafa",
+				"profile_path": "/qaaaqyxc0bV0UTQobZTVftdB5wo.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 93159,
+				"name": "Lindsay Law",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1395132,
+				"name": "Bernard Nicolas",
+				"profile_path": "/32KCaHyXnb9FESaizBi9rfhYsqU.jpg",
+				"job": "Associate Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1720057,
+				"name": "Floyd Webb",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1720058,
+				"name": "Steven Jones",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1720059,
+				"name": "Joseph Burton",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1612279,
+				"name": "Amy Carey",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1720060,
+				"name": "Len Hunt",
+				"job": "Casting",
+				"department": "Production"
+			},
+			{
+				"id": 1720061,
+				"name": "Kerry Marshall",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1720062,
+				"name": "Michael Kelly Williams",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1303842,
+				"name": "Arline Burks Gant",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1701295,
+				"name": "Rose Chatterton",
+				"profile_path": "/oDDXMsrAoUfBfCE3bQPdjSAcTmT.jpg",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1720063,
+				"name": "C.C. Barnes",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 13055,
+				"name": "Nandi Bowe",
+				"profile_path": "/rXZZx3fyU1K42ouoo0AaCiyoGyf.jpg",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 36188,
+				"name": "Larry Meistrich",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 75631,
+				"name": "J. Miller Tobin",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			}
+		]
+	}
+}

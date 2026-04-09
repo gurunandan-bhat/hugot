@@ -1,0 +1,266 @@
+{
+	"id": 266,
+	"title": "Contempt",
+	"original_title": "Le Mépris",
+	"original_language": "fr",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 10749,
+			"name": "Romance"
+		}
+	],
+	"overview": "A philistine in the art film business, Jeremy Prokosch is a producer unhappy with the work of his director. Prokosch has hired Fritz Lang to direct an adaptation of \"The Odyssey,\" but when it seems that the legendary filmmaker is making a picture destined to bomb at the box office, he brings in a screenwriter to energize the script. The professional intersects with the personal when a rift develops between the writer and his wife.",
+	"backdrop_path": "/afxEiYxANGG88xXVYpNtAHFzTIV.jpg",
+	"poster_path": "/kNElbRcp4Qz6wmJ9kH5vdY004Hq.jpg",
+	"release_date": "1963-10-29",
+	"credits": {
+		"cast": [
+			{
+				"id": 3783,
+				"order": 0,
+				"name": "Brigitte Bardot",
+				"profile_path": "/xitdKLPSsavii74yGJ73cwMzBOC.jpg",
+				"character": "Camille Javal",
+				"gender": 1
+			},
+			{
+				"id": 3784,
+				"order": 1,
+				"name": "Michel Piccoli",
+				"profile_path": "/6yZaIIeMfYgQtcdNo4dubL2N5YT.jpg",
+				"character": "Paul Javal",
+				"gender": 2
+			},
+			{
+				"id": 3785,
+				"order": 2,
+				"name": "Jack Palance",
+				"profile_path": "/sRr2YPa1IElRE1vG1PQcgLrS9om.jpg",
+				"character": "Jeremy Prokosch",
+				"gender": 2
+			},
+			{
+				"id": 3786,
+				"order": 3,
+				"name": "Giorgia Moll",
+				"profile_path": "/4og3ryBwb8xqKkBd77jDDjIP4ug.jpg",
+				"character": "Francesca Vanini",
+				"gender": 1
+			},
+			{
+				"id": 68,
+				"order": 4,
+				"name": "Fritz Lang",
+				"profile_path": "/9dz4PmFzlSyexldWrOXBLLpkBqB.jpg",
+				"character": "Fritz Lang",
+				"gender": 2
+			},
+			{
+				"id": 3540,
+				"order": 5,
+				"name": "Raoul Coutard",
+				"profile_path": "/fEwMCINuiSOu4f3CzHG3UL0BNIc.jpg",
+				"character": "Cameraman",
+				"gender": 2
+			},
+			{
+				"id": 3776,
+				"order": 6,
+				"name": "Jean-Luc Godard",
+				"profile_path": "/zP5EDY5MstfkdBmPXNCj8Y6v5KR.jpg",
+				"character": "Lang's Assistant Director",
+				"gender": 2
+			},
+			{
+				"id": 3787,
+				"order": 7,
+				"name": "Linda Veras",
+				"profile_path": "/lOIaHVrR9B2vGaYlsxSLBabZGGc.jpg",
+				"character": "Sirene",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 3540,
+				"name": "Raoul Coutard",
+				"profile_path": "/fEwMCINuiSOu4f3CzHG3UL0BNIc.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 3535,
+				"name": "Georges Delerue",
+				"profile_path": "/xKRsHzgZicN1KCUmnl4M09TVCxE.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3526,
+				"name": "Agnès Guillemot",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 3776,
+				"name": "Jean-Luc Godard",
+				"profile_path": "/zP5EDY5MstfkdBmPXNCj8Y6v5KR.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3782,
+				"name": "Lila Lakshmanan",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 3776,
+				"name": "Jean-Luc Godard",
+				"profile_path": "/zP5EDY5MstfkdBmPXNCj8Y6v5KR.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 3778,
+				"name": "Carlo Ponti",
+				"profile_path": "/uxcLJFTiKVMsxLtHuJ8lLHnA0wr.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3777,
+				"name": "Joseph E. Levine",
+				"profile_path": "/kgsFpaI2HSkYUviLONIs3yF22TX.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3780,
+				"name": "Alberto Moravia",
+				"profile_path": "/fcve5GrHVl1FQjck2CRFw65E348.jpg",
+				"job": "Novel",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3779,
+				"name": "Georges de Beauregard",
+				"profile_path": "/qxl1r2ZzQ3mp34sizMwAVljwTtv.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1304860,
+				"name": "Odette Berroyer",
+				"profile_path": "/oaURrUmF3k7jdqD7Kz7CvLKXli0.jpg",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1330431,
+				"name": "Tanine Autré",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 12265,
+				"name": "William Robert Sivel",
+				"job": "Sound",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1582260,
+				"name": "Roger Robert",
+				"job": "Grip",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 31775,
+				"name": "Joe D'Amato",
+				"profile_path": "/6cj3AKDSeANiZk2w9vFzcPWGlfF.jpg",
+				"job": "Assistant Camera",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1318404,
+				"name": "Carlo Lastricati",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 2608059,
+				"name": "Jicky Dussart",
+				"job": "Still Photographer",
+				"department": "Camera"
+			},
+			{
+				"id": 21168,
+				"name": "Alain Levent",
+				"profile_path": "/5uFATF6CS0ffTAHoLuqZfQjFEsn.jpg",
+				"job": "Second Unit Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 20556,
+				"name": "Bertrand Tavernier",
+				"profile_path": "/uTGywwLxJuriOEEsRPuCAMVbWqR.jpg",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4413321,
+				"name": "Annie Chauvet",
+				"job": "Publicist",
+				"department": "Production"
+			},
+			{
+				"id": 1291177,
+				"name": "Cristo Verrillo",
+				"job": "Electrician",
+				"department": "Lighting"
+			},
+			{
+				"id": 3583,
+				"name": "Suzanne Schiffman",
+				"profile_path": "/l3hKqjRlKopffuyPXW4csZtHmWT.jpg",
+				"job": "Script Supervisor",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 1052402,
+				"name": "Philippe Dussart",
+				"job": "Production Manager",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 25059,
+				"name": "Charles L. Bitsch",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			}
+		]
+	}
+}

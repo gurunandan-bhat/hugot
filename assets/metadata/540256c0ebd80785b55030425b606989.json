@@ -1,0 +1,1519 @@
+{
+	"id": 439,
+	"title": "La Dolce Vita",
+	"original_title": "La dolce vita",
+	"original_language": "it",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Episodic journey of journalist Marcello who struggles to find his place in the world, torn between the allure of Rome's elite social scene and the stifling domesticity offered by his girlfriend, all the while searching for a way to become a serious writer.",
+	"backdrop_path": "/eN2NdMeJLNzLYzWIEEoaGzZAsiD.jpg",
+	"poster_path": "/dZ2v0DAX4aCZartCzZdg4ZinSW2.jpg",
+	"release_date": "1960-02-05",
+	"credits": {
+		"cast": [
+			{
+				"id": 5676,
+				"order": 0,
+				"name": "Marcello Mastroianni",
+				"profile_path": "/bfLnFfNfMC73Q7WW90xQy2PvRZm.jpg",
+				"character": "Marcello Rubini",
+				"gender": 2
+			},
+			{
+				"id": 5961,
+				"order": 1,
+				"name": "Anita Ekberg",
+				"profile_path": "/6cJLW1OtMDBLz8ZxSgnjukAwhtC.jpg",
+				"character": "Sylvia",
+				"gender": 1
+			},
+			{
+				"id": 5682,
+				"order": 2,
+				"name": "Anouk Aimée",
+				"profile_path": "/rXkZZRfbBlGfcxQstQqeXX0GDZx.jpg",
+				"character": "Maddalena",
+				"gender": 1
+			},
+			{
+				"id": 5962,
+				"order": 3,
+				"name": "Yvonne Furneaux",
+				"profile_path": "/qbwcJG0oiCS6IefC6ZwqjxVZ3nX.jpg",
+				"character": "Emma",
+				"gender": 1
+			},
+			{
+				"id": 5963,
+				"order": 4,
+				"name": "Magali Noël",
+				"profile_path": "/mEFJnEVJ3MVOFrQLD40a8HMPr4O.jpg",
+				"character": "Fanny",
+				"gender": 1
+			},
+			{
+				"id": 5964,
+				"order": 5,
+				"name": "Alain Cuny",
+				"profile_path": "/xNz8yFCEADTk4Kz4YIqzpDF0vSG.jpg",
+				"character": "Steiner",
+				"gender": 2
+			},
+			{
+				"id": 5965,
+				"order": 6,
+				"name": "Annibale Ninchi",
+				"profile_path": "/kwO6UhwndhSVwEZZ3XGwsNizZfu.jpg",
+				"character": "Marcello's father",
+				"gender": 2
+			},
+			{
+				"id": 5966,
+				"order": 7,
+				"name": "Walter Santesso",
+				"profile_path": "/4bqRbyVxNEAObJklMiMDgaWsnhh.jpg",
+				"character": "Paparazzo",
+				"gender": 2
+			},
+			{
+				"id": 5967,
+				"order": 8,
+				"name": "Valeria Ciangottini",
+				"profile_path": "/v9pODk5Z6TEtVz2Uzhzf22A4z9k.jpg",
+				"character": "Paola",
+				"gender": 1
+			},
+			{
+				"id": 5968,
+				"order": 9,
+				"name": "Riccardo Garrone",
+				"profile_path": "/9XkHLkB3pWmZ2MstxRZFL58yCrg.jpg",
+				"character": "Riccardo",
+				"gender": 2
+			},
+			{
+				"id": 5969,
+				"order": 10,
+				"name": "Ida Galli",
+				"profile_path": "/9iUgC8Z10IIxGUd1ozoNcy7zYvp.jpg",
+				"character": "Debutante of the year",
+				"gender": 1
+			},
+			{
+				"id": 1736893,
+				"order": 11,
+				"name": "Audrey McDonald",
+				"profile_path": "/tsCCQobE65a3OcaEj5wn1pkDfKR.jpg",
+				"character": "Jane"
+			},
+			{
+				"id": 1171344,
+				"order": 12,
+				"name": "Polidor",
+				"profile_path": "/33iBBG6yyCOKiIkJgY7jnNEpZNd.jpg",
+				"character": "Pagliaccio",
+				"gender": 2
+			},
+			{
+				"id": 114417,
+				"order": 13,
+				"name": "Alain Dijon",
+				"character": "Frankie Stout",
+				"gender": 2
+			},
+			{
+				"id": 99514,
+				"order": 14,
+				"name": "Mino Doro",
+				"profile_path": "/rlkx0GBc7avW5orDNAGNiPz0GbN.jpg",
+				"character": "Lover of Nadia",
+				"gender": 2
+			},
+			{
+				"id": 239910,
+				"order": 15,
+				"name": "Giulio Girola",
+				"profile_path": "/u4pCMQYzMU7BJGz06LYHjxko90A.jpg",
+				"character": "Police commissioner",
+				"gender": 2
+			},
+			{
+				"id": 7710,
+				"order": 16,
+				"name": "Laura Betti",
+				"profile_path": "/7fQu63Y9LDvAKLGVprtvVBGTbi1.jpg",
+				"character": "Laura",
+				"gender": 1
+			},
+			{
+				"id": 938895,
+				"order": 17,
+				"name": "Nico",
+				"profile_path": "/aedJ0lIZWao7k8OnnReaCk4MYey.jpg",
+				"character": "Nico",
+				"gender": 1
+			},
+			{
+				"id": 2462217,
+				"order": 18,
+				"name": "Carlo Musto",
+				"character": "Transvestite"
+			},
+			{
+				"id": 83146,
+				"order": 19,
+				"name": "Enzo Cerusico",
+				"profile_path": "/xE5qTuZoqsErm97EE1etY1EhFLC.jpg",
+				"character": "Photographer",
+				"gender": 2
+			},
+			{
+				"id": 1039469,
+				"order": 20,
+				"name": "Giulio Paradisi",
+				"profile_path": "/pjKDKjPlrSuEorOtQ6qdB8XwP24.jpg",
+				"character": "Photographer",
+				"gender": 2
+			},
+			{
+				"id": 935976,
+				"order": 21,
+				"name": "Enzo Doria",
+				"profile_path": "/lvtX45EBWvdsT6pIDaqFqY3OIpK.jpg",
+				"character": "Photographer",
+				"gender": 2
+			},
+			{
+				"id": 557945,
+				"order": 22,
+				"name": "Enrico Glori",
+				"profile_path": "/gtCyEnF3gf7e28UfXQeLGdADRdz.jpg",
+				"character": "Admirer of Nadia",
+				"gender": 2
+			},
+			{
+				"id": 2462219,
+				"order": 23,
+				"name": "Adriana Moneta",
+				"profile_path": "/9K3tGaURO7WJ1xjTAoXNeP6ZAa1.jpg",
+				"character": "Ninni"
+			},
+			{
+				"id": 2462220,
+				"order": 24,
+				"name": "Massimo Busetti",
+				"character": "Miracle child"
+			},
+			{
+				"id": 6102,
+				"order": 25,
+				"name": "Lex Barker",
+				"profile_path": "/9Bsvemc5lCvKNJdS5bt4BEa7TFR.jpg",
+				"character": "Robert - Sylvia's husband",
+				"gender": 2
+			},
+			{
+				"id": 102026,
+				"order": 26,
+				"name": "Jacques Sernas",
+				"profile_path": "/z2EIBx3jwvDO1ZehCGk8PAy0mKM.jpg",
+				"character": "The star",
+				"gender": 2
+			},
+			{
+				"id": 6103,
+				"order": 27,
+				"name": "Nadia Gray",
+				"profile_path": "/zY6Zy7rgunfj8BLYXn2dA8NlBnr.jpg",
+				"character": "Nadia",
+				"gender": 1
+			},
+			{
+				"id": 101551,
+				"order": 28,
+				"name": "Giuseppe Addobbati",
+				"profile_path": "/oQ2D4hduKRGhLyYpnTpobaAo6AE.jpg",
+				"character": "(uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2604330,
+				"order": 29,
+				"name": "Conte Brunoro Serego Aligheri",
+				"character": "Young Man with Mink Coat (uncredited)"
+			},
+			{
+				"id": 72676,
+				"order": 30,
+				"name": "Gabriella Andreini",
+				"profile_path": "/twcmjgGZhl66UGkvXXPAasyM8XW.jpg",
+				"character": "Woman at Nadia's Party (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 2604331,
+				"order": 31,
+				"name": "Federika André",
+				"character": "Tenant in Steiner's House (uncredited)"
+			},
+			{
+				"id": 1560722,
+				"order": 32,
+				"name": "Armando Annuale",
+				"profile_path": "/NiF4XtFqIEa24fHDq3jeTHjfp9.jpg",
+				"character": "(uncredited)"
+			},
+			{
+				"id": 2604334,
+				"order": 33,
+				"name": "Joan Antequera",
+				"character": "Woman at Castle (uncredited)"
+			},
+			{
+				"id": 2604335,
+				"order": 34,
+				"name": "Juan Antequero",
+				"character": "Spanish Gentleman with Eyepatch at Castle (uncredited)"
+			},
+			{
+				"id": 1137526,
+				"order": 35,
+				"name": "Gianni Baghino",
+				"character": "(uncredited)"
+			},
+			{
+				"id": 2604336,
+				"order": 36,
+				"name": "Nadia Balabine",
+				"profile_path": "/okgKsLJ0QWNL70CoayIyXmrFfah.jpg",
+				"character": "Reporter (uncredited)"
+			},
+			{
+				"id": 1082124,
+				"order": 37,
+				"name": "Ignazio Balsamo",
+				"profile_path": "/5E5PvaaRBBYjlDWDPEQUK0mYutG.jpg",
+				"character": "(uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2604337,
+				"order": 38,
+				"name": "Remo Benedetti",
+				"character": "(uncredited)"
+			},
+			{
+				"id": 2604338,
+				"order": 39,
+				"name": "Andrea Bianchi",
+				"character": "Man at Nadia's Party (uncredited)"
+			},
+			{
+				"id": 101597,
+				"order": 40,
+				"name": "Lars Bloch",
+				"profile_path": "/kgQQaXuiz4MDXGTMmRyiWddTnYB.jpg",
+				"character": "Party Guest (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1187745,
+				"order": 41,
+				"name": "Leonardo Botta",
+				"profile_path": "/6QtUxJjEP3uapprBDVtAA6feVsz.jpg",
+				"character": "Doctor (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2604340,
+				"order": 42,
+				"name": "Ida Bracci Dorati",
+				"character": "(uncredited)"
+			},
+			{
+				"id": 2604341,
+				"order": 43,
+				"name": "Ferdinando Brofferio",
+				"character": "Maddalena's Lover (uncredited)"
+			},
+			{
+				"id": 2604342,
+				"order": 44,
+				"name": "Giovanna Busetti",
+				"character": "Lying Child of The Miracle (uncredited)"
+			},
+			{
+				"id": 2604343,
+				"order": 45,
+				"name": "Tito Buzzo",
+				"character": "Muscle Man (uncredited)"
+			},
+			{
+				"id": 1074074,
+				"order": 46,
+				"name": "Daniela Calvino",
+				"profile_path": "/y0ODgaN3FyhiN4aGTaiyeaMl3XW.jpg",
+				"character": "Daniela (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 2604345,
+				"order": 47,
+				"name": "Tony Campanino",
+				"character": "Man at Nightclub (uncredited)"
+			},
+			{
+				"id": 598779,
+				"order": 48,
+				"name": "Fabrizio Capucci",
+				"profile_path": "/hncnDLDs6SGMrPu7XoXmBtzvpNp.jpg",
+				"character": "Photographer at Press Conference (uncredited)"
+			},
+			{
+				"id": 224434,
+				"order": 49,
+				"name": "Donato Castellaneta",
+				"profile_path": "/dwLKQUII0IF470IhYCXDy6UwIAz.jpg",
+				"character": "Reporter (uncredited)"
+			},
+			{
+				"id": 67967,
+				"order": 50,
+				"name": "Adriano Celentano",
+				"profile_path": "/nhJbf0mDUkSUxoJykCVNWfcsa78.jpg",
+				"character": "Self (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2604347,
+				"order": 51,
+				"name": "Elisabetta Cini",
+				"character": "Sleeping Duchess (uncredited)"
+			},
+			{
+				"id": 2604348,
+				"order": 52,
+				"name": "Giulio Citti",
+				"character": "Man at Nightclub (uncredited)"
+			},
+			{
+				"id": 2604349,
+				"order": 53,
+				"name": "Leo Coleman",
+				"profile_path": "/ohnYEqeWlyoGucoh9GNEPo6xkvb.jpg",
+				"character": "Negro Dancer (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2604350,
+				"order": 54,
+				"name": "Nani Colombo",
+				"character": "Woman at the Mirror (uncredited)"
+			},
+			{
+				"id": 1485027,
+				"order": 55,
+				"name": "Mario Conocchia",
+				"profile_path": "/ud4HjFxDkTgIdm1sCUUDoiclto7.jpg",
+				"character": "Lawyer with Nadia's Bra (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2604351,
+				"order": 56,
+				"name": "Francesco Consalvo",
+				"character": "Scalise's Assistant (uncredited)"
+			},
+			{
+				"id": 40893,
+				"order": 57,
+				"name": "Tiziano Cortini",
+				"character": "Movie News Cameraman (uncredited)"
+			},
+			{
+				"id": 1137499,
+				"order": 58,
+				"name": "Decimo Cristiani",
+				"character": "Young Man That Doesn't Talk (uncredited)"
+			},
+			{
+				"id": 2604352,
+				"order": 59,
+				"name": "Mario De Grenet",
+				"character": "Man at Castle That Dislikes Dog's Smell (uncredited)"
+			},
+			{
+				"id": 1138531,
+				"order": 60,
+				"name": "Andrea De Pino",
+				"character": "(uncredited)"
+			},
+			{
+				"id": 2604353,
+				"order": 61,
+				"name": "Adele De Rossi",
+				"character": "(uncredited)"
+			},
+			{
+				"id": 1183474,
+				"order": 62,
+				"name": "Donatella Della Nora",
+				"profile_path": "/uIZahqL7c1Cnnfu5TbYNjy5Jbhw.jpg",
+				"character": "Reporter (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 2604354,
+				"order": 63,
+				"name": "Christine Denise",
+				"character": "Woman Eating a Chicken (uncredited)"
+			},
+			{
+				"id": 2604355,
+				"order": 64,
+				"name": "Katherine Denise",
+				"character": "(uncredited)"
+			},
+			{
+				"id": 2604356,
+				"order": 65,
+				"name": "Carlo Di Maggio",
+				"character": "Toto Scalise (uncredited)"
+			},
+			{
+				"id": 2604357,
+				"order": 66,
+				"name": "François Dieudonné",
+				"character": "Reporter (uncredited)"
+			},
+			{
+				"id": 2604358,
+				"order": 67,
+				"name": "Venceslao Dobrzensky",
+				"character": "Giovanni (uncredited)"
+			},
+			{
+				"id": 2604359,
+				"order": 68,
+				"name": "Donatella Esparmer",
+				"character": "Lady with the Irritated Man (uncredited)"
+			},
+			{
+				"id": 2604360,
+				"order": 69,
+				"name": "Paolo Fadda",
+				"character": "Assistant Police Inspector (uncredited)"
+			},
+			{
+				"id": 2604361,
+				"order": 70,
+				"name": "Umberto Felici",
+				"character": "Reporter (uncredited)"
+			},
+			{
+				"id": 1459425,
+				"order": 71,
+				"name": "Oretta Fiume",
+				"profile_path": "/cdVvYJQXsJXfYz9WuWjxOCUMHue.jpg",
+				"character": "Lisa (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 1059885,
+				"order": 72,
+				"name": "Rina Franchetti",
+				"profile_path": "/vWto13uj839VQ5Ndv9KyTEoWTeb.jpg",
+				"character": "Mother of the Miracle Children (uncredited)"
+			},
+			{
+				"id": 241197,
+				"order": 73,
+				"name": "Giacomo Gabrielli",
+				"character": "Maddalena's Father (uncredited)"
+			},
+			{
+				"id": 66753,
+				"order": 74,
+				"name": "Franco Giacobini",
+				"profile_path": "/mHUYrm4dSxhzhpmDKQv3v16xKrU.jpg",
+				"character": "Journalist at the Telephone (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2604362,
+				"order": 75,
+				"name": "Angela Giavalisco",
+				"character": "Woman at Airport (uncredited)"
+			},
+			{
+				"id": 2604363,
+				"order": 76,
+				"name": "Romolo Giordani",
+				"character": "Man at Castle (uncredited)"
+			},
+			{
+				"id": 2604364,
+				"order": 77,
+				"name": "Christine Graefeck",
+				"character": "(uncredited)"
+			},
+			{
+				"id": 1434866,
+				"order": 78,
+				"name": "Lily Granado",
+				"character": "Lucy (uncredited)"
+			},
+			{
+				"id": 2117106,
+				"order": 79,
+				"name": "Libero Grandi",
+				"character": "(uncredited)"
+			},
+			{
+				"id": 2604365,
+				"order": 80,
+				"name": "Maurizio Guelfi",
+				"character": "Reporter (uncredited)"
+			},
+			{
+				"id": 1580298,
+				"order": 81,
+				"name": "Gloria Hendy",
+				"character": "Woman in Via Veneto (uncredited)"
+			},
+			{
+				"id": 2329726,
+				"order": 82,
+				"name": "April Hennessy",
+				"character": "Woman in Via Veneto (uncredited)"
+			},
+			{
+				"id": 2604366,
+				"order": 83,
+				"name": "Nina Hohenlohe",
+				"character": "Woman at Castle (uncredited)"
+			},
+			{
+				"id": 2218829,
+				"order": 84,
+				"name": "Dominot",
+				"character": "Transvestite (uncredited)"
+			},
+			{
+				"id": 2604370,
+				"order": 85,
+				"name": "Gloria Jones",
+				"character": "Gloria (uncredited)"
+			},
+			{
+				"id": 101102,
+				"order": 86,
+				"name": "Carlo Kechler",
+				"character": "Man with Clock (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2604373,
+				"order": 87,
+				"name": "Else Knorr",
+				"character": "(uncredited)"
+			},
+			{
+				"id": 2604374,
+				"order": 88,
+				"name": "Paolo Labia",
+				"character": "Servant in Maddalena's Household (uncredited)"
+			},
+			{
+				"id": 25820,
+				"order": 89,
+				"name": "John Francis Lane",
+				"character": "Reporter (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1535134,
+				"order": 90,
+				"name": "Sondra Lee",
+				"profile_path": "/dPl9WngoXHAVmL4GH2gf4iglSjL.jpg",
+				"character": "Ballerina in Spoleto (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 1298648,
+				"order": 91,
+				"name": "Marianne Leibl",
+				"character": "Yvonne's Companion in Miracle Sequence (uncredited)"
+			},
+			{
+				"id": 2604376,
+				"order": 92,
+				"name": "Guglielmo Leoncini",
+				"character": "Scalise's Secretary (uncredited)"
+			},
+			{
+				"id": 9242,
+				"order": 93,
+				"name": "Giuliana Lojodice",
+				"profile_path": "/cACsY8JyWaR3WeX7w1D09YssXbq.jpg",
+				"character": "Servant at Steiner's House (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 1168942,
+				"order": 94,
+				"name": "Renée Longarini",
+				"character": "Miss Steiner (uncredited)"
+			},
+			{
+				"id": 2604392,
+				"order": 95,
+				"name": "Francisco Lori",
+				"character": "Man in Miracle Sequence (uncredited)"
+			},
+			{
+				"id": 1893847,
+				"order": 96,
+				"name": "Francesco Luzi",
+				"character": "Radioreporter (uncredited)"
+			},
+			{
+				"id": 2320198,
+				"order": 97,
+				"name": "Mario Mallarno",
+				"character": "Reporter (uncredited)"
+			},
+			{
+				"id": 2339283,
+				"order": 98,
+				"name": "Renato Mambor",
+				"character": "A Tall Young Man (uncredited)"
+			},
+			{
+				"id": 1872652,
+				"order": 99,
+				"name": "Vittorio Manfrino",
+				"character": "Tabarin Director (uncredited)"
+			},
+			{
+				"id": 2604397,
+				"order": 100,
+				"name": "Maria Marigliano",
+				"character": "Massamilla (uncredited)"
+			},
+			{
+				"id": 1326412,
+				"order": 101,
+				"name": "Carlo Mariotti",
+				"character": "Male Nurse (uncredited)"
+			},
+			{
+				"id": 1120097,
+				"order": 102,
+				"name": "Gino Marturano",
+				"profile_path": "/lbwGo5B2cq1pnDci7AIE8xKBCoN.jpg",
+				"character": "Pimp (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2604399,
+				"order": 103,
+				"name": "Maria Mazzanti",
+				"character": "Woman at Airport (uncredited)"
+			},
+			{
+				"id": 54941,
+				"order": 104,
+				"name": "Harriet Medin",
+				"profile_path": "/7CwP8SQey9wzVLE821qCYfa6irr.jpg",
+				"character": "Sylvia's Secretary (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 2503517,
+				"order": 105,
+				"name": "Marta Melocco",
+				"character": "(uncredited)"
+			},
+			{
+				"id": 1189554,
+				"order": 106,
+				"name": "Nello Meniconi",
+				"character": "Man on Via Veneto (uncredited)"
+			},
+			{
+				"id": 2604400,
+				"order": 107,
+				"name": "Alex Messoyedoff",
+				"character": "Priest at the Miracle Site (uncredited)"
+			},
+			{
+				"id": 239341,
+				"order": 108,
+				"name": "Gianfranco Mingozzi",
+				"profile_path": "/rE5SN0Xz3AyxmMwtNeGPgFjdAke.jpg",
+				"character": "Priest That Lets Steiner Play Organ (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2604401,
+				"order": 109,
+				"name": "Lucia Modigliani",
+				"character": "(uncredited)"
+			},
+			{
+				"id": 2604402,
+				"order": 110,
+				"name": "Maite Morand",
+				"character": "Reporter (uncredited)"
+			},
+			{
+				"id": 2604404,
+				"order": 111,
+				"name": "Aurelio Nardi",
+				"character": "Uncle of Lying Children of The Miracle (uncredited)"
+			},
+			{
+				"id": 2604405,
+				"order": 112,
+				"name": "Desmond O'Grady",
+				"character": "Steiner's Guest (uncredited)"
+			},
+			{
+				"id": 32378,
+				"order": 113,
+				"name": "Liana Orfei",
+				"profile_path": "/4VtRGG2OiwmuP1gFKtelpXNjBRJ.jpg",
+				"character": "(uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 27166,
+				"order": 114,
+				"name": "Umberto Orsini",
+				"profile_path": "/hMDyTrHNtVMiyIsWfImpTQf85jo.jpg",
+				"character": "Man in Sunglasses That Helps Nadia Strip (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2604406,
+				"order": 115,
+				"name": "Contessa Cristina Paolozzi",
+				"character": "Laughing Girl at Seance (uncredited)"
+			},
+			{
+				"id": 1847597,
+				"order": 116,
+				"name": "Ada Passeri",
+				"profile_path": "/ryuppmQSKbMu1kw7Hwb96zu2j5A.jpg",
+				"character": "Woman in Miracle Sequence (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 72472,
+				"order": 117,
+				"name": "Franca Pasut",
+				"profile_path": "/tSdN5I9cCNPbURgyyWbihfhxda7.jpg",
+				"character": "Girl Covered with Feathers (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 2604407,
+				"order": 118,
+				"name": "Loretta Pepi",
+				"character": "(uncredited)"
+			},
+			{
+				"id": 1141264,
+				"order": 119,
+				"name": "Paola Petrini",
+				"profile_path": "/rdvokYl5ThXRXXZ9p5GWhE2tb7l.jpg",
+				"character": "(uncredited)"
+			},
+			{
+				"id": 1064720,
+				"order": 120,
+				"name": "Cesarino Miceli Picardi",
+				"profile_path": "/4VbcqkyHGeuNHTEiGlgIRCnFYCy.jpg",
+				"character": "Irate Man in Nightclub (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2604408,
+				"order": 121,
+				"name": "Princess Doris Pignatelli",
+				"character": "Lady in White Coat at Castle (uncredited)"
+			},
+			{
+				"id": 126562,
+				"order": 122,
+				"name": "Alberto Plebani",
+				"profile_path": "/fJE6ku0WVe95rRaSlNo58zHrwEH.jpg",
+				"character": "Doctor (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1266498,
+				"order": 123,
+				"name": "Oliviero Prunas",
+				"character": "Oliviero - Son of Prince (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2604409,
+				"order": 124,
+				"name": "Giovanni Querrel",
+				"character": "Man at Nightclub (uncredited)"
+			},
+			{
+				"id": 234575,
+				"order": 125,
+				"name": "Giulio Questi",
+				"profile_path": "/6sWvxu2ZC1xenYWqlVFtoU2thI5.jpg",
+				"character": "Don Giulio (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2604410,
+				"order": 126,
+				"name": "Concetta Ragusa",
+				"character": "Reporter (uncredited)"
+			},
+			{
+				"id": 2604411,
+				"order": 127,
+				"name": "Loretta Ramaciotti",
+				"character": "Woman in Seance (uncredited)"
+			},
+			{
+				"id": 2406257,
+				"order": 128,
+				"name": "Leonida Repaci",
+				"profile_path": "/eVXPApMIQCWNiEB25mNBVBRv5pv.jpg",
+				"character": "Steiner's Guest (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 12006,
+				"order": 129,
+				"name": "Alfredo Rizzo",
+				"profile_path": "/zXk9W7YeOtbdR3UzNYQAMu4paHh.jpg",
+				"character": "Television Director (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2604412,
+				"order": 130,
+				"name": "Rosemary Rennel Rodd",
+				"character": "English Medium (uncredited)"
+			},
+			{
+				"id": 2604413,
+				"order": 131,
+				"name": "Giancarlo Romani",
+				"character": "Policeman (uncredited)"
+			},
+			{
+				"id": 43704,
+				"order": 132,
+				"name": "Franco Rossellini",
+				"profile_path": "/rqRc02FOJ7lwffqTTyUe3Up35Ij.jpg",
+				"character": "The Beautiful Horseman (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2604414,
+				"order": 133,
+				"name": "Prince Eugenio Ruspoli di Poggio Suasa",
+				"character": "Don Eugenio Mascalchi (uncredited)"
+			},
+			{
+				"id": 2604415,
+				"order": 134,
+				"name": "Margherita Russo",
+				"character": "Steiner's Guest (uncredited)"
+			},
+			{
+				"id": 2604416,
+				"order": 135,
+				"name": "Anna Maria Salerno",
+				"character": "Prostitute's Friend (uncredited)"
+			},
+			{
+				"id": 1549029,
+				"order": 136,
+				"name": "Anna Salvatore",
+				"character": "Steiner's Guest (uncredited)"
+			},
+			{
+				"id": 114416,
+				"order": 137,
+				"name": "Archie Savage",
+				"profile_path": "/qz0gKXoK0nRMYtM5LKIVy5N4iqJ.jpg",
+				"character": "Negro Dancer (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2604417,
+				"order": 138,
+				"name": "Lisa Schneider",
+				"character": "Woman in Miracle Sequence (uncredited)"
+			},
+			{
+				"id": 2604419,
+				"order": 139,
+				"name": "Maria Pia Serafini",
+				"character": "Second Lady with the Irritated Man (uncredited)"
+			},
+			{
+				"id": 2604420,
+				"order": 140,
+				"name": "Noel Sheldon",
+				"character": "Man in Via Veneto (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2604421,
+				"order": 141,
+				"name": "Isabella Soldani",
+				"character": "(uncredited)"
+			},
+			{
+				"id": 2604422,
+				"order": 142,
+				"name": "Letizia Spadini",
+				"character": "Steiner's Guest (uncredited)"
+			},
+			{
+				"id": 1730153,
+				"order": 143,
+				"name": "Giò Stajano",
+				"profile_path": "/qaXkFRaQGwCaj8Lunou4fJ1Gsx0.jpg",
+				"character": "Pierone (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 1263078,
+				"order": 144,
+				"name": "Gino Talamo",
+				"character": "(uncredited)"
+			},
+			{
+				"id": 2604423,
+				"order": 145,
+				"name": "Sandra Tesi",
+				"character": "Young Girl Living Nearby (uncredited)"
+			},
+			{
+				"id": 2604424,
+				"order": 146,
+				"name": "Henry Thody",
+				"character": "Reporter (uncredited)"
+			},
+			{
+				"id": 1028992,
+				"order": 147,
+				"name": "Tomás Torres",
+				"character": "Gianelli (uncredited)"
+			},
+			{
+				"id": 2604426,
+				"order": 148,
+				"name": "Iris Tree",
+				"character": "Poetess at Steiner's Party (uncredited)"
+			},
+			{
+				"id": 1181118,
+				"order": 149,
+				"name": "Vando Tress",
+				"character": "Police Inspector (uncredited)"
+			},
+			{
+				"id": 1459437,
+				"order": 150,
+				"name": "Gondrano Trucchi",
+				"profile_path": "/v1Imfzu6goHjBv3akcfJi6rQ9Ye.jpg",
+				"character": "Servant at Caracalla's (uncredited)"
+			},
+			{
+				"id": 2604428,
+				"order": 151,
+				"name": "Teresa Tsao",
+				"character": "Woman in Nightclub (uncredited)"
+			},
+			{
+				"id": 2604429,
+				"order": 152,
+				"name": "Winie Vagliani",
+				"character": "The Lady Who sings at Steiner's (uncredited)"
+			},
+			{
+				"id": 1549504,
+				"order": 153,
+				"name": "Leontine Van Strein",
+				"character": "Matinee Idol's Girl Friend (uncredited)"
+			},
+			{
+				"id": 119433,
+				"order": 154,
+				"name": "Aldo Vasco",
+				"profile_path": "/1xileadhzWrWCptc0M7h0AjDCTC.jpg",
+				"character": "Man in Miracle Sequence (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2229468,
+				"order": 155,
+				"name": "Lucia Vasilicò",
+				"character": "Young Woman Making Confession at Nadia's Party (uncredited)"
+			},
+			{
+				"id": 224416,
+				"order": 156,
+				"name": "Maria Teresa Vianello",
+				"profile_path": "/pEa7UVlHucQEom2B9x9fa9CcgTy.jpg",
+				"character": "Woman at Airport (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 2604430,
+				"order": 157,
+				"name": "Sandy von Normand",
+				"character": "Interpreter at the Press Conference (uncredited)"
+			},
+			{
+				"id": 2319523,
+				"order": 158,
+				"name": "Antoinette Weynen",
+				"character": "(uncredited)"
+			},
+			{
+				"id": 2604431,
+				"order": 159,
+				"name": "Angela Wilson",
+				"character": "Woman in Via Veneto (uncredited)"
+			},
+			{
+				"id": 2604432,
+				"order": 160,
+				"name": "Vadim Wolkonsky",
+				"character": "Prince Mascalchi (uncredited)"
+			},
+			{
+				"id": 2604433,
+				"order": 161,
+				"name": "Maria Teresa Wolodimeroff",
+				"character": "The Bored Lady (uncredited)"
+			},
+			{
+				"id": 2604434,
+				"order": 162,
+				"name": "Gianni Zamputo",
+				"character": "Man at Nadia's Party (uncredited)"
+			},
+			{
+				"id": 56721,
+				"order": 163,
+				"name": "Italo Zingarelli",
+				"profile_path": "/A60Mi2wsvz8ebFUZJ0bfsmMlq3T.jpg",
+				"character": "Don Giulio (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2198780,
+				"order": 164,
+				"name": "Iolanda Fortini",
+				"profile_path": "/43HPSDRlLPxJCRgLj3iuWzPE0rR.jpg",
+				"character": "(uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 3720877,
+				"order": 165,
+				"name": "Marta Timar",
+				"profile_path": "/aJTPSlTmtAAN84nZyjBGoTX3AAh.jpg",
+				"character": "(uncredited)"
+			},
+			{
+				"id": 994527,
+				"order": 166,
+				"name": "Bruna Cealti",
+				"profile_path": "/jCdU5W9EfdwcTVZyqkaIDQ4O4Hb.jpg",
+				"character": "(uncredited)"
+			},
+			{
+				"id": 2019347,
+				"order": 167,
+				"name": "Nancy Lecchini",
+				"profile_path": "/kLhJqw25UerCdMC9Ag93lywxtEO.jpg",
+				"character": "Party Guest (uncredited)"
+			},
+			{
+				"id": 1310050,
+				"order": 168,
+				"name": "Giulio Tomei",
+				"profile_path": "/9RP2Pf7OHlWZ3TFlGbJeNoYIjM7.jpg",
+				"character": "Night Club Customer (uncredited)"
+			},
+			{
+				"id": 3982772,
+				"order": 169,
+				"name": "Lucia Cavalieri",
+				"profile_path": "/abELVkihcLwVJGiWDdNsRAuyCIs.jpg",
+				"character": "Old Woman by the Miracle Tree (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 3985509,
+				"order": 170,
+				"name": "Edward Febo Kelleng",
+				"profile_path": "/9NLtVBlvOxTs5o8WkJFEeu8ujPg.jpg",
+				"character": "Party Guest (uncredited)"
+			},
+			{
+				"id": 591897,
+				"order": 171,
+				"name": "Rio Nobile",
+				"profile_path": "/fqcK4UQvZpbWZR0dyNLO4W3zgnd.jpg",
+				"character": "Nightclub Customer (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 3738452,
+				"order": 172,
+				"name": "Romalı Perihan",
+				"profile_path": "/cA0fJSxfHYcYlaPPHh9LosG5o2M.jpg",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 3098,
+				"name": "Nino Rota",
+				"profile_path": "/v42v3uM7jqwoZxDJ8MlEtT6Ol7a.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5399,
+				"name": "Otello Martelli",
+				"profile_path": "/wG9NOQkQ2XX8jiKEbiDLRT7rsrP.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 938953,
+				"name": "Clemente Fracassi",
+				"job": "Line Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5487,
+				"name": "Alessandro von Norman",
+				"job": "Unit Manager",
+				"department": "Production"
+			},
+			{
+				"id": 5681,
+				"name": "Piero Gherardi",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 25801,
+				"name": "Guidarino Guidi",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1177506,
+				"name": "Paolo Nuzzi",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 545542,
+				"name": "Dominique Delouche",
+				"profile_path": "/uAp8kh7WcwhIYYotpLrZ7abulyR.jpg",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2615582,
+				"name": "Isa Mari",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 2604489,
+				"name": "Agostino Moretti",
+				"job": "Sound",
+				"department": "Sound"
+			},
+			{
+				"id": 1538531,
+				"name": "Oscar Di Santo",
+				"job": "Sound",
+				"department": "Sound"
+			},
+			{
+				"id": 5678,
+				"name": "Brunello Rondi",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5970,
+				"name": "Pier Paolo Pasolini",
+				"profile_path": "/fca5HJvz23Saj3TDCMWDqCswcmh.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1848241,
+				"name": "Leo Catozzo",
+				"profile_path": "/xBFSzUphJRhFzk39JJOjhnZjeSj.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 4415,
+				"name": "Federico Fellini",
+				"profile_path": "/r0GTpMWUrxgPRbMmv38mNggOBvA.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 4415,
+				"name": "Federico Fellini",
+				"profile_path": "/r0GTpMWUrxgPRbMmv38mNggOBvA.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5397,
+				"name": "Ennio Flaiano",
+				"profile_path": "/mBihuri6Noe6IWiPtwTalkMSJ7P.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5396,
+				"name": "Tullio Pinelli",
+				"profile_path": "/lRElHqsl2Wi2VizQ79TSxQsnL57.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4415,
+				"name": "Federico Fellini",
+				"profile_path": "/r0GTpMWUrxgPRbMmv38mNggOBvA.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5397,
+				"name": "Ennio Flaiano",
+				"profile_path": "/mBihuri6Noe6IWiPtwTalkMSJ7P.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5396,
+				"name": "Tullio Pinelli",
+				"profile_path": "/lRElHqsl2Wi2VizQ79TSxQsnL57.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4411,
+				"name": "Giuseppe Amato",
+				"profile_path": "/cdInEb32KWsw2FHvUlApiyLeZmQ.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5971,
+				"name": "Franco Magli",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5679,
+				"name": "Angelo Rizzoli",
+				"profile_path": "/m0OGWi6emwOwfQaM4XuRwCBPA9c.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5681,
+				"name": "Piero Gherardi",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 2019352,
+				"name": "Sergio Angeloni",
+				"job": "Assistant Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 24670,
+				"name": "Otello Fava",
+				"profile_path": "/oEYLMdjjgww7Mq6cP5CBMDSwTfe.jpg",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1560814,
+				"name": "Renata Magnanti",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1189554,
+				"name": "Nello Meniconi",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 2604461,
+				"name": "Manlio Morelli",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 239341,
+				"name": "Gianfranco Mingozzi",
+				"profile_path": "/rE5SN0Xz3AyxmMwtNeGPgFjdAke.jpg",
+				"job": "Second Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1470096,
+				"name": "Lili Rademakers",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2604413,
+				"name": "Giancarlo Romani",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1560812,
+				"name": "Vito Anzalone",
+				"job": "Assistant Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 91794,
+				"name": "Giorgio Giovannini",
+				"job": "Assistant Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1177545,
+				"name": "Lucia Mirisola",
+				"profile_path": "/EFIIXcsA5QG8LFTXO4NusQ7k5W.jpg",
+				"job": "Assistant Production Design",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 26267,
+				"name": "Ennio Guarnieri",
+				"profile_path": "/2X8MGXnOOwxHXr8ukhcIxCuyNCA.jpg",
+				"job": "Assistant Camera",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 51431,
+				"name": "Arturo Zavattini",
+				"profile_path": "/4Q3H01PLGOIhAOPorsyaOAqOUuu.jpg",
+				"job": "Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2604495,
+				"name": "Adriana Olasio",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 2320661,
+				"name": "Vanda Olasio",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1176688,
+				"name": "Franco Ferrara",
+				"job": "Conductor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 30634,
+				"name": "Armando Trovajoli",
+				"profile_path": "/xXgpEjOyG2hsfb4lewTWbu040dV.jpg",
+				"job": "Music Arranger",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1560815,
+				"name": "Mario Basili",
+				"job": "Production Secretary",
+				"department": "Production"
+			},
+			{
+				"id": 1163641,
+				"name": "Osvaldo De Micheli",
+				"job": "Production Secretary",
+				"department": "Production"
+			},
+			{
+				"id": 2166448,
+				"name": "Mario Di Biase",
+				"job": "Production Secretary",
+				"department": "Production",
+				"gender": 2
+			}
+		]
+	}
+}

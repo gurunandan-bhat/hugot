@@ -1,0 +1,239 @@
+{
+	"id": 216,
+	"title": "Ali: Fear Eats the Soul",
+	"original_title": "Angst essen Seele auf",
+	"original_language": "de",
+	"genres": [
+		{
+			"id": 10749,
+			"name": "Romance"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Emmi Kurowski, a cleaning lady, is lonely in her old age. Her husband died years ago, and her grown children offer little companionship. One night she goes to a bar frequented by Arab immigrants and strikes up a friendship with middle-aged mechanic Ali. Their relationship soon develops into something more, and Emmi's family and neighbors criticize their spontaneous marriage. Soon Emmi and Ali are forced to confront their own insecurities about their future.",
+	"backdrop_path": "/ih2q5hoclUTICLxMzV31vxgpCzR.jpg",
+	"poster_path": "/cRL8j5RhL4YUviwcfTiCVHfrBFM.jpg",
+	"release_date": "1974-03-05",
+	"credits": {
+		"cast": [
+			{
+				"id": 2726,
+				"order": 0,
+				"name": "Brigitte Mira",
+				"profile_path": "/aTscEqH9GSbQDlT7hnKFilvzNkf.jpg",
+				"character": "Emmi Kurowski",
+				"gender": 1
+			},
+			{
+				"id": 2727,
+				"order": 1,
+				"name": "El Hedi ben Salem",
+				"profile_path": "/sPMb9tLQ5uPmzZrkbODFUyqtbAM.jpg",
+				"character": "Ali",
+				"gender": 2
+			},
+			{
+				"id": 2729,
+				"order": 2,
+				"name": "Irm Hermann",
+				"profile_path": "/4NzeDGGAqq0Aw8QpqTuOAu7DkeN.jpg",
+				"character": "Krista",
+				"gender": 1
+			},
+			{
+				"id": 2728,
+				"order": 3,
+				"name": "Barbara Valentin",
+				"profile_path": "/eQ1AmxEYesHcFCekphv6FpM41nh.jpg",
+				"character": "Barbara",
+				"gender": 1
+			},
+			{
+				"id": 2730,
+				"order": 4,
+				"name": "Elma Karlowa",
+				"profile_path": "/zCjJn98UgeI8eK3Y4fbTaDfxVTl.jpg",
+				"character": "Mrs. Kargus",
+				"gender": 1
+			},
+			{
+				"id": 2731,
+				"order": 5,
+				"name": "Anita Bucher",
+				"character": "Mrs. Ellis"
+			},
+			{
+				"id": 2732,
+				"order": 6,
+				"name": "Gusti Kreissl",
+				"profile_path": "/vVJsqVlynHxprTOVs6LTeS6aKB3.jpg",
+				"character": "Paula",
+				"gender": 1
+			},
+			{
+				"id": 2733,
+				"order": 7,
+				"name": "Doris Mattes",
+				"profile_path": "/iR8BaWABNQqgkxXPljBmTVY2wZ8.jpg",
+				"character": "Mrs. Angermayer",
+				"gender": 1
+			},
+			{
+				"id": 2734,
+				"order": 8,
+				"name": "Margit Symo",
+				"profile_path": "/zLpxMT1zWfEKyz6S3XLXy8lGuRJ.jpg",
+				"character": "Hedwig",
+				"gender": 1
+			},
+			{
+				"id": 2735,
+				"order": 9,
+				"name": "Katharina Herberg",
+				"profile_path": "/elZWYAiImpC55DMGWxAtOXd4rwr.jpg",
+				"character": "Bardame",
+				"gender": 1
+			},
+			{
+				"id": 2740,
+				"order": 10,
+				"name": "Lilo Pempeit",
+				"profile_path": "/cKTUKW1TLHqi86hgNMRwiii8eLQ.jpg",
+				"character": "Mrs. Munchmeyer",
+				"gender": 1
+			},
+			{
+				"id": 2741,
+				"order": 11,
+				"name": "Walter Sedlmayr",
+				"profile_path": "/9cESnCVgyYbWnJzLEMkyyqm6G1U.jpg",
+				"character": "Mr. Angermayer",
+				"gender": 2
+			},
+			{
+				"id": 2725,
+				"order": 12,
+				"name": "Rainer Werner Fassbinder",
+				"profile_path": "/xll1qAg0TOzcuNlfZWEEKB1JxqR.jpg",
+				"character": "Eugen",
+				"gender": 2
+			},
+			{
+				"id": 2742,
+				"order": 13,
+				"name": "Karl Scheydt",
+				"profile_path": "/nAOPQ4CU7LgLuKnSmKdPlOMmdSj.jpg",
+				"character": "Albert",
+				"gender": 2
+			},
+			{
+				"id": 2743,
+				"order": 14,
+				"name": "Peter Gauhe",
+				"profile_path": "/2QjrOWusijTdzANWpUm8j94iCsA.jpg",
+				"character": "Bruno",
+				"gender": 2
+			},
+			{
+				"id": 130913,
+				"order": 15,
+				"name": "Marquard Bohm",
+				"profile_path": "/iaoq5Hv8eBvWOwl2evapI8zahjO.jpg",
+				"character": "Gruber",
+				"gender": 2
+			},
+			{
+				"id": 1865,
+				"order": 16,
+				"name": "Hark Bohm",
+				"profile_path": "/qbK0MB6h73iuqXJ4e8ttaKdHB1C.jpg",
+				"character": "Doctor",
+				"gender": 2
+			},
+			{
+				"id": 21997,
+				"order": 17,
+				"name": "Kurt Raab",
+				"profile_path": "/wVtzUW8bi4Xmupsjoms369qjIKG.jpg",
+				"character": "Car Mechanic",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 5639,
+				"name": "Jürgen Jürges",
+				"profile_path": "/qEP9BnRFqCe5t3oo1em7hjUGhNb.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2738,
+				"name": "Fritz Müller-Scherz",
+				"profile_path": "/2UuIXN4tG3nlveguiAYcyXmQ6I3.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2725,
+				"name": "Rainer Werner Fassbinder",
+				"profile_path": "/xll1qAg0TOzcuNlfZWEEKB1JxqR.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2737,
+				"name": "Thea Eymèsz",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 2725,
+				"name": "Rainer Werner Fassbinder",
+				"profile_path": "/xll1qAg0TOzcuNlfZWEEKB1JxqR.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2725,
+				"name": "Rainer Werner Fassbinder",
+				"profile_path": "/xll1qAg0TOzcuNlfZWEEKB1JxqR.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2725,
+				"name": "Rainer Werner Fassbinder",
+				"profile_path": "/xll1qAg0TOzcuNlfZWEEKB1JxqR.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2743,
+				"name": "Peter Gauhe",
+				"profile_path": "/2QjrOWusijTdzANWpUm8j94iCsA.jpg",
+				"job": "Still Photographer",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2725,
+				"name": "Rainer Werner Fassbinder",
+				"profile_path": "/xll1qAg0TOzcuNlfZWEEKB1JxqR.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			}
+		]
+	}
+}
