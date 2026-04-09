@@ -1,0 +1,451 @@
+{
+	"id": 19,
+	"title": "Metropolis",
+	"original_title": "Metropolis",
+	"original_language": "de",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 878,
+			"name": "Science Fiction"
+		}
+	],
+	"overview": "In a futuristic city sharply divided between the rich and the poor, the son of the city's mastermind meets a prophet who predicts the coming of a savior to mediate their differences.",
+	"backdrop_path": "/eeMoFKxjjiCi6iep2GEZtSAMYIr.jpg",
+	"poster_path": "/kr9wXRN23zLuWJIelahas1mtnYj.jpg",
+	"release_date": "1927-01-10",
+	"credits": {
+		"cast": [
+			{
+				"id": 74,
+				"order": 0,
+				"name": "Gustav Fröhlich",
+				"profile_path": "/bkjDaorTT3LcOeTcQF1TDpBlHwt.jpg",
+				"character": "Freder Fredersen",
+				"gender": 2
+			},
+			{
+				"id": 75,
+				"order": 1,
+				"name": "Brigitte Helm",
+				"profile_path": "/a7mwxoeF34BCxmteoHQSB1ENth0.jpg",
+				"character": "Maria / The Machine Man",
+				"gender": 1
+			},
+			{
+				"id": 73,
+				"order": 2,
+				"name": "Alfred Abel",
+				"profile_path": "/dGk5r64zQZVHplTwRDZGpNkoCjc.jpg",
+				"character": "Johann 'Joh' Fredersen",
+				"gender": 2
+			},
+			{
+				"id": 77,
+				"order": 3,
+				"name": "Rudolf Klein-Rogge",
+				"profile_path": "/fbP75fGfXFQlkf3Q5oHbJ4wjG1g.jpg",
+				"character": "C.A. Rotwang",
+				"gender": 2
+			},
+			{
+				"id": 79,
+				"order": 4,
+				"name": "Theodor Loos",
+				"profile_path": "/9PbtusE5TJYfyQrWb6brBXuXTLX.jpg",
+				"character": "Josaphat",
+				"gender": 2
+			},
+			{
+				"id": 78,
+				"order": 5,
+				"name": "Fritz Rasp",
+				"profile_path": "/6NnV7WF489FZqMYSVhm3tFHEQXe.jpg",
+				"character": "The Thin Man",
+				"gender": 2
+			},
+			{
+				"id": 80,
+				"order": 6,
+				"name": "Erwin Biswanger",
+				"character": "No. 11811 - Georgy",
+				"gender": 2
+			},
+			{
+				"id": 81,
+				"order": 7,
+				"name": "Heinrich George",
+				"profile_path": "/gy4bpVG804KFIj6LCZJLWa93WmU.jpg",
+				"character": "Grot",
+				"gender": 2
+			},
+			{
+				"id": 20535,
+				"order": 8,
+				"name": "Fritz Alberti",
+				"profile_path": "/qCQhv7RCYwEZJ8l0Hs0ToXZIAP7.jpg",
+				"character": "Creative Human - Man Who Convinces Babel (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 47173,
+				"order": 9,
+				"name": "Grete Berger",
+				"character": "Working Woman (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 2535176,
+				"order": 10,
+				"name": "Olly Boeheim",
+				"character": "Working Woman (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 20533,
+				"order": 11,
+				"name": "Heinrich Gotho",
+				"character": "Master of Ceremonies (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 69,
+				"order": 12,
+				"name": "Gottfried Huppertz",
+				"character": "Man Playing Violin (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 29129,
+				"order": 13,
+				"name": "Georg John",
+				"profile_path": "/bBqQO3Z63tJ1DYo2XEipcSsdi1t.jpg",
+				"character": "Working Man Who Causes Explosion of M-Machine (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 20534,
+				"order": 14,
+				"name": "Margarete Lanner",
+				"profile_path": "/giYIXmUL3PvxRR91vkreSx6qlO8.jpg",
+				"character": "Woman of Eternal Gardens / Lady in Car (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 2190565,
+				"order": 15,
+				"name": "Rose Lichtenstein",
+				"character": "Working Woman (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 83,
+				"order": 16,
+				"name": "Hanns Leo Reich",
+				"character": "Marinus (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1531781,
+				"order": 17,
+				"name": "Arthur Reinhardt",
+				"character": "Working Man (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 5028,
+				"order": 18,
+				"name": "Curt Siodmak",
+				"profile_path": "/1g2v8J8vJKziUnmee4JVoBAeRsW.jpg",
+				"character": "Working Man (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1689706,
+				"order": 19,
+				"name": "Henrietta Siodmak",
+				"character": "Working Woman (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 82,
+				"order": 20,
+				"name": "Olaf Storm",
+				"profile_path": "/xS5kAz8hax8kOSFO8QrbGpp0S4i.jpg",
+				"character": "Jan (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 50893,
+				"order": 21,
+				"name": "Rolf von Goth",
+				"profile_path": "/bSP4xmj1ghotvnuBRV4DarKFYyO.jpg",
+				"character": "Son in Eternal Gardens (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1288145,
+				"order": 22,
+				"name": "Helen von Münchofen",
+				"character": "Woman of Eternal Gardens (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 2350,
+				"order": 23,
+				"name": "Helene Weigel",
+				"character": "Working Woman (uncredited)",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 67,
+				"name": "Erich Pommer",
+				"profile_path": "/tDYZA5sghHNO1g4hpkRbDei2SoK.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 68,
+				"name": "Fritz Lang",
+				"profile_path": "/9dz4PmFzlSyexldWrOXBLLpkBqB.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 69,
+				"name": "Gottfried Huppertz",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 68,
+				"name": "Fritz Lang",
+				"profile_path": "/9dz4PmFzlSyexldWrOXBLLpkBqB.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 70,
+				"name": "Karl Freund",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 71,
+				"name": "Günther Rittau",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2798,
+				"name": "Walter Ruttmann",
+				"profile_path": "/tadF9CxIFsJMTMhyPRWtgDqBzsi.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 20536,
+				"name": "Aenne Willkomm",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 5030,
+				"name": "Edgar G. Ulmer",
+				"profile_path": "/uH5SR17ZJwe4y9K1CtkfQerIcCu.jpg",
+				"job": "Set Designer",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 68,
+				"name": "Fritz Lang",
+				"profile_path": "/9dz4PmFzlSyexldWrOXBLLpkBqB.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1572235,
+				"name": "Walter Schulze-Mittendorff",
+				"job": "Sculptor",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1572237,
+				"name": "Ernst Kunstmann",
+				"job": "Special Effects",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 12365,
+				"name": "Konstantin Irmen-Tschet",
+				"job": "Special Effects",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1758,
+				"name": "Eugen Schüfftan",
+				"job": "Visual Effects",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 2794,
+				"name": "Robert Baberske",
+				"job": "First Assistant Camera",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 29553,
+				"name": "Horst von Harbou",
+				"job": "Still Photographer",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1572241,
+				"name": "Frank Strobel",
+				"job": "Music Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 2794,
+				"name": "Robert Baberske",
+				"job": "Assistant Camera",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 157,
+				"name": "Thea von Harbou",
+				"profile_path": "/jQ6EF2gcodiez6PFEOaqMMF3nfF.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 157,
+				"name": "Thea von Harbou",
+				"profile_path": "/jQ6EF2gcodiez6PFEOaqMMF3nfF.jpg",
+				"job": "Novel",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 1111195,
+				"name": "Slatan Dudow",
+				"profile_path": "/diLo5E7OYGV0ZFWYfmfu6qecymk.jpg",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 13887,
+				"name": "Otto Hunte",
+				"job": "Set Designer",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 12369,
+				"name": "Erich Kettelhut",
+				"job": "Set Designer",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 12320,
+				"name": "Karl Vollbrecht",
+				"job": "Set Designer",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 70,
+				"name": "Karl Freund",
+				"job": "Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 71,
+				"name": "Günther Rittau",
+				"job": "Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1899458,
+				"name": "Otto Harzner",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1572241,
+				"name": "Frank Strobel",
+				"job": "Conductor",
+				"department": "Sound"
+			},
+			{
+				"id": 36251,
+				"name": "Erich Holder",
+				"job": "Production Office Assistant",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 12369,
+				"name": "Erich Kettelhut",
+				"job": "Production Office Assistant",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1550861,
+				"name": "Rudi George",
+				"job": "Production Artist",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 12320,
+				"name": "Karl Vollbrecht",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 12369,
+				"name": "Erich Kettelhut",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 13887,
+				"name": "Otto Hunte",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			}
+		]
+	}
+}

@@ -1,0 +1,125 @@
+{
+	"id": 44379,
+	"title": "The Gleaners and I",
+	"original_title": "Les Glaneurs et la Glaneuse",
+	"original_language": "fr",
+	"genres": [
+		{
+			"id": 99,
+			"name": "Documentary"
+		}
+	],
+	"overview": "Varda focuses her eye on gleaners: those who scour already-reaped fields for the odd potato or turnip. Her investigation leads from forgotten corners of the French countryside to off-hours at the green markets of Paris, following those who insist on finding a use for that which society has cast off, whether out of necessity or activism.",
+	"backdrop_path": "/yvafnYvrxnwD3MrXcc18sUrkHqU.jpg",
+	"poster_path": "/6IdCTKi4Eu7i897jpe59wIDGCri.jpg",
+	"release_date": "2000-07-07",
+	"credits": {
+		"cast": [
+			{
+				"id": 6817,
+				"order": 0,
+				"name": "Agnès Varda",
+				"profile_path": "/8XKM6DCVcH5RsgIRh9mwVaEM0YB.jpg",
+				"character": "Self",
+				"gender": 1
+			},
+			{
+				"id": 147063,
+				"order": 1,
+				"name": "Bodan Litnanski",
+				"character": "Self"
+			},
+			{
+				"id": 147064,
+				"order": 2,
+				"name": "François Wertheimer",
+				"profile_path": "/1G50lrfqKO4tKRIVmjAuTs2Sk2b.jpg",
+				"character": "Self",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 6817,
+				"name": "Agnès Varda",
+				"profile_path": "/8XKM6DCVcH5RsgIRh9mwVaEM0YB.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 6817,
+				"name": "Agnès Varda",
+				"profile_path": "/8XKM6DCVcH5RsgIRh9mwVaEM0YB.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 1974857,
+				"name": "Didier Rouget",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1345865,
+				"name": "Jean-Baptiste Morin",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1501039,
+				"name": "Stéphane Krausz",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1974856,
+				"name": "Laurent Pineau",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 6817,
+				"name": "Agnès Varda",
+				"profile_path": "/8XKM6DCVcH5RsgIRh9mwVaEM0YB.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 1
+			},
+			{
+				"id": 6817,
+				"name": "Agnès Varda",
+				"profile_path": "/8XKM6DCVcH5RsgIRh9mwVaEM0YB.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 1505714,
+				"name": "Isabelle Olivier",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1598833,
+				"name": "Didier Doussin",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1605716,
+				"name": "Pascal Sautelet",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1536671,
+				"name": "Joanna Bruzdowicz",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			}
+		]
+	}
+}
