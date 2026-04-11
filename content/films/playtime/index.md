@@ -4,7 +4,7 @@ date = 2026-04-08T18:10:03.871728+05:30
 draft = false
 cast = ['Jacques Tati', 'Barbara Dennek', 'Rita Maiden', 'France Rumilly', 'France Delahalle', 'Valérie Camille', 'Erika Dentzler', 'Nicole Ray', 'Yvette Ducreux', 'Nathalie Jem']
 genres = ['Comedy']
-director = ['Jacques Tati']
+directors = ['Jacques Tati']
 language = ['fr']
 +++
 

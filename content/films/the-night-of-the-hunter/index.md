@@ -4,7 +4,7 @@ date = 2026-04-08T18:08:55.183108+05:30
 draft = false
 cast = ['Robert Mitchum', 'Shelley Winters', 'Lillian Gish', 'Billy Chapin', 'Sally Jane Bruce', 'James Gleason', 'Evelyn Varden', 'Don Beddoe', 'Peter Graves', 'James Griffith']
 genres = ['Crime', 'Drama', 'Thriller']
-director = ['Charles Laughton']
+directors = ['Charles Laughton']
 language = ['en']
 +++
 

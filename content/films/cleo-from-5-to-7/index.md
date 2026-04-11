@@ -4,7 +4,7 @@ date = 2026-04-08T18:13:56.275007+05:30
 draft = false
 cast = ['Corinne Marchand', 'Antoine Bourseiller', 'Dominique Davray', 'Dorothée Blanck', 'Michel Legrand', 'José Luis de Vilallonga', 'Loye Payen', 'Renée Duchateau', 'Lucienne Marchand', 'Serge Korber']
 genres = ['Drama']
-director = ['Agnès Varda']
+directors = ['Agnès Varda']
 language = ['fr']
 +++
 

@@ -1,0 +1,463 @@
+{
+	"id": 31414,
+	"title": "Satantango",
+	"original_title": "Sátántangó",
+	"original_language": "hu",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Inhabitants of a small village in Hungary deal with the effects of the fall of Communism. The town's source of revenue, a factory, has closed, and the locals, who include a doctor and three couples, await a cash payment offered in the wake of the shuttering. Irimias, a villager thought to be dead, returns and, unbeknownst to the locals, is a police informant. In a scheme, he persuades the villagers to form a commune with him.",
+	"backdrop_path": "/5a4Gmk2HNeefI4Rmwdmbyoy79oy.jpg",
+	"poster_path": "/y38z0v4HJ12MHiKddLEoFlvPiBt.jpg",
+	"release_date": "1994-02-08",
+	"credits": {
+		"cast": [
+			{
+				"id": 224340,
+				"order": 0,
+				"name": "Mihály Víg",
+				"profile_path": "/71v1NmDSD4i8ZJVNIkbvcwzVMs4.jpg",
+				"character": "Irimiás",
+				"gender": 2
+			},
+			{
+				"id": 224341,
+				"order": 1,
+				"name": "Putyi Horváth",
+				"profile_path": "/9aKiMvr7X69X6mNQdcDZTZ7JnWU.jpg",
+				"character": "Petrina",
+				"gender": 2
+			},
+			{
+				"id": 49673,
+				"order": 2,
+				"name": "Székely B. Miklós",
+				"profile_path": "/82IjLmtqqv6sVf8j6vphi0kxBn7.jpg",
+				"character": "Futaki",
+				"gender": 2
+			},
+			{
+				"id": 224346,
+				"order": 3,
+				"name": "Erika Bók",
+				"character": "Estike",
+				"gender": 1
+			},
+			{
+				"id": 224342,
+				"order": 4,
+				"name": "László feLugossy",
+				"character": "Schmidt",
+				"gender": 2
+			},
+			{
+				"id": 89812,
+				"order": 5,
+				"name": "Alfréd Járai",
+				"profile_path": "/gZgfWedQdgFV69bzCtKwZbQ8Nbo.jpg",
+				"character": "Halics",
+				"gender": 2
+			},
+			{
+				"id": 402999,
+				"order": 6,
+				"name": "János Derzsi",
+				"profile_path": "/8ER5TWn3Wm0UYiwuXEVTcUZaHD1.jpg",
+				"character": "Kráner",
+				"gender": 2
+			},
+			{
+				"id": 224344,
+				"order": 7,
+				"name": "Irén Szajki",
+				"character": "Kránerné"
+			},
+			{
+				"id": 224343,
+				"order": 8,
+				"name": "Éva Almássy Albert",
+				"profile_path": "/bGQtug5lUbvJF1CKDu2REo0C6AW.jpg",
+				"character": "Schmidtné"
+			},
+			{
+				"id": 224345,
+				"order": 9,
+				"name": "Erzsébet Gaál",
+				"character": "Halicsné"
+			},
+			{
+				"id": 18405,
+				"order": 10,
+				"name": "Peter Berling",
+				"profile_path": "/oAlkmJ99mC8KfARMiaSDm4kn9nj.jpg",
+				"character": "Orvos",
+				"gender": 2
+			},
+			{
+				"id": 125271,
+				"order": 11,
+				"name": "György Barkó",
+				"profile_path": "/wEPSCjvpADV3W0UHkCvMrafJOlk.jpg",
+				"character": "Iskolaigazgató",
+				"gender": 2
+			},
+			{
+				"id": 1307273,
+				"order": 12,
+				"name": "Zoltán Kamondi",
+				"character": "Kocsmáros"
+			},
+			{
+				"id": 1602286,
+				"order": 13,
+				"name": "Barna Mihók",
+				"profile_path": "/doDU9OLrRiNuNVA3vJzyWLCdwBF.jpg",
+				"character": "Kerekes",
+				"gender": 2
+			},
+			{
+				"id": 70914,
+				"order": 14,
+				"name": "Péter Dobai",
+				"profile_path": "/3Dla7ONZqgzsbzKIOh6Ly2fntDE.jpg",
+				"character": "Százados",
+				"gender": 2
+			},
+			{
+				"id": 1983520,
+				"order": 15,
+				"name": "András Bodnár",
+				"character": "Horgos Sanyi"
+			},
+			{
+				"id": 1983521,
+				"order": 16,
+				"name": "Ica Bojár",
+				"character": "Horgosné"
+			},
+			{
+				"id": 1983522,
+				"order": 17,
+				"name": "István Juhász",
+				"character": "Kelemen"
+			},
+			{
+				"id": 125161,
+				"order": 18,
+				"name": "Ferenc Kállai",
+				"profile_path": "/yQscSXUAj6Z8It2NTTc7DqbAlff.jpg",
+				"character": "Orvos (voice)",
+				"gender": 2
+			},
+			{
+				"id": 85640,
+				"order": 19,
+				"name": "Gyula Pauer",
+				"profile_path": "/radfLB93oMbGoYa4jrDYoqqX3kN.jpg",
+				"gender": 2
+			},
+			{
+				"id": 591875,
+				"order": 20,
+				"name": "Mihály Kormos",
+				"profile_path": "/pu1nv97NSAj6AyQnXLyKaQMU9Cg.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1983523,
+				"order": 21,
+				"name": "Ernő Mihályi"
+			},
+			{
+				"id": 1177292,
+				"order": 22,
+				"name": "András Fekete"
+			},
+			{
+				"id": 1983524,
+				"order": 23,
+				"name": "Andor Simai"
+			},
+			{
+				"id": 1983525,
+				"order": 24,
+				"name": "Katalin Krizsánné Kovács"
+			},
+			{
+				"id": 1983526,
+				"order": 25,
+				"name": "Vilmosné Pataki"
+			},
+			{
+				"id": 1983527,
+				"order": 26,
+				"name": "Mária Borbély"
+			},
+			{
+				"id": 1983528,
+				"order": 27,
+				"name": "Kati Makrányi"
+			},
+			{
+				"id": 1983529,
+				"order": 28,
+				"name": "Zsuzsa Fodor"
+			},
+			{
+				"id": 1983530,
+				"order": 29,
+				"name": "Beatrix Jeszensky"
+			},
+			{
+				"id": 1983531,
+				"order": 30,
+				"name": "Rita Deák Varga"
+			},
+			{
+				"id": 183214,
+				"order": 31,
+				"name": "Frigyes Hollósi",
+				"profile_path": "/vg6XzWnvfVe88Mp2TKcgNupM6uW.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1458044,
+				"order": 32,
+				"name": "Ágnes Kamondy",
+				"profile_path": "/mMMNSQ9eBwHzK3GJ8ZTMwOcLmJp.jpg"
+			},
+			{
+				"id": 1983532,
+				"order": 33,
+				"name": "Kína Vetõ"
+			},
+			{
+				"id": 1983533,
+				"order": 34,
+				"name": "Mia Santamaria"
+			},
+			{
+				"id": 1983534,
+				"order": 35,
+				"name": "József Kresinka"
+			},
+			{
+				"id": 1521432,
+				"order": 36,
+				"name": "Mihály Ráday",
+				"profile_path": "/2Qq89oivGj9rZYra2B0XWVqVw9I.jpg",
+				"character": "Narrator (voice)"
+			}
+		],
+		"crew": [
+			{
+				"id": 3437490,
+				"name": "Péter Pásztorfi",
+				"job": "Special Effects Technician",
+				"department": "Crew"
+			},
+			{
+				"id": 85637,
+				"name": "Béla Tarr",
+				"profile_path": "/71o40gwwvIeyI52KvIobGqGteXX.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1983523,
+				"name": "Ernő Mihályi",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 224340,
+				"name": "Mihály Víg",
+				"profile_path": "/71v1NmDSD4i8ZJVNIkbvcwzVMs4.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1036336,
+				"name": "György Fehér",
+				"profile_path": "/5bJ4Uj2sqy2zsSWQxzT89oqzVX9.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 42470,
+				"name": "János Breckl",
+				"profile_path": "/5oAZ3hyLS7FAOSQZSRPCfn2lgNh.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1086291,
+				"name": "Gábor Medvigy",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1602291,
+				"name": "István Pergel",
+				"job": "Sound Recordist",
+				"department": "Crew"
+			},
+			{
+				"id": 1418511,
+				"name": "Tamás Nyerges",
+				"job": "Steadicam Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 70914,
+				"name": "Péter Dobai",
+				"profile_path": "/3Dla7ONZqgzsbzKIOh6Ly2fntDE.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1602290,
+				"name": "József Kardos",
+				"job": "Sound Recordist",
+				"department": "Crew"
+			},
+			{
+				"id": 1602286,
+				"name": "Barna Mihók",
+				"profile_path": "/doDU9OLrRiNuNVA3vJzyWLCdwBF.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1602287,
+				"name": "Sándor Kállay",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 107858,
+				"name": "Ágnes Hranitzky",
+				"profile_path": "/lmuWx37D1sjx0RQR53bbk1Og86G.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 85638,
+				"name": "László Krasznahorkai",
+				"profile_path": "/rjAOiLVgwiB4yq4Mumk3CZn1g6l.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1602292,
+				"name": "László Ramm",
+				"job": "Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 1602294,
+				"name": "Zsigmond Molcsány",
+				"job": "Gaffer",
+				"department": "Lighting"
+			},
+			{
+				"id": 1602293,
+				"name": "Elõd Kürtös",
+				"job": "Gaffer",
+				"department": "Lighting"
+			},
+			{
+				"id": 1602289,
+				"name": "Béla Zsolt Tóth",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 85638,
+				"name": "László Krasznahorkai",
+				"profile_path": "/rjAOiLVgwiB4yq4Mumk3CZn1g6l.jpg",
+				"job": "Novel",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 95166,
+				"name": "Ruth Waldburger",
+				"profile_path": "/mSVTUctaqfM3FeLJJlEJAcuOyRM.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 36965,
+				"name": "Joachim von Vietinghoff",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 85640,
+				"name": "Gyula Pauer",
+				"profile_path": "/radfLB93oMbGoYa4jrDYoqqX3kN.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 224340,
+				"name": "Mihály Víg",
+				"profile_path": "/71v1NmDSD4i8ZJVNIkbvcwzVMs4.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1602288,
+				"name": "Sándor Katona",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 233719,
+				"name": "György Kovács",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1586315,
+				"name": "Csaba Erös",
+				"job": "Sound Recordist",
+				"department": "Sound"
+			},
+			{
+				"id": 233719,
+				"name": "György Kovács",
+				"job": "Production Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 85637,
+				"name": "Béla Tarr",
+				"profile_path": "/71o40gwwvIeyI52KvIobGqGteXX.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			}
+		]
+	}
+}

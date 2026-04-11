@@ -1,0 +1,365 @@
+{
+	"id": 5165,
+	"title": "L'Avventura",
+	"original_title": "L'avventura",
+	"original_language": "it",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 9648,
+			"name": "Mystery"
+		},
+		{
+			"id": 10749,
+			"name": "Romance"
+		}
+	],
+	"overview": "Claudia and Anna join Anna's lover, Sandro, on a boat trip to a remote volcanic island. When Anna goes missing, a search is launched. In the meantime, Sandro and Claudia become involved in a romance despite Anna's disappearance, though the relationship suffers from guilt and tension.",
+	"backdrop_path": "/kF5AeKG5XIZkAXY0kRgm57qEbJI.jpg",
+	"poster_path": "/7kUXAS8K7Ihw1T1mhARjnLuMVk3.jpg",
+	"release_date": "1960-09-14",
+	"credits": {
+		"cast": [
+			{
+				"id": 41779,
+				"order": 0,
+				"name": "Monica Vitti",
+				"profile_path": "/fwDSIup9fJHnu7DHlAp20OSTDly.jpg",
+				"character": "Claudia",
+				"gender": 1
+			},
+			{
+				"id": 4961,
+				"order": 1,
+				"name": "Gabriele Ferzetti",
+				"profile_path": "/usiGcuBhMrSK8VnMHFKV6zDFrhj.jpg",
+				"character": "Sandro",
+				"gender": 2
+			},
+			{
+				"id": 20882,
+				"order": 2,
+				"name": "Lea Massari",
+				"profile_path": "/gYsQxjnNQmZmAs3Z6a1xbsTizgJ.jpg",
+				"character": "Anna",
+				"gender": 1
+			},
+			{
+				"id": 38243,
+				"order": 3,
+				"name": "Dominique Blanchar",
+				"profile_path": "/y2HdZG6BMpNk1yosiTw7aP9AXmy.jpg",
+				"character": "Giulia",
+				"gender": 1
+			},
+			{
+				"id": 231979,
+				"order": 4,
+				"name": "Renzo Ricci",
+				"profile_path": "/36K5gi48RbelsL2OdVZFVwDQWMh.jpg",
+				"character": "Anna's Father",
+				"gender": 2
+			},
+			{
+				"id": 41781,
+				"order": 5,
+				"name": "James Addams",
+				"character": "Corrado"
+			},
+			{
+				"id": 1184827,
+				"order": 6,
+				"name": "Dorothy De Poliolo",
+				"character": "Gloria Perkins"
+			},
+			{
+				"id": 544823,
+				"order": 7,
+				"name": "Lelio Luttazzi",
+				"profile_path": "/xZq2lE0GL61Alo355jkDKoQ0ZpL.jpg",
+				"character": "Raimondo",
+				"gender": 2
+			},
+			{
+				"id": 557158,
+				"order": 8,
+				"name": "Giovanni Petrucci",
+				"profile_path": "/wcstK8OmKrJXtUlDDZwrvtkuNiJ.jpg",
+				"character": "Prince Godfrey",
+				"gender": 2
+			},
+			{
+				"id": 41780,
+				"order": 9,
+				"name": "Esmeralda Ruspoli",
+				"profile_path": "/rksYZiZfuwuFAuVmPSINk6Lsvn0.jpg",
+				"character": "Patrizia",
+				"gender": 1
+			},
+			{
+				"id": 1184833,
+				"order": 10,
+				"name": "Enrico Bologna"
+			},
+			{
+				"id": 1184829,
+				"order": 11,
+				"name": "Franco Cimino"
+			},
+			{
+				"id": 1184831,
+				"order": 12,
+				"name": "Giovanni Danesi",
+				"character": "Photographer"
+			},
+			{
+				"id": 1184832,
+				"order": 13,
+				"name": "Rita Molè",
+				"gender": 1
+			},
+			{
+				"id": 1074055,
+				"order": 14,
+				"name": "Renato Pinciroli",
+				"profile_path": "/tTFZlHzDY3iV30FbfQKNqQfuiwk.jpg",
+				"character": "Zuria, the Journalist",
+				"gender": 2
+			},
+			{
+				"id": 1184828,
+				"order": 15,
+				"name": "Angela Tommasi Di Lampedusa",
+				"character": "Princess"
+			},
+			{
+				"id": 1184834,
+				"order": 16,
+				"name": "Vincenzo Tranchina"
+			},
+			{
+				"id": 2184742,
+				"order": 17,
+				"name": "Valeria Perri",
+				"profile_path": "/6uyDzBLosNIaQBsLnslppR2ceLS.jpg",
+				"character": "Martina"
+			},
+			{
+				"id": 1184830,
+				"order": 18,
+				"name": "Prof. Cucco",
+				"character": "Ettore (uncredited)"
+			},
+			{
+				"id": 523675,
+				"order": 19,
+				"name": "Jack O'Connell",
+				"character": "Old Man on the Island (uncredited)",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 4418,
+				"name": "Eraldo Da Roma",
+				"profile_path": "/7mU29mK4NziwjL7GSHCIeDb4pb7.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 15189,
+				"name": "Michelangelo Antonioni",
+				"profile_path": "/o9QjZcZBkqQg25IW03WPRQfk9tN.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 15191,
+				"name": "Tonino Guerra",
+				"profile_path": "/5fO9Jrbnp0LbvVisSXhLJiVvxaL.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 15189,
+				"name": "Michelangelo Antonioni",
+				"profile_path": "/o9QjZcZBkqQg25IW03WPRQfk9tN.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 41777,
+				"name": "Elio Bartolini",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 27861,
+				"name": "Aldo Scavarda",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1626009,
+				"name": "Claudio Maielli",
+				"job": "Sound",
+				"department": "Sound"
+			},
+			{
+				"id": 26266,
+				"name": "Luciano Perugia",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 932651,
+				"name": "Franco Indovina",
+				"profile_path": "/6e7zySK2oLgNdOyZgr4K0MGUsAo.jpg",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1408870,
+				"name": "Enrico Appetito",
+				"job": "Still Photographer",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 15189,
+				"name": "Michelangelo Antonioni",
+				"profile_path": "/o9QjZcZBkqQg25IW03WPRQfk9tN.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1384107,
+				"name": "Elvira D'Amico",
+				"job": "Script Supervisor",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 25322,
+				"name": "Luigi Kuveiller",
+				"job": "Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 235398,
+				"name": "Gianni Arduini",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2778556,
+				"name": "Giuseppe Peruzzi",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 39161,
+				"name": "Giovanni Fusco",
+				"profile_path": "/3zteU2F37Lx82pKvLIcg5lLVbYz.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 523675,
+				"name": "Jack O'Connell",
+				"job": "Second Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 29502,
+				"name": "Piero Poletto",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1661161,
+				"name": "Fausto Ancillai",
+				"job": "Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1990381,
+				"name": "Paolo Ketoff",
+				"job": "Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1085025,
+				"name": "Adriana Berselli",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1839210,
+				"name": "Nino Renda",
+				"job": "Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1586341,
+				"name": "Galileo Mandini",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2505625,
+				"name": "Fernando Cinquini",
+				"job": "Production Supervisor",
+				"department": "Production"
+			},
+			{
+				"id": 1538554,
+				"name": "Marcella Benvenuti",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 39161,
+				"name": "Giovanni Fusco",
+				"profile_path": "/3zteU2F37Lx82pKvLIcg5lLVbYz.jpg",
+				"job": "Conductor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3372602,
+				"name": "Angelo Corso",
+				"job": "General Manager",
+				"department": "Production"
+			},
+			{
+				"id": 3289504,
+				"name": "Amato Pennasilico",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1184833,
+				"name": "Enrico Bologna",
+				"job": "Production Supervisor",
+				"department": "Production"
+			}
+		]
+	}
+}

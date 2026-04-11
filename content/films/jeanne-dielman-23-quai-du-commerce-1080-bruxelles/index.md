@@ -4,7 +4,7 @@ date = 2026-04-08T18:19:57.85375+05:30
 draft = false
 cast = ['Delphine Seyrig', 'Jan Decorte', 'Henri Storck', 'Jacques Doniol-Valcroze', 'Yves Bical', 'Chantal Akerman']
 genres = ['Drama']
-director = ['Chantal Akerman']
+directors = ['Chantal Akerman']
 language = ['fr']
 +++
 

@@ -4,7 +4,7 @@ date = 2026-04-08T18:07:48.534413+05:30
 draft = false
 cast = ['Noémie Merlant', 'Adèle Haenel', 'Luàna Bajrami', 'Valeria Golino', 'Christel Baras', 'Armande Boulanger', 'Guy Delamarche', 'Clément Bouyssou']
 genres = ['Drama', 'Romance']
-director = ['Céline Sciamma']
+directors = ['Céline Sciamma']
 language = ['fr']
 +++
 

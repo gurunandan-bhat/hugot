@@ -1,0 +1,476 @@
+{
+	"id": 27030,
+	"title": "The Earrings of Madame de...",
+	"original_title": "Madame de…",
+	"original_language": "fr",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 10749,
+			"name": "Romance"
+		}
+	],
+	"overview": "In late 19th century France, the Countess Louise, wife of a wealthy general, sells the earrings her husband gave her on their wedding day to pay off her secret debts, then claims to have lost them. Her husband quickly learns of the deceit, which is the beginning of many tragic misunderstandings, all involving the earrings, the general, the countess, and her new lover, the Italian Baron Donati.",
+	"backdrop_path": "/msQMXYEBHQ7zPVu0TPEm7wUSGHQ.jpg",
+	"poster_path": "/3eJIw86taD84NkpuZaORf5k2DsH.jpg",
+	"release_date": "1953-04-16",
+	"credits": {
+		"cast": [
+			{
+				"id": 29519,
+				"order": 0,
+				"name": "Charles Boyer",
+				"profile_path": "/uVV5HiMl0xP1haPwqcJNweGizZ1.jpg",
+				"character": "Général André de...",
+				"gender": 2
+			},
+			{
+				"id": 236016,
+				"order": 1,
+				"name": "Danielle Darrieux",
+				"profile_path": "/l8YlVUlaJw83YQ3mmqmM1iO3KI7.jpg",
+				"character": "Comtesse Louise de...",
+				"gender": 1
+			},
+			{
+				"id": 12329,
+				"order": 2,
+				"name": "Vittorio De Sica",
+				"profile_path": "/rcdyn8kE1zLTQyA7UnTN7gfAOVR.jpg",
+				"character": "Baron Fabrizio Donati",
+				"gender": 2
+			},
+			{
+				"id": 36209,
+				"order": 3,
+				"name": "Jean Debucourt",
+				"profile_path": "/5wLgftuTXcqhmKyNBnk37J6U2mL.jpg",
+				"character": "Monsieur Rémy",
+				"gender": 2
+			},
+			{
+				"id": 40897,
+				"order": 4,
+				"name": "Jean Galland",
+				"profile_path": "/aj8lnB6qAAxKCwRhe4RaLLkfJ65.jpg",
+				"character": "Monsieur de Bernac",
+				"gender": 2
+			},
+			{
+				"id": 46935,
+				"order": 5,
+				"name": "Mireille Perrey",
+				"profile_path": "/jCjTgU453ibMNhxItcmjvv81gtA.jpg",
+				"character": "La Nourrice",
+				"gender": 1
+			},
+			{
+				"id": 550796,
+				"order": 6,
+				"name": "Paul Azaïs",
+				"profile_path": "/48li5D07TJH60jGrK6vwdT1cHOb.jpg",
+				"character": "Le premier cocher",
+				"gender": 2
+			},
+			{
+				"id": 1301197,
+				"order": 7,
+				"name": "Jacques Josselin",
+				"profile_path": "/iKCe4Suq4bEh45EJUzOPq4XOaVr.jpg",
+				"gender": 2
+			},
+			{
+				"id": 566363,
+				"order": 8,
+				"name": "Hubert Noël",
+				"profile_path": "/h8Bmkqb4cOWDzIKcWqu71L2C345.jpg",
+				"character": "Henri de Maleville",
+				"gender": 2
+			},
+			{
+				"id": 588203,
+				"order": 9,
+				"name": "Lia Di Leo",
+				"profile_path": "/sm5xzvtJ0zteWILwUU3sluLqmVd.jpg",
+				"character": "Lola",
+				"gender": 2
+			},
+			{
+				"id": 27443,
+				"order": 10,
+				"name": "Gérard Buhr",
+				"profile_path": "/1k01ImbMhgmK8WvcaCZ1NABazCb.jpg",
+				"character": "Le douanier (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 114971,
+				"order": 11,
+				"name": "Jean Toulout",
+				"profile_path": "/cpv9nwb18Sg4XHdHl2bVsO8vu4G.jpg",
+				"character": "Le doyen du corps diplomatique (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 28278,
+				"order": 12,
+				"name": "Madeleine Barbulée",
+				"profile_path": "/sz5kTnAJKyUMk1g56inBSHJNnUF.jpg",
+				"character": "Une amie de Madame de... (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 112762,
+				"order": 13,
+				"name": "Charles Bayard",
+				"profile_path": "/aTnRzJMZq5JIcttZLLaN1UQWII7.jpg",
+				"character": "Un convive (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 38376,
+				"order": 14,
+				"name": "Jacques Beauvais",
+				"profile_path": "/seR6nAVbej5phrKXhwZcWkjrk7P.jpg",
+				"character": "Un majordome (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1326566,
+				"order": 15,
+				"name": "Jean Degrave",
+				"profile_path": "/ddwYzC0he6MB8RuXrxoOqF6nfil.jpg",
+				"character": "Le clubman (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 3510,
+				"order": 16,
+				"name": "Claire Duhamel",
+				"character": "La demoiselle de compagnie (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 992693,
+				"order": 17,
+				"name": "Guy Favières",
+				"profile_path": "/aMaBCeom1GxEHI9OcSQ6PShd7j2.jpg",
+				"character": "Julien (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1403301,
+				"order": 18,
+				"name": "Émile Genevois",
+				"profile_path": "/kky0vG2XEUsjRlxdeZ7b8MzF11q.jpg",
+				"character": "Un soldat (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 261108,
+				"order": 19,
+				"name": "Serge Lecointe",
+				"character": "Jérome Rémy (uncredited)"
+			},
+			{
+				"id": 1120210,
+				"order": 20,
+				"name": "Franck Maurice",
+				"profile_path": "/mNWGr8XdVYYY2CBnqmg6xVy8Quk.jpg",
+				"character": "Un témoin (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 278796,
+				"order": 21,
+				"name": "Daniel Mendaille",
+				"profile_path": "/o4ONPi9G82KPniAwToADJVJEiWs.jpg",
+				"character": "Un passant (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 39184,
+				"order": 22,
+				"name": "Albert Michel",
+				"profile_path": "/nlPIQCXMlTuNzrrVq9Py0dUKHTd.jpg",
+				"character": "Le second cocher du baron (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 932559,
+				"order": 23,
+				"name": "Robert Moor",
+				"profile_path": "/dgy3XVaDPcymOcwfpcc1H4EqQXq.jpg",
+				"character": "Un diplomate (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1188685,
+				"order": 24,
+				"name": "Max Mégy",
+				"character": "Un domestique (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 583386,
+				"order": 25,
+				"name": "Georges Paulais",
+				"profile_path": "/CJEnqHYAyj53BMFIiPWVoVMziA.jpg",
+				"character": "Le premier témoin du duel (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 583364,
+				"order": 26,
+				"name": "Léon Pauléon",
+				"character": "Un huissier (uncredited)"
+			},
+			{
+				"id": 103887,
+				"order": 27,
+				"name": "Colette Régis",
+				"profile_path": "/m499TbvBELk8Jpfh593TmHqyPJ9.jpg",
+				"character": "La vendeuse de cierges (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 39877,
+				"order": 28,
+				"name": "Louis Saintève",
+				"character": "Un passant (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 583366,
+				"order": 29,
+				"name": "Michel Salina",
+				"profile_path": "/b2nx0dI4tUA6QZpdpUzNpMyZmop.jpg",
+				"character": "Un témoin (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 45478,
+				"order": 30,
+				"name": "Germaine Stainval",
+				"profile_path": "/4eO9WLjqJ7D0UJcG8b3QHDY6f7i.jpg",
+				"character": "L'ambassadrice (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 1540664,
+				"order": 31,
+				"name": "Roger Vincent",
+				"profile_path": "/piqXVGNbWW4Umh3K5vneeaSzTAd.jpg",
+				"character": "Le second témoin du duel (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 395052,
+				"order": 32,
+				"name": "Georges Vitray",
+				"profile_path": "/kAzmt9PJzGqvh24JFyNeWZ3sfxe.jpg",
+				"character": "Le vieux reporter (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 588693,
+				"order": 33,
+				"name": "Léon Walther",
+				"profile_path": "/ycdJmBhc3ckDICPEIoSPkd0OrZE.jpg",
+				"character": "L'administrateur (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 585662,
+				"order": 34,
+				"name": "René Worms",
+				"character": "Un convive (uncredited)",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 14353,
+				"name": "Max Ophüls",
+				"profile_path": "/7fS9M8xuhcuE6swofTjvsLAWT3N.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 26151,
+				"name": "Louise de Vilmorin",
+				"job": "Novel",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 553897,
+				"name": "Annette Wademant",
+				"profile_path": "/nh6W3RBu3D2TR8tJcKco1UnSPQx.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 17842,
+				"name": "Marcel Achard",
+				"profile_path": "/a4PWvZzgOVXLFAK9qgFnfsMS1Yf.jpg",
+				"job": "Dialogue",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 17842,
+				"name": "Marcel Achard",
+				"profile_path": "/a4PWvZzgOVXLFAK9qgFnfsMS1Yf.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 14353,
+				"name": "Max Ophüls",
+				"profile_path": "/7fS9M8xuhcuE6swofTjvsLAWT3N.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1548515,
+				"name": "André Hoss",
+				"job": "Unit Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1446142,
+				"name": "Carmen Brel",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 12262,
+				"name": "Georges Van Parys",
+				"profile_path": "/zPDR9MXBBO83rL5LDJtKigdQf4n.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 11556,
+				"name": "Christian Matras",
+				"profile_path": "/FZ2RHlzrXlm9dlTyKTl3JgLD8e.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 115112,
+				"name": "Borys Lewin",
+				"profile_path": "/ukHn89h4Y2RFJGg8086Kqr9eL7D.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1523497,
+				"name": "Georges Annenkov",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 9749,
+				"name": "Henri Baum",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 41837,
+				"name": "Ralph Baum",
+				"job": "Production Manager",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 41837,
+				"name": "Ralph Baum",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 50977,
+				"name": "Oscar Straus",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 41011,
+				"name": "Jean d'Eaubonne",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 14237,
+				"name": "Rosine Delamare",
+				"profile_path": "/kps9AMF8BjIkVQDP23JACArnJKR.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 35836,
+				"name": "Marc Frédérix",
+				"job": "Assistant Decorator",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 30632,
+				"name": "Alain Jessua",
+				"profile_path": "/kai2tvgvFVjg0MpypvYWylLYUiU.jpg",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 41713,
+				"name": "Marc Maurette",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 45444,
+				"name": "Ulrich Picard",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1606888,
+				"name": "Maurice Barnathan",
+				"job": "Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 1297804,
+				"name": "Antoine Petitjean",
+				"job": "Sound",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 54364,
+				"name": "Alain Douarinou",
+				"profile_path": "/ycBn1pNyeQmY4DLTBpFYeUBbO4p.jpg",
+				"job": "Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			}
+		]
+	}
+}

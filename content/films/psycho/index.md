@@ -4,7 +4,7 @@ date = 2026-04-08T18:57:12.55602+05:30
 draft = false
 cast = ['Anthony Perkins', 'Janet Leigh', 'Vera Miles', 'John Gavin', 'Martin Balsam', 'John McIntire', 'Simon Oakland', 'Frank Albertson', 'Patricia Hitchcock', 'Vaughn Taylor']
 genres = ['Horror', 'Thriller', 'Mystery']
-director = ['Alfred Hitchcock']
+directors = ['Alfred Hitchcock']
 language = ['en']
 +++
 

@@ -4,7 +4,7 @@ date = 2026-04-08T19:08:34.518446+05:30
 draft = false
 cast = ['Barbara Loden', 'Michael Higgins', 'Dorothy Shupenes', 'Peter Shupenes', 'Jerome Thier', 'Marian Thier', 'Valerie Mamches', 'Anthony Rotell', 'M.L. Kennedy', 'Gerald Grippo']
 genres = ['Drama', 'Crime']
-director = ['Barbara Loden']
+directors = ['Barbara Loden']
 language = ['en']
 +++
 

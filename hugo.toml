@@ -6,3 +6,4 @@ theme = 'simple'
 [taxonomies]
 genre = 'genres'
 cast = 'cast'
+director = 'directors'

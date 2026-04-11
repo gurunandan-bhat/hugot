@@ -4,7 +4,7 @@ date = 2026-04-08T19:04:02.239867+05:30
 draft = false
 cast = ['Lamberto Maggiorani', 'Enzo Staiola', 'Lianella Carell', 'Gino Saltamerenda', 'Vittorio Antonucci', 'Giulio Chiari', 'Elena Altieri', 'Carlo Jachino', 'Michele Sakara', 'Emma Druetti']
 genres = ['Drama']
-director = ['Vittorio De Sica']
+directors = ['Vittorio De Sica']
 language = ['it']
 +++
 

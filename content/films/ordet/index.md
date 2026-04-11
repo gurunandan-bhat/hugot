@@ -4,7 +4,7 @@ date = 2026-04-08T19:09:20.564881+05:30
 draft = false
 cast = ['Henrik Malberg', 'Birgitte Federspiel', 'Emil Hass Christensen', 'Preben Lerdorff Rye', 'Cay Kristiansen', 'Ejner Federspiel', 'Gerda Nielsen', 'Sylvia Eckhausen', 'Ann Elisabeth Groth', 'Susanne Rud']
 genres = ['Drama']
-director = ['Carl Theodor Dreyer']
+directors = ['Carl Theodor Dreyer']
 language = ['da']
 +++
 

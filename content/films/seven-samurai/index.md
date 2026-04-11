@@ -4,7 +4,7 @@ date = 2026-04-08T18:10:59.472593+05:30
 draft = false
 cast = ['Toshirō Mifune', 'Takashi Shimura', 'Yoshio Inaba', 'Seiji Miyaguchi', 'Minoru Chiaki', 'Daisuke Katō', 'Isao Kimura', 'Keiko Tsushima', 'Yukiko Shimazaki', 'Kamatari Fujiwara']
 genres = ['Action', 'Drama']
-director = ['Akira Kurosawa']
+directors = ['Akira Kurosawa']
 language = ['ja']
 +++
 

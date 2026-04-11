@@ -4,7 +4,7 @@ date = 2026-04-08T18:16:54.014625+05:30
 draft = false
 cast = ['Keir Dullea', 'Gary Lockwood', 'William Sylvester', 'Douglas Rain', 'Daniel Richter', 'Leonard Rossiter', 'Margaret Tyzack', 'Robert Beatty', 'Sean Sullivan', 'Frank W. Miller']
 genres = ['Science Fiction', 'Mystery', 'Adventure']
-director = ['Stanley Kubrick']
+directors = ['Stanley Kubrick']
 language = ['en']
 +++
 

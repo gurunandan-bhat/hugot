@@ -4,7 +4,7 @@ date = 2026-04-08T18:08:45.114367+05:30
 draft = false
 cast = ['Claude Lanzmann', 'Simon Srebnik', 'Michael Podchlebnik', 'Motke Zaidl', 'Jan Karski', 'Paula Biren', 'Abraham Bomba', 'Inge Deutschkron', 'Ruth Elias', 'Richard Glazar']
 genres = ['Documentary', 'History']
-director = ['Claude Lanzmann']
+directors = ['Claude Lanzmann']
 language = ['fr']
 +++
 

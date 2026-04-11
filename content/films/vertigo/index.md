@@ -4,7 +4,7 @@ date = 2026-04-08T18:19:22.426857+05:30
 draft = false
 cast = ['James Stewart', 'Kim Novak', 'Barbara Bel Geddes', 'Tom Helmore', 'Henry Jones', 'Raymond Bailey', 'Ellen Corby', 'Konstantin Shayne', 'Lee Patrick', 'Bess Flowers']
 genres = ['Mystery', 'Romance', 'Thriller']
-director = ['Alfred Hitchcock']
+directors = ['Alfred Hitchcock']
 language = ['en']
 +++
 

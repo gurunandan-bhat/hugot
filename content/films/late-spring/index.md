@@ -4,7 +4,7 @@ date = 2026-04-08T18:10:20.240283+05:30
 draft = false
 cast = ['Chishū Ryū', 'Setsuko Hara', 'Yumeji Tsukioka', 'Haruko Sugimura', 'Hōhi Aoki', 'Jun Usami', 'Kuniko Miyake', 'Masao Mishima', 'Yoshiko Tsubouchi', 'Yōko Katsuragi']
 genres = ['Drama']
-director = ['Yasujirō Ozu']
+directors = ['Yasujirō Ozu']
 language = ['ja']
 +++
 

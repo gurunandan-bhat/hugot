@@ -1,0 +1,914 @@
+{
+	"id": 15804,
+	"title": "A Brighter Summer Day",
+	"original_title": "牯嶺街少年殺人事件",
+	"original_language": "zh",
+	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 10749,
+			"name": "Romance"
+		}
+	],
+	"overview": "A boy experiences first love, friendships and injustices growing up in 1960s Taiwan.",
+	"backdrop_path": "/hypv7bDxzqdhJfEpjRKf1aQbdc.jpg",
+	"poster_path": "/3l8fOAwiN3N5n3hHnZ51eog7Zu2.jpg",
+	"release_date": "1991-07-27",
+	"credits": {
+		"cast": [
+			{
+				"id": 1622,
+				"order": 0,
+				"name": "Chang Chen",
+				"profile_path": "/4BOQ5pJXdsArkMHvyVhrV8Ditnr.jpg",
+				"character": "Xiao Si'r",
+				"gender": 2
+			},
+			{
+				"id": 150162,
+				"order": 1,
+				"name": "Lisa Yang",
+				"profile_path": "/ptV4yPHZMsR4Z99qhY2h2a45y1P.jpg",
+				"character": "Ming",
+				"gender": 1
+			},
+			{
+				"id": 1088685,
+				"order": 2,
+				"name": "Chang Kuo-Chu",
+				"profile_path": "/6hGLo2VE970oi3LMPr9QcmiaDSG.jpg",
+				"character": "Father",
+				"gender": 2
+			},
+			{
+				"id": 103598,
+				"order": 3,
+				"name": "Elaine Jin Yan-Ling",
+				"profile_path": "/eXhTJ8vMsflpvoU4lOWeFTahbVY.jpg",
+				"character": "Mother",
+				"gender": 1
+			},
+			{
+				"id": 1293234,
+				"order": 4,
+				"name": "Wang Chuan",
+				"profile_path": "/yJq73sOtT5NGXGXhqscXcGSfmpA.jpg",
+				"character": "Eldest Sister",
+				"gender": 1
+			},
+			{
+				"id": 1089570,
+				"order": 5,
+				"name": "Chang Han",
+				"profile_path": "/jroxa0xd9OXRrPBNr9UCap4Nezl.jpg",
+				"character": "Elder Brother",
+				"gender": 2
+			},
+			{
+				"id": 1083229,
+				"order": 6,
+				"name": "Chiang Hsiu-Chiung",
+				"profile_path": "/lUrreu3uxTJw7WAlMyKsPTMIlK5.jpg",
+				"character": "Middle Sister",
+				"gender": 1
+			},
+			{
+				"id": 1554172,
+				"order": 7,
+				"name": "Stephanie Lai",
+				"character": "Youngest Sister"
+			},
+			{
+				"id": 1554174,
+				"order": 8,
+				"name": "Tan Chih-Kang",
+				"profile_path": "/nSJ3uhYlRgF5ZspZEywVgOqht3o.jpg",
+				"character": "Ma",
+				"gender": 2
+			},
+			{
+				"id": 1554173,
+				"order": 9,
+				"name": "Wang Chi-tsan",
+				"profile_path": "/uRnRLuAWRjp8Gjb4XTWt3EAXLu.jpg",
+				"character": "Cat"
+			},
+			{
+				"id": 150609,
+				"order": 10,
+				"name": "Lawrence Ko Yu-Luen",
+				"profile_path": "/bFcsOt2onOUDmaUz9SyCNHo8nI.jpg",
+				"character": "Airplane",
+				"gender": 2
+			},
+			{
+				"id": 1554175,
+				"order": 11,
+				"name": "Chang Ming-Hsin",
+				"character": "Underpants"
+			},
+			{
+				"id": 1554176,
+				"order": 12,
+				"name": "Jung Chun-Lung",
+				"character": "Bomber"
+			},
+			{
+				"id": 2968392,
+				"order": 13,
+				"name": "Hui-Kuo Chou",
+				"character": "Tiger"
+			},
+			{
+				"id": 1495062,
+				"order": 14,
+				"name": "Chi-Chung Liu",
+				"character": "Hefty"
+			},
+			{
+				"id": 3786492,
+				"order": 15,
+				"name": "Ching-Hsiang Ho",
+				"character": "Animal"
+			},
+			{
+				"id": 3786493,
+				"order": 16,
+				"name": "Chang-Ta Tsai",
+				"character": "Tiger's Buddy"
+			},
+			{
+				"id": 3786494,
+				"order": 17,
+				"name": "Tsung-Ming Lee",
+				"character": "Tiger's Buddy"
+			},
+			{
+				"id": 2498804,
+				"order": 18,
+				"name": "Hung-Ming Lin",
+				"character": "Honey"
+			},
+			{
+				"id": 2468221,
+				"order": 19,
+				"name": "Wang Bosen",
+				"profile_path": "/eqhOgjm8YJmJiYrhWJe6hZBlF3O.jpg",
+				"character": "Deuce"
+			},
+			{
+				"id": 2968394,
+				"order": 20,
+				"name": "Hung-Yu Chen",
+				"character": "Sly"
+			},
+			{
+				"id": 2968393,
+				"order": 21,
+				"name": "Hsiao-Tsui Tang",
+				"character": "Jade"
+			},
+			{
+				"id": 3786495,
+				"order": 22,
+				"name": "Ming-Ying Chiang",
+				"character": "Jade's Girlfriend"
+			},
+			{
+				"id": 3786496,
+				"order": 23,
+				"name": "Tien-Hsiang Yang",
+				"character": "Worm"
+			},
+			{
+				"id": 3786498,
+				"order": 24,
+				"name": "Hsiao-Wei Liao",
+				"character": "Gang Member"
+			},
+			{
+				"id": 3786499,
+				"order": 25,
+				"name": "Cheng-Ching Lin",
+				"character": "Gang Member"
+			},
+			{
+				"id": 3786502,
+				"order": 26,
+				"name": "Ming-Hsun Lee",
+				"character": "Gang Member"
+			},
+			{
+				"id": 1756690,
+				"order": 27,
+				"name": "Tai-song Chen",
+				"character": "Gang Member"
+			},
+			{
+				"id": 3786503,
+				"order": 28,
+				"name": "Ming-Che Lee",
+				"character": "Gang Member"
+			},
+			{
+				"id": 5126250,
+				"order": 29,
+				"name": "Yu-Cheng Lin",
+				"character": "Gang Member"
+			},
+			{
+				"id": 3786507,
+				"order": 30,
+				"name": "Chung Yi-Cheng",
+				"character": "Gang Member"
+			},
+			{
+				"id": 3786508,
+				"order": 31,
+				"name": "Chia-Hsien Ho",
+				"character": "Gang Member"
+			},
+			{
+				"id": 3786509,
+				"order": 32,
+				"name": "Kang-Nien Cheng",
+				"character": "Gang Member"
+			},
+			{
+				"id": 3786510,
+				"order": 33,
+				"name": "Hsien-Liang Hsu",
+				"character": "Gang Member"
+			},
+			{
+				"id": 3786511,
+				"order": 34,
+				"name": "Chih-Chien Tang",
+				"character": "Gang Member"
+			},
+			{
+				"id": 3786512,
+				"order": 35,
+				"name": "Chien-Hung Tseng",
+				"character": "Gang Member"
+			},
+			{
+				"id": 3786514,
+				"order": 36,
+				"name": "Yiwen Cao",
+				"character": "Guitarist"
+			},
+			{
+				"id": 3786515,
+				"order": 37,
+				"name": "Martin Liu",
+				"character": "Bassist"
+			},
+			{
+				"id": 3786516,
+				"order": 38,
+				"name": "Yi-Chun Chang",
+				"character": "Drummer"
+			},
+			{
+				"id": 3786518,
+				"order": 39,
+				"name": "Yuan Ling",
+				"character": "Keyboardist"
+			},
+			{
+				"id": 150161,
+				"order": 40,
+				"name": "Alex Yang",
+				"character": "Shandong"
+			},
+			{
+				"id": 1055456,
+				"order": 41,
+				"name": "Joyce Ni Shu-Chun",
+				"profile_path": "/coeNLhTkUHFWFyMen5llKZ1FcSW.jpg",
+				"character": "Crazy",
+				"gender": 1
+			},
+			{
+				"id": 1371123,
+				"order": 42,
+				"name": "Weiming Wang",
+				"profile_path": "/z4pFLRoh9D9HfkQKWfaIwX5LxV0.jpg",
+				"character": "Ka Wu",
+				"gender": 2
+			},
+			{
+				"id": 3786533,
+				"order": 43,
+				"name": "Chien-Hsiung Cheng",
+				"character": "Wu Ba"
+			},
+			{
+				"id": 2468265,
+				"order": 44,
+				"name": "Ye-Ming Wang",
+				"character": "Baldie"
+			},
+			{
+				"id": 1594514,
+				"order": 45,
+				"name": "De-Hai Chu",
+				"character": "Cowboy"
+			},
+			{
+				"id": 3786534,
+				"order": 46,
+				"name": "Pei-Min Shih",
+				"character": "Kid Brother"
+			},
+			{
+				"id": 1977515,
+				"order": 47,
+				"name": "Liang-Tso Liu",
+				"profile_path": "/oLBmCRIBdyxZeiBEJ2qsEEPFVYG.jpg",
+				"character": "Mouth",
+				"gender": 2
+			},
+			{
+				"id": 3225536,
+				"order": 48,
+				"name": "Hang Shen",
+				"character": "Threads"
+			},
+			{
+				"id": 3786536,
+				"order": 49,
+				"name": "Yang-Yeh Fu",
+				"character": "Cushion"
+			},
+			{
+				"id": 1615866,
+				"order": 50,
+				"name": "Lee Ching-Foo",
+				"character": "Headmaster",
+				"gender": 2
+			},
+			{
+				"id": 150165,
+				"order": 51,
+				"name": "Chen Yi-wen",
+				"profile_path": "/vU2QNM5VrCo41FXKj3I7MzbKwOD.jpg",
+				"character": "Horsecart",
+				"gender": 2
+			},
+			{
+				"id": 3786538,
+				"order": 52,
+				"name": "Jen-Chieh Lin",
+				"character": "Grapefruit"
+			},
+			{
+				"id": 2695482,
+				"order": 53,
+				"name": "Cheng Yuan-Cheng",
+				"character": "Morphine"
+			},
+			{
+				"id": 3786542,
+				"order": 54,
+				"name": "Yi-Chin Tsai",
+				"character": "Headlights"
+			},
+			{
+				"id": 3786545,
+				"order": 55,
+				"name": "Yu-Lung Yin",
+				"character": "Diaper"
+			},
+			{
+				"id": 1554124,
+				"order": 56,
+				"name": "Hsu Ming",
+				"profile_path": "/n0IzMb2rCm5m0fnYEjYNSPnJnbE.jpg",
+				"character": "Wang",
+				"gender": 2
+			},
+			{
+				"id": 1618084,
+				"order": 57,
+				"name": "Tsai Chin",
+				"profile_path": "/37jeVsDcGrS5PgrVJDdx1xqk4w6.jpg",
+				"character": "Wang's Wife",
+				"gender": 1
+			},
+			{
+				"id": 2658968,
+				"order": 58,
+				"name": "Cho Ming",
+				"character": "Uncle Fat"
+			},
+			{
+				"id": 3786680,
+				"order": 59,
+				"name": "Wen-Yen Chang",
+				"character": "Uncle Fat's Wife"
+			},
+			{
+				"id": 3786633,
+				"order": 60,
+				"name": "Hsiao Lien-Lien",
+				"character": "Uncle Fat's Daughter"
+			},
+			{
+				"id": 1140641,
+				"order": 61,
+				"name": "Emily Y. Chang",
+				"profile_path": "/qZFDql7t227XNqe6X4kuzYGnLC3.jpg",
+				"character": "Ming's Mother",
+				"gender": 1
+			},
+			{
+				"id": 582557,
+				"order": 62,
+				"name": "King Shih-chieh",
+				"profile_path": "/pQZBMC8ed97f5MNWb64SOlahxGs.jpg",
+				"character": "Ming's 7th Uncle",
+				"gender": 2
+			},
+			{
+				"id": 2833760,
+				"order": 63,
+				"name": "Lih-Ching Lin",
+				"character": "7th Uncle's Wife"
+			},
+			{
+				"id": 555380,
+				"order": 64,
+				"name": "Tang Ru-Yun",
+				"profile_path": "/x1FgrbkNLIM9s80KbE885p5JXwD.jpg",
+				"character": "Mrs. Xia",
+				"gender": 1
+			},
+			{
+				"id": 2178009,
+				"order": 65,
+				"name": "Feng Guoqiang",
+				"profile_path": "/yWvXyZ51p1u5LMDxki0ekx7zJIb.jpg",
+				"character": "Piggy",
+				"gender": 2
+			},
+			{
+				"id": 3786688,
+				"order": 66,
+				"name": "Chiu-Yun Lu",
+				"character": "Mrs. Fang"
+			},
+			{
+				"id": 5112157,
+				"order": 67,
+				"name": "Johnny Tuan Chung-Yi",
+				"character": "Mr. Chen"
+			},
+			{
+				"id": 1888220,
+				"order": 68,
+				"name": "Chin Ling Tsao",
+				"character": "Mrs. Chen",
+				"gender": 2
+			},
+			{
+				"id": 1606189,
+				"order": 69,
+				"name": "Hsiao Chih-wen",
+				"character": "Ma's Mother"
+			},
+			{
+				"id": 3786692,
+				"order": 70,
+				"name": "Liang-Yueh Chen",
+				"character": "Chauffeur"
+			},
+			{
+				"id": 3786564,
+				"order": 71,
+				"name": "Li-Hua Chen",
+				"character": "Reverend Chen",
+				"gender": 2
+			},
+			{
+				"id": 3786694,
+				"order": 72,
+				"name": "Ko-Chung Chang",
+				"character": "Juan's Boyfriend"
+			},
+			{
+				"id": 1559775,
+				"order": 73,
+				"name": "Lu Te-Ming",
+				"character": "Airplane's Father"
+			},
+			{
+				"id": 1715266,
+				"order": 74,
+				"name": "Hsiao Ai",
+				"character": "Ice-cream Parlour Lady",
+				"gender": 1
+			},
+			{
+				"id": 555375,
+				"order": 75,
+				"name": "Hsi-Sheng Chen",
+				"profile_path": "/b0GXCdKSL3p7RYB85C0IkVOK4Xq.jpg",
+				"character": "Blind Fighter Pilot",
+				"gender": 2
+			},
+			{
+				"id": 2339431,
+				"order": 76,
+				"name": "Shu-Chuan Huang",
+				"character": "Girl Vendor"
+			},
+			{
+				"id": 3786698,
+				"order": 77,
+				"name": "Hung-Shen Shen",
+				"character": "Dean of Conduct"
+			},
+			{
+				"id": 1755379,
+				"order": 78,
+				"name": "Meng Chi-Liang",
+				"character": "Assistant Dean of Conduct"
+			},
+			{
+				"id": 143309,
+				"order": 79,
+				"name": "Yen Hung-ya",
+				"profile_path": "/v8QBoeCc7gJHkWD4N9aCG5dQa8l.jpg",
+				"character": "Chinese Studies Teacher",
+				"gender": 2
+			},
+			{
+				"id": 2626318,
+				"order": 80,
+				"name": "Ma Tin-Ni",
+				"character": "Mathematics Teacher",
+				"gender": 1
+			},
+			{
+				"id": 1627950,
+				"order": 81,
+				"name": "Hu Hsiang-Ping",
+				"character": "Military Advisor",
+				"gender": 2
+			},
+			{
+				"id": 3786703,
+				"order": 82,
+				"name": "Sun Pao-Kuei",
+				"character": "Librarian"
+			},
+			{
+				"id": 3189624,
+				"order": 83,
+				"name": "Vicky Chiang",
+				"character": "Librarian"
+			},
+			{
+				"id": 1559778,
+				"order": 84,
+				"name": "Ming-Yang Shih",
+				"character": "Doctor"
+			},
+			{
+				"id": 2468255,
+				"order": 85,
+				"name": "Li-Mei Chen",
+				"character": "Clinic Nurse"
+			},
+			{
+				"id": 71395,
+				"order": 86,
+				"name": "Chen Shiang-Chyi",
+				"profile_path": "/nUKvEdVE8i3Us4MpAM4f4160FgY.jpg",
+				"character": "Little Doctor's Fiancée",
+				"gender": 1
+			},
+			{
+				"id": 1674097,
+				"order": 87,
+				"name": "Lai Te-Nan",
+				"character": "Doctor's Father",
+				"gender": 2
+			},
+			{
+				"id": 3786708,
+				"order": 88,
+				"name": "Ju-Ping Lin",
+				"character": "Hospital Nurse"
+			},
+			{
+				"id": 150166,
+				"order": 89,
+				"name": "Danny Deng",
+				"profile_path": "/zFcxz9W0ub3UUTerz7rlTeEfJ75.jpg",
+				"character": "The Film Director",
+				"gender": 2
+			},
+			{
+				"id": 3786710,
+				"order": 90,
+				"name": "Ming-Yu Shih",
+				"character": "The Temperamental Star"
+			},
+			{
+				"id": 3786711,
+				"order": 91,
+				"name": "Lin Heng-Cheng",
+				"character": "The Male Lead",
+				"gender": 2
+			},
+			{
+				"id": 3786712,
+				"order": 92,
+				"name": "Yi-Hua Shih",
+				"character": "The Assistant Director"
+			},
+			{
+				"id": 3786558,
+				"order": 93,
+				"name": "Shu Kuo-Chih",
+				"profile_path": "/okRJSxDYxb7iWzzuB9GWmyT3lJX.jpg",
+				"character": "The Cameraman",
+				"gender": 2
+			},
+			{
+				"id": 3786713,
+				"order": 94,
+				"name": "Chang-Ju Kuo",
+				"character": "The Key Grip"
+			},
+			{
+				"id": 3786714,
+				"order": 95,
+				"name": "Miao-hui Kao",
+				"character": "The Producer"
+			},
+			{
+				"id": 3182443,
+				"order": 96,
+				"name": "Chang-Hao Liu",
+				"character": "Juvenile Division Officer",
+				"gender": 2
+			},
+			{
+				"id": 5126301,
+				"order": 97,
+				"name": "Hung-chun Hsieh",
+				"character": "Juvenile Division Cop"
+			},
+			{
+				"id": 3786719,
+				"order": 98,
+				"name": "Tuan Chung-Chang",
+				"character": "Juvenile Division Cop"
+			},
+			{
+				"id": 5112088,
+				"order": 99,
+				"name": "Tse Hung-Kwan",
+				"character": "Juvenile Division Cop"
+			},
+			{
+				"id": 1299767,
+				"order": 100,
+				"name": "Te-chien Hou",
+				"character": "The Detective"
+			},
+			{
+				"id": 2395406,
+				"order": 101,
+				"name": "Li Lung-Yu",
+				"character": "Team Leader Chiu",
+				"gender": 2
+			},
+			{
+				"id": 1255148,
+				"order": 102,
+				"name": "Lang Tsu-Yun",
+				"profile_path": "/yWb5JJVWOUmDT2fQnvKBBVqNWtu.jpg",
+				"character": "Policewoman",
+				"gender": 1
+			},
+			{
+				"id": 1379190,
+				"order": 103,
+				"name": "Tang Shiang-chu",
+				"character": "Policeman",
+				"gender": 2
+			},
+			{
+				"id": 3786722,
+				"order": 104,
+				"name": "Lai-Fu Chen",
+				"character": "Policeman"
+			},
+			{
+				"id": 3786723,
+				"order": 105,
+				"name": "Min-Nen Lee",
+				"character": "Workman"
+			},
+			{
+				"id": 1299769,
+				"order": 106,
+				"name": "Yu Wei-Yen",
+				"character": "Interrogator"
+			},
+			{
+				"id": 2349851,
+				"order": 107,
+				"name": "Wang Dao-nan",
+				"profile_path": "/1hFN2u6CWoEi6C5aHkfS2T1KFi3.jpg",
+				"character": "Interrogator",
+				"gender": 2
+			},
+			{
+				"id": 1554168,
+				"order": 108,
+				"name": "Wu Chuang",
+				"character": "Officer"
+			},
+			{
+				"id": 1554167,
+				"order": 109,
+				"name": "Le-Chin Wu",
+				"character": "Officer"
+			},
+			{
+				"id": 3786724,
+				"order": 110,
+				"name": "Tzu-Chiang Lee",
+				"character": "Prisoner"
+			},
+			{
+				"id": 3786725,
+				"order": 111,
+				"name": "Liping Yang",
+				"character": "Lover in Park"
+			},
+			{
+				"id": 3786726,
+				"order": 112,
+				"name": "Katherine Hui-ling Chou",
+				"character": "Lover in Park"
+			}
+		],
+		"crew": [
+			{
+				"id": 143309,
+				"name": "Yen Hung-ya",
+				"profile_path": "/v8QBoeCc7gJHkWD4N9aCG5dQa8l.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 150159,
+				"name": "Mingtang Lai",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 150161,
+				"name": "Alex Yang",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 143035,
+				"name": "Edward Yang",
+				"profile_path": "/mvQ0oSfPgyohdTpr3hETXQy7ilz.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 143035,
+				"name": "Edward Yang",
+				"profile_path": "/mvQ0oSfPgyohdTpr3hETXQy7ilz.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1554162,
+				"name": "Sui Je Cheng",
+				"job": "Supervising Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1554163,
+				"name": "Jan Hung-Tze",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 57052,
+				"name": "Jiang Feng-Chyt",
+				"job": "Supervising Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1299769,
+				"name": "Yu Wei-Yen",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1554164,
+				"name": "Chang Hui-kung",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1554165,
+				"name": "Longyu Zhang",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1554166,
+				"name": "Chen Po-Wen",
+				"profile_path": "/beXskPZupY5mpFrqi3Lt3Jh24Qi.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1299769,
+				"name": "Yu Wei-Yen",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1554167,
+				"name": "Le-Chin Wu",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1554168,
+				"name": "Wu Chuang",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1106982,
+				"name": "Qu You-ning",
+				"profile_path": "/mPiU8olIeJPLX596fRrGvHQ7ZNJ.jpg",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1554171,
+				"name": "Angelika Wang",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 1316884,
+				"name": "Tu Duu-chih",
+				"profile_path": "/jaoW15Nl1y3ViiRQjafYAVQspRE.jpg",
+				"job": "Sound",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1536702,
+				"name": "Ching-an Yang",
+				"job": "Sound",
+				"department": "Sound"
+			},
+			{
+				"id": 2498797,
+				"name": "Zhang Hongda",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 2395406,
+				"name": "Li Lung-Yu",
+				"job": "Gaffer",
+				"department": "Lighting",
+				"gender": 2
+			}
+		]
+	}
+}

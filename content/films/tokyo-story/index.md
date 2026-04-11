@@ -4,7 +4,7 @@ date = 2026-04-08T18:17:57.805619+05:30
 draft = false
 cast = ['Chishū Ryū', 'Chieko Higashiyama', 'Setsuko Hara', 'Haruko Sugimura', 'So Yamamura', 'Kuniko Miyake', 'Kyōko Kagawa', 'Eijirō Tōno', 'Nobuo Nakamura', 'Shirō Ōsaka']
 genres = ['Drama']
-director = ['Yasujirō Ozu']
+directors = ['Yasujirō Ozu']
 language = ['ja']
 +++
 

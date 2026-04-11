@@ -1,0 +1,500 @@
+{
+	"id": 793,
+	"title": "Blue Velvet",
+	"original_title": "Blue Velvet",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 9648,
+			"name": "Mystery"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		}
+	],
+	"overview": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child.",
+	"backdrop_path": "/s1CBwblInR0ZBIv59CSko2QdLD3.jpg",
+	"poster_path": "/6v1zYh2FKOYVddY5pCQhd4PO9uX.jpg",
+	"release_date": "1986-09-19",
+	"credits": {
+		"cast": [
+			{
+				"id": 6588,
+				"order": 0,
+				"name": "Isabella Rossellini",
+				"profile_path": "/z0zojT6nwDxi35HMcXlVpBfuBAU.jpg",
+				"character": "Dorothy Vallens",
+				"gender": 1
+			},
+			{
+				"id": 6677,
+				"order": 1,
+				"name": "Kyle MacLachlan",
+				"profile_path": "/7gNyx8fYAUdOp2jpCEH3dyFbeV.jpg",
+				"character": "Jeffrey Beaumont",
+				"gender": 2
+			},
+			{
+				"id": 2778,
+				"order": 2,
+				"name": "Dennis Hopper",
+				"profile_path": "/hfrzsJhkX7Vphe3pVYk8lA9BNfg.jpg",
+				"character": "Frank Booth",
+				"gender": 2
+			},
+			{
+				"id": 4784,
+				"order": 3,
+				"name": "Laura Dern",
+				"profile_path": "/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg",
+				"character": "Sandy Williams",
+				"gender": 1
+			},
+			{
+				"id": 3382,
+				"order": 4,
+				"name": "Hope Lange",
+				"profile_path": "/tSI2AeouDffP0V3Qb5nd1cmN83X.jpg",
+				"character": "Mrs. Williams",
+				"gender": 1
+			},
+			{
+				"id": 923,
+				"order": 5,
+				"name": "Dean Stockwell",
+				"profile_path": "/gdHo8LNElMf1XxoRYgi0UUzbJuB.jpg",
+				"character": "Ben",
+				"gender": 2
+			},
+			{
+				"id": 11792,
+				"order": 6,
+				"name": "George Dickerson",
+				"profile_path": "/xw2ZqkQkd7p30yXro7UNCyRSv.jpg",
+				"character": "Detective Williams",
+				"gender": 2
+			},
+			{
+				"id": 11793,
+				"order": 7,
+				"name": "Priscilla Pointer",
+				"profile_path": "/sLuwocnvy9QmJ9AOG7QKbi0PN0N.jpg",
+				"character": "Mrs. Beaumont",
+				"gender": 1
+			},
+			{
+				"id": 11794,
+				"order": 8,
+				"name": "Frances Bay",
+				"profile_path": "/1mtcINBBbvb7E4ySgOr86u34XLJ.jpg",
+				"character": "Aunt Barbara",
+				"gender": 1
+			},
+			{
+				"id": 1599429,
+				"order": 9,
+				"name": "Jack Harvey",
+				"character": "Mr. Beaumont",
+				"gender": 2
+			},
+			{
+				"id": 11796,
+				"order": 10,
+				"name": "Ken Stovitz",
+				"profile_path": "/ls7UTKXh4OvSLlXfcxQsOLKsijK.jpg",
+				"character": "Mike"
+			},
+			{
+				"id": 1370,
+				"order": 11,
+				"name": "Brad Dourif",
+				"profile_path": "/ex7AmuHM3owhUetYZAyOmN1ehWS.jpg",
+				"character": "Raymond",
+				"gender": 2
+			},
+			{
+				"id": 6718,
+				"order": 12,
+				"name": "Jack Nance",
+				"profile_path": "/uYZ2D1gb7lO779L5nDn8XarZSvf.jpg",
+				"character": "Paul",
+				"gender": 2
+			},
+			{
+				"id": 11797,
+				"order": 13,
+				"name": "J. Michael Hunter",
+				"profile_path": "/mjR1BiWsxHmmC3L0xLbevw8KLxm.jpg",
+				"character": "Hunter",
+				"gender": 2
+			},
+			{
+				"id": 3501696,
+				"order": 14,
+				"name": "Dick Green",
+				"character": "Don Vallens",
+				"gender": 2
+			},
+			{
+				"id": 2352561,
+				"order": 15,
+				"name": "Fred Pickler",
+				"character": "Yellow Man",
+				"gender": 2
+			},
+			{
+				"id": 2679800,
+				"order": 16,
+				"name": "Philip Markert",
+				"character": "Dr. Gynde",
+				"gender": 2
+			},
+			{
+				"id": 2679801,
+				"order": 17,
+				"name": "Leonard Watkins",
+				"character": "Double Ed",
+				"gender": 2
+			},
+			{
+				"id": 1519522,
+				"order": 18,
+				"name": "Moses Gibson",
+				"character": "Double Ed",
+				"gender": 2
+			},
+			{
+				"id": 11798,
+				"order": 19,
+				"name": "Selden Smith",
+				"profile_path": "/2OHLUkwmiQmkLdV3YLy9D7HF732.jpg",
+				"character": "Nurse Cindy",
+				"gender": 1
+			},
+			{
+				"id": 103205,
+				"order": 20,
+				"name": "Peter Carew",
+				"character": "Coroner",
+				"gender": 2
+			},
+			{
+				"id": 2679802,
+				"order": 21,
+				"name": "Jon Jon Snipes",
+				"character": "Little Donny",
+				"gender": 2
+			},
+			{
+				"id": 5628,
+				"order": 22,
+				"name": "Angelo Badalamenti",
+				"profile_path": "/x80I3W87lIfuPn3A3smVrGSA8Bx.jpg",
+				"character": "Piano Player",
+				"gender": 2
+			},
+			{
+				"id": 2679805,
+				"order": 23,
+				"name": "Jean-Pierre Viale",
+				"character": "Master of Ceremonies",
+				"gender": 2
+			},
+			{
+				"id": 185512,
+				"order": 24,
+				"name": "Donald Moore",
+				"character": "Desk Sergeant",
+				"gender": 2
+			},
+			{
+				"id": 2679807,
+				"order": 25,
+				"name": "A. Michelle Depland",
+				"character": "Party Girl",
+				"gender": 1
+			},
+			{
+				"id": 2679808,
+				"order": 26,
+				"name": "Michelle Sasser",
+				"character": "Party Girl",
+				"gender": 1
+			},
+			{
+				"id": 2679809,
+				"order": 27,
+				"name": "Katie Reid",
+				"character": "Party Girl",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 5602,
+				"name": "David Lynch",
+				"profile_path": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 11789,
+				"name": "Fred C. Caruso",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 11790,
+				"name": "Richard A. Roth",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4434,
+				"name": "Frederick Elmes",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 6592,
+				"name": "Duwayne Dunham",
+				"profile_path": "/tXJrEHJ7QFAewyBOUpIPIMwW42C.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 8971,
+				"name": "Pat Golden",
+				"profile_path": "/83ZwBFc01QO4Y5qMnT6B6NPmg9C.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 3686,
+				"name": "Johanna Ray",
+				"profile_path": "/lFsen9pniTp6ay0DhWr4gEabAbY.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 5634,
+				"name": "Patricia Norris",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 11791,
+				"name": "Edward 'Tantar' LeViseur",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 3553442,
+				"name": "Patrick Moriarty",
+				"job": "Boom Operator",
+				"department": "Sound"
+			},
+			{
+				"id": 231531,
+				"name": "Pamela Guest",
+				"profile_path": "/xgt2yYfvWwE9ueq0eYUfDrX7SBf.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1159944,
+				"name": "Dean Jones",
+				"job": "Special Effects Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 11789,
+				"name": "Fred C. Caruso",
+				"job": "Production Manager",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2540976,
+				"name": "Gail Kearns",
+				"job": "Production Supervisor",
+				"department": "Production"
+			},
+			{
+				"id": 1978791,
+				"name": "Ellen Rauch",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1506292,
+				"name": "Ian Woolf",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1824578,
+				"name": "Greg Hull",
+				"job": "Special Effects",
+				"department": "Crew"
+			},
+			{
+				"id": 123518,
+				"name": "Frank Silva",
+				"profile_path": "/sUGPae15svyCDXgUHUx4OMo87Cz.jpg",
+				"job": "Set Dresser",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1117303,
+				"name": "Alan Splet",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5628,
+				"name": "Angelo Badalamenti",
+				"profile_path": "/x80I3W87lIfuPn3A3smVrGSA8Bx.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2112092,
+				"name": "Ann Kroeber",
+				"job": "Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 7764,
+				"name": "Richard Hymns",
+				"profile_path": "/970GjgH2nfqsnEsimqLvLYoYTQn.jpg",
+				"job": "Sound Effects Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3177,
+				"name": "Mark Berger",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1406614,
+				"name": "David Parker",
+				"profile_path": "/bDGLVWQShONQ59fvwKqP6dtFxT5.jpg",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1081891,
+				"name": "Rob Fruchtman",
+				"job": "Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 7069,
+				"name": "Pat Jackson",
+				"job": "Sound Editor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 959071,
+				"name": "Ronald Leamon",
+				"job": "Costumer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1419906,
+				"name": "Jeff Goodwin",
+				"job": "Makeup Supervisor",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 5398,
+				"name": "Dino De Laurentiis",
+				"profile_path": "/AemWmlAEoezGnyJTVP0DYfc0Fmu.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5604,
+				"name": "Mary Sweeney",
+				"profile_path": "/iW3m51sl7zyaLllcwVP6cFCiEZC.jpg",
+				"job": "Assistant Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 15806,
+				"name": "Jonathan P. Shaw",
+				"job": "Assistant Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1743909,
+				"name": "Donah Bassett",
+				"job": "Negative Cutter",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 1569315,
+				"name": "Rena Sternfeld-Allon",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 2497428,
+				"name": "Donne Daniels",
+				"job": "Key Grip",
+				"department": "Camera"
+			},
+			{
+				"id": 2188698,
+				"name": "Michael Katz",
+				"job": "Gaffer",
+				"department": "Lighting"
+			},
+			{
+				"id": 5400178,
+				"name": "Richard Langdon",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 5602,
+				"name": "David Lynch",
+				"profile_path": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			}
+		]
+	}
+}

@@ -4,7 +4,7 @@ date = 2026-04-08T18:15:44.498276+05:30
 draft = false
 cast = ['Naomi Watts', 'Laura Harring', 'Justin Theroux', 'Ann Miller', 'Mark Pellegrino', 'Robert Forster', 'Dan Hedaya', 'Angelo Badalamenti', 'Patrick Fischler', 'Brent Briscoe']
 genres = ['Thriller', 'Drama', 'Mystery']
-director = ['David Lynch']
+directors = ['David Lynch']
 language = ['en']
 +++
 

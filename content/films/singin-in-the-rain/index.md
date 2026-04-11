@@ -4,7 +4,7 @@ date = 2026-04-08T18:13:27.367855+05:30
 draft = false
 cast = ['Gene Kelly', "Donald O'Connor", 'Debbie Reynolds', 'Jean Hagen', 'Millard Mitchell', 'Cyd Charisse', 'Douglas Fowley', 'Rita Moreno', 'Mae Clarke', 'Bess Flowers']
 genres = ['Comedy', 'Romance']
-director = ['Gene Kelly', 'Stanley Donen']
+directors = ['Gene Kelly', 'Stanley Donen']
 language = ['en']
 +++
 

@@ -4,7 +4,7 @@ date = 2026-04-08T18:10:44.098233+05:30
 draft = false
 cast = ['Maria Falconetti', 'Eugène Silvain', 'André Berley', 'Maurice Schutz', 'Antonin Artaud', 'Michel Simon', "Jean d'Yd", 'Louis Ravet', 'Armand Lurville', 'Jacques Arnna']
 genres = ['Drama', 'History']
-director = ['Carl Theodor Dreyer']
+directors = ['Carl Theodor Dreyer']
 language = ['fr']
 +++
 

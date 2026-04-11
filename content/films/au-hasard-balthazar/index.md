@@ -4,7 +4,7 @@ date = 2026-04-08T18:09:35.686496+05:30
 draft = false
 cast = ['Anne Wiazemsky', 'Walter Green', 'François Lafarge', 'Jean-Claude Guilbert', 'Philippe Asselin', 'Pierre Klossowski', 'Nathalie Joyaut', 'Marie-Claire Fremont', 'Jean-Joël Barbier']
 genres = ['Drama']
-director = ['Robert Bresson']
+directors = ['Robert Bresson']
 language = ['fr']
 +++
 

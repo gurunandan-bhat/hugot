@@ -4,7 +4,7 @@ date = 2026-04-08T18:58:10.90771+05:30
 draft = false
 cast = ['Marcello Mastroianni', 'Claudia Cardinale', 'Anouk Aimée', 'Sandra Milo', 'Rossella Falk', 'Barbara Steele', 'Madeleine Lebeau', 'Caterina Boratto', 'Eddra Gale', 'Guido Alberti']
 genres = ['Drama']
-director = ['Federico Fellini']
+directors = ['Federico Fellini']
 language = ['it']
 +++
 

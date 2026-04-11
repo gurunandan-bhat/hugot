@@ -4,7 +4,7 @@ date = 2026-04-08T18:12:00.626667+05:30
 draft = false
 cast = ['Hossain Sabzian', 'Monoochehr Ahankhah', 'Mahrokh Ahankhah', 'Abolfazl Ahankhah', 'Mehrdad Ahankhah', 'Nayer Mohseni Zonoozi', 'Hossain Farazmand', 'Ahmad Reza Moayed Mohseni', 'Hooshang Shamaei', 'Mohammad Ali Barrati']
 genres = ['Crime', 'Drama']
-director = ['Abbas Kiarostami']
+directors = ['Abbas Kiarostami']
 language = ['fa']
 +++
 

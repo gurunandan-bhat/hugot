@@ -4,7 +4,7 @@ date = 2026-04-08T18:09:48.390009+05:30
 draft = false
 cast = ['Danny Aiello', 'Ossie Davis', 'Ruby Dee', 'Richard Edson', 'Giancarlo Esposito', 'Spike Lee', 'Bill Nunn', 'John Turturro', 'Paul Benjamin', 'Frankie Faison']
 genres = ['Drama']
-director = ['Spike Lee']
+directors = ['Spike Lee']
 language = ['en']
 +++
 

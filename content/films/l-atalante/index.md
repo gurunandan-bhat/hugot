@@ -4,7 +4,7 @@ date = 2026-04-08T18:58:47.161822+05:30
 draft = false
 cast = ['Michel Simon', 'Dita Parlo', 'Jean Dasté', 'Gilles Margaritis', 'Louis Lefebvre', 'Maurice Gilles', 'Raphaël Diligent', 'Claude Aveline', 'René Blech', 'Lou Bonin']
 genres = ['Comedy', 'Drama', 'Romance']
-director = ['Jean Vigo']
+directors = ['Jean Vigo']
 language = ['fr']
 +++
 

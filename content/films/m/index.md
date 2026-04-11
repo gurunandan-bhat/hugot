@@ -4,7 +4,7 @@ date = 2026-04-08T19:00:38.884594+05:30
 draft = false
 cast = ['Peter Lorre', 'Ellen Widmann', 'Inge Landgut', 'Otto Wernicke', 'Theodor Loos', 'Gustaf Gründgens', 'Friedrich Gnaß', 'Fritz Odemar', 'Paul Kemp', 'Theo Lingen']
 genres = ['Drama', 'Thriller', 'Crime']
-director = ['Fritz Lang']
+directors = ['Fritz Lang']
 language = ['de']
 +++
 

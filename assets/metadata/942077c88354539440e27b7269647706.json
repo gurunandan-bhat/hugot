@@ -1,0 +1,1512 @@
+{
+	"id": 496243,
+	"title": "Parasite",
+	"original_title": "기생충",
+	"original_language": "ko",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+	"backdrop_path": "/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+	"poster_path": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+	"release_date": "2019-05-30",
+	"credits": {
+		"cast": [
+			{
+				"id": 20738,
+				"order": 0,
+				"name": "Song Kang-ho",
+				"profile_path": "/kBM9UTPYXUA2RNk210DXhztLFns.jpg",
+				"character": "Kim Ki-taek",
+				"gender": 2
+			},
+			{
+				"id": 115290,
+				"order": 1,
+				"name": "Lee Sun-kyun",
+				"profile_path": "/nHFBbSFohzOUOvMxPVwe3Es2nJw.jpg",
+				"character": "Park Dong-ik",
+				"gender": 2
+			},
+			{
+				"id": 556435,
+				"order": 2,
+				"name": "Cho Yeo-jeong",
+				"profile_path": "/5MgWM8pkUiYkj9MEaEpO0Ir1FD9.jpg",
+				"character": "Yeon-kyo",
+				"gender": 1
+			},
+			{
+				"id": 1255881,
+				"order": 3,
+				"name": "Choi Woo-shik",
+				"profile_path": "/hRDiuKWwe156zRjEu826eci7H3r.jpg",
+				"character": "Ki-woo",
+				"gender": 2
+			},
+			{
+				"id": 1442583,
+				"order": 4,
+				"name": "Park So-dam",
+				"profile_path": "/fGVOikpvivopeATDy6ZzLdKYXDu.jpg",
+				"character": "Ki-jung",
+				"gender": 1
+			},
+			{
+				"id": 1572354,
+				"order": 5,
+				"name": "Lee Jung-eun",
+				"profile_path": "/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg",
+				"character": "Moon-gwang",
+				"gender": 1
+			},
+			{
+				"id": 2158882,
+				"order": 6,
+				"name": "Jang Hye-jin",
+				"profile_path": "/pZiQXSWwo9F4gncHfa1yw0CQjxk.jpg",
+				"character": "Chung-sook",
+				"gender": 1
+			},
+			{
+				"id": 1694435,
+				"order": 7,
+				"name": "Park Myung-hoon",
+				"profile_path": "/5SucrxkigHss7UuJKrkfAZX5MXz.jpg",
+				"character": "Geun-se",
+				"gender": 2
+			},
+			{
+				"id": 1418762,
+				"order": 8,
+				"name": "Jung Zi-so",
+				"profile_path": "/jsUPFmY1HlML92ubVtSE8L8ovz6.jpg",
+				"character": "Da-hye",
+				"gender": 1
+			},
+			{
+				"id": 2306987,
+				"order": 9,
+				"name": "Jung Hyeon-jun",
+				"profile_path": "/vZadA6ip6V2kh0VZW9RwnLcYFgW.jpg",
+				"character": "Da-song",
+				"gender": 2
+			},
+			{
+				"id": 1709230,
+				"order": 10,
+				"name": "Park Keun-rok",
+				"profile_path": "/j3AEOJskfSm7nhR8RnDm6njRN3W.jpg",
+				"character": "Driver Yoon",
+				"gender": 2
+			},
+			{
+				"id": 2326809,
+				"order": 11,
+				"name": "Jung Yi-seo",
+				"profile_path": "/o6Nfe0BiZs6CCSm8BigPshbu0px.jpg",
+				"character": "Pizza Manager",
+				"gender": 1
+			},
+			{
+				"id": 2478772,
+				"order": 12,
+				"name": "Cho Jae-myung",
+				"character": "Pizza Man",
+				"gender": 2
+			},
+			{
+				"id": 2326615,
+				"order": 13,
+				"name": "Jeong Ik-han",
+				"profile_path": "/wiX9IsqQNYfBrpZWGfdGdAB4Fst.jpg",
+				"character": "Neighbor",
+				"gender": 2
+			},
+			{
+				"id": 2478781,
+				"order": 14,
+				"name": "Kim Kyu-baek",
+				"profile_path": "/lx16EMlOb2XNRZHLDMpWVLjplfY.jpg",
+				"character": "Drunk 1",
+				"gender": 2
+			},
+			{
+				"id": 2159392,
+				"order": 15,
+				"name": "Lee Dong-yong",
+				"profile_path": "/yxdefB0pVcXO0chjuECy9xliZb2.jpg",
+				"character": "Drunk 2",
+				"gender": 2
+			},
+			{
+				"id": 2379047,
+				"order": 16,
+				"name": "Ahn Seong-bong",
+				"profile_path": "/auBLxp6DtvOsY9OoQZXi45613cS.jpg",
+				"character": "Street Man",
+				"gender": 2
+			},
+			{
+				"id": 2499966,
+				"order": 17,
+				"name": "Yoon Young-woo",
+				"character": "Benz Dealer"
+			},
+			{
+				"id": 1419705,
+				"order": 18,
+				"name": "Park Jae-wook",
+				"character": "VR Specialist",
+				"gender": 2
+			},
+			{
+				"id": 2538209,
+				"order": 19,
+				"name": "Jeon Eun-mi",
+				"profile_path": "/okWk1awhHTG9FdULmL4u8wRFTyD.jpg",
+				"character": "Mart Cashier",
+				"gender": 1
+			},
+			{
+				"id": 2114604,
+				"order": 20,
+				"name": "Kim Geon",
+				"profile_path": "/nh0Q2azMprrDPJwcmvP2g0tIn0Z.jpg",
+				"character": "Party Man",
+				"gender": 2
+			},
+			{
+				"id": 1537955,
+				"order": 21,
+				"name": "Lee Joo-hyung",
+				"profile_path": "/bgZnH52HYws4XWiEZdyvRyGGWYE.jpg",
+				"character": "Party Man",
+				"gender": 2
+			},
+			{
+				"id": 3216778,
+				"order": 22,
+				"name": "Kim Yeong-jo",
+				"profile_path": "/ejRk8NPey4xTxZ3C90sa4gpshiA.jpg",
+				"character": "Party Man",
+				"gender": 2
+			},
+			{
+				"id": 4062478,
+				"order": 23,
+				"name": "Kim Jung-woo",
+				"profile_path": "/csAAjpkDehFPlbmW9Bm43sLwrWp.jpg",
+				"character": "Party Man",
+				"gender": 2
+			},
+			{
+				"id": 2479219,
+				"order": 24,
+				"name": "Baek Seung-hwan",
+				"profile_path": "/cymDJO0cs6mNSJXeY9uyObEVegy.jpg",
+				"character": "Party Man"
+			},
+			{
+				"id": 4150249,
+				"order": 25,
+				"name": "Je Seung-hyun",
+				"profile_path": "/hkre6gTMO01KMYovP7Nco9ZsDwX.jpg",
+				"character": "Party Woman",
+				"gender": 1
+			},
+			{
+				"id": 2479225,
+				"order": 26,
+				"name": "Park Hye-sook",
+				"profile_path": "/pQAr1b0Qw0nV3voABNp68pQTcp9.jpg",
+				"character": "Party Woman",
+				"gender": 1
+			},
+			{
+				"id": 3741094,
+				"order": 27,
+				"name": "Choi Ji-won",
+				"character": "Party Woman",
+				"gender": 1
+			},
+			{
+				"id": 3979545,
+				"order": 28,
+				"name": "Lee Sang-kyung",
+				"profile_path": "/6yXUvfFX7K3olXOEqtR6D0XBvQ1.jpg",
+				"character": "Party Woman",
+				"gender": 1
+			},
+			{
+				"id": 3043898,
+				"order": 29,
+				"name": "Kim Ha-eon",
+				"profile_path": "/o0YUZrFdpyFWlraQdKEc2QjHW3s.jpg",
+				"character": "Party Kid",
+				"gender": 2
+			},
+			{
+				"id": 2320125,
+				"order": 30,
+				"name": "Lee Ji-hye",
+				"profile_path": "/jyNJd288QFg0Me9a5DaLyQszuE9.jpg",
+				"character": "A Singer",
+				"gender": 1
+			},
+			{
+				"id": 1895563,
+				"order": 31,
+				"name": "Kim Bo-ryeong",
+				"character": "Cellist",
+				"gender": 1
+			},
+			{
+				"id": 2478778,
+				"order": 32,
+				"name": "Riccardo Ferraresso",
+				"character": "Italy Chef"
+			},
+			{
+				"id": 2478782,
+				"order": 33,
+				"name": "Ko Kwan-jae",
+				"character": "Doctor"
+			},
+			{
+				"id": 2478780,
+				"order": 34,
+				"name": "Lee Si-hoon",
+				"profile_path": "/pCLWALMT0ISJ90DKcfzOWofOWVK.jpg",
+				"character": "Detective",
+				"gender": 2
+			},
+			{
+				"id": 2478774,
+				"order": 35,
+				"name": "Seo Bok-hyeon",
+				"profile_path": "/4fnP5jNckL5YtEtGmWOLOgvy4ZC.jpg",
+				"character": "JTBC Reporter",
+				"gender": 2
+			},
+			{
+				"id": 2478775,
+				"order": 36,
+				"name": "Shim Soo-mi",
+				"profile_path": "/rlRIWaOFvizRugPfiV9Iy1ca8Ra.jpg",
+				"character": "JTBC Reporter",
+				"gender": 1
+			},
+			{
+				"id": 2141187,
+				"order": 37,
+				"name": "Yoon Hye-ree",
+				"profile_path": "/6sTF3cWKdmM5lviBFZRTQwW5VeT.jpg",
+				"character": "JTBC Reporter",
+				"gender": 1
+			},
+			{
+				"id": 1835700,
+				"order": 38,
+				"name": "Andreas Fronk",
+				"profile_path": "/lFPWRxiqquHNfLT9Mb0EUMwJ0z5.jpg",
+				"character": "German Father",
+				"gender": 2
+			},
+			{
+				"id": 2320126,
+				"order": 39,
+				"name": "Anna Elisabeth Rihlmann",
+				"profile_path": "/nFtorJ4FmHPQ3kKtbqtirwZWFRt.jpg",
+				"character": "German Mother",
+				"gender": 1
+			},
+			{
+				"id": 2478779,
+				"order": 40,
+				"name": "Rosie Peralta",
+				"character": "Southeast Asian Housekeeper"
+			},
+			{
+				"id": 2478777,
+				"order": 41,
+				"name": "Shin Seung-min",
+				"character": "Namgung Hyun-ja"
+			},
+			{
+				"id": 1347525,
+				"order": 42,
+				"name": "Park Seo-jun",
+				"profile_path": "/k1ALgZkOApYt7PIUBkUitmknXQC.jpg",
+				"character": "Min-hyuk",
+				"gender": 2
+			},
+			{
+				"id": 2187912,
+				"order": 43,
+				"name": "Kwak Sin-ae",
+				"profile_path": "/nYtE4abLF1cfaa6D1U37fw3mISC.jpg",
+				"character": "Judge (voice)",
+				"gender": 1
+			},
+			{
+				"id": 3216779,
+				"order": 44,
+				"name": "Choi Jeong-hyun",
+				"profile_path": "/bjO5WL31LGpKfqwd8zrrdpZmlhU.jpg",
+				"character": "Assistant Chef",
+				"gender": 2
+			},
+			{
+				"id": 3741093,
+				"order": 45,
+				"name": "Lee Eun-hee",
+				"profile_path": "/flLmF9iPbSVHXpCqbUloEGJqpb8.jpg",
+				"character": "Real Estate Woman",
+				"gender": 1
+			},
+			{
+				"id": 3039982,
+				"order": 46,
+				"name": "Park Jae-wan",
+				"profile_path": "/4y1g9lPcNLcqr7piVgEOPaGKa2S.jpg",
+				"character": "Designer Lee Ha-bong",
+				"gender": 2
+			},
+			{
+				"id": 3741096,
+				"order": 47,
+				"name": "Hwang In-gyeong",
+				"character": "PC Room Staff",
+				"gender": 1
+			},
+			{
+				"id": 2648013,
+				"order": 48,
+				"name": "Lee Si-hoo",
+				"profile_path": "/yvmiKtb4FQ8uepsCazh08m3XpA9.jpg",
+				"character": "Golf Player"
+			},
+			{
+				"id": 4187905,
+				"order": 49,
+				"name": "Ahn Jin-sang",
+				"character": "Shelter Official",
+				"gender": 2
+			},
+			{
+				"id": 6000592,
+				"order": 50,
+				"name": "Jeong Il-Hwa",
+				"profile_path": "/3S1bFGeITk4vMfV4H1O90nvh7UZ.jpg",
+				"character": "Party Woman",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 3111262,
+				"name": "Noh Seung-goog",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 1674272,
+				"name": "Song Suk-ki",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 3671635,
+				"name": "Im Se-jin",
+				"job": "Art Designer",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 2662515,
+				"name": "Ryu Yeon",
+				"job": "Digital Intermediate Producer",
+				"department": "Editing"
+			},
+			{
+				"id": 3357741,
+				"name": "Kim Tae-yeon",
+				"job": "Costume Assistant",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3375086,
+				"name": "Yang Hyun-suk",
+				"job": "Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 1285113,
+				"name": "Lim Hye-jin",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 3326329,
+				"name": "Yoo Mi-jin",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 3431685,
+				"name": "Kwon Ji-hoon",
+				"profile_path": "/xXHnKZe6paWjy24nsD8OT1mvJw0.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3891534,
+				"name": "Park Si-hwan",
+				"job": "CGI Director",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 4551585,
+				"name": "Kim Ho-sik",
+				"job": "Special Effects Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4495278,
+				"name": "Yang Hye-jin",
+				"job": "Dialogue Editor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1302906,
+				"name": "Kang Sang-hyup",
+				"job": "Key Grip",
+				"department": "Camera"
+			},
+			{
+				"id": 4037943,
+				"name": "Lee Si-hun",
+				"job": "Boom Operator",
+				"department": "Sound"
+			},
+			{
+				"id": 1510441,
+				"name": "Lee Jae-hyeok",
+				"job": "Still Photographer",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 4109583,
+				"name": "Lee Hyun",
+				"job": "Assistant Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 4129911,
+				"name": "Jeon Seung-hwan",
+				"job": "Grip",
+				"department": "Camera"
+			},
+			{
+				"id": 4187941,
+				"name": "Kang Gyeong-su",
+				"job": "Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 68909,
+				"name": "Hong Kyung-pyo",
+				"profile_path": "/mFl2oMc8UK5Ia4zEsPOgKbN1NMC.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2127965,
+				"name": "Jung Jae-il",
+				"profile_path": "/a1q0hsgTTUJwaq0T3W02mi1b6Q6.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1374544,
+				"name": "Kim Dae-hwan",
+				"profile_path": "/lcQqUpC19CXYlLPJ0XoJro5aa2X.jpg",
+				"job": "Adaptation",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2187821,
+				"name": "Jang Young-hwan",
+				"profile_path": "/9QBM78rW6E7DPHmnVFGLMgMHoyl.jpg",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2193292,
+				"name": "Sohn Suk-hee",
+				"profile_path": "/dqTWtdW1WF1MxOtqJlqA2L49SWS.jpg",
+				"job": "Thanks",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1674269,
+				"name": "Lee Ha-jun",
+				"profile_path": "/saRckLEpOCBvzQVS2bMTOU7wPR.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1674268,
+				"name": "Yang Jin-mo",
+				"profile_path": "/zEkYOluedauPisYt2SasnJAX6rl.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1294810,
+				"name": "Choi Se-yeon",
+				"profile_path": "/4ALhS4iTYzLh3fLwg2svpVrrZBr.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 2078582,
+				"name": "Choi Tae-young",
+				"profile_path": "/rVi3rqXJ3E9GD9H2vJzZdvrTndW.jpg",
+				"job": "Sound Supervisor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2307001,
+				"name": "Hong Jeong-ho",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2200971,
+				"name": "Kim Chang-ho",
+				"job": "Lighting Director",
+				"department": "Lighting",
+				"gender": 2
+			},
+			{
+				"id": 1611457,
+				"name": "Eun Hee-soo",
+				"job": "Production Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1305523,
+				"name": "Moon Yang-kwon",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2187912,
+				"name": "Kwak Sin-ae",
+				"profile_path": "/nYtE4abLF1cfaa6D1U37fw3mISC.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2100272,
+				"name": "Gang Hye-yeong",
+				"job": "Sound Effects Designer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 41288,
+				"name": "Miky Lee",
+				"profile_path": "/1KaAIoRs6KuW7rdHzbA5RLE1jto.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2308359,
+				"name": "Heo Min-heoi",
+				"profile_path": "/rkmm6tVUkmlnr3oRk6WhCu10zYl.jpg",
+				"job": "Co-Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2127964,
+				"name": "Park Hyo-shin",
+				"profile_path": "/6FBYzt9gboT66bZOLgbk4DnAyTT.jpg",
+				"job": "Theme Song Performance",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1255881,
+				"name": "Choi Woo-shik",
+				"profile_path": "/hRDiuKWwe156zRjEu826eci7H3r.jpg",
+				"job": "Theme Song Performance",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2392776,
+				"name": "Oh You-jin",
+				"job": "Props",
+				"department": "Art"
+			},
+			{
+				"id": 2392774,
+				"name": "Kim Seong-sik",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2100270,
+				"name": "Kwak Tae-yong",
+				"job": "Special Effects Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 554400,
+				"name": "Jung Do-ahn",
+				"job": "Special Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 2452434,
+				"name": "Park Min-cheol",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2478768,
+				"name": "Lim Myeong-gyun",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2320121,
+				"name": "Han Jin-won",
+				"profile_path": "/j9qXEqOsZENCqni8WzGH6pXginJ.jpg",
+				"job": "Script Supervisor",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2478786,
+				"name": "Mo So-ra",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1335341,
+				"name": "Park Jeong-ja",
+				"profile_path": "/s4mQEFjs4X8dWyEjInB5pMX9wpF.jpg",
+				"job": "Thanks",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 2159416,
+				"name": "Kevin Kang",
+				"job": "Digital Intermediate",
+				"department": "Editing"
+			},
+			{
+				"id": 2478784,
+				"name": "Kim Kyeong-taek",
+				"job": "Production Supervisor",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2159407,
+				"name": "Hwang Hyo-kyun",
+				"job": "Special Effects Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 2478789,
+				"name": "Park Kyung-soo",
+				"job": "Special Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2479218,
+				"name": "Lee Sun-young",
+				"job": "Executive Producer's Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 2437373,
+				"name": "Yoo Sang-seob",
+				"profile_path": "/uMpoPa5VpJobLGhOyO54CqrVYhJ.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2473305,
+				"name": "Jeon Jae-wook",
+				"job": "Props",
+				"department": "Art"
+			},
+			{
+				"id": 2499982,
+				"name": "Huh Soo-jung",
+				"job": "Matte Painter",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2499996,
+				"name": "Jang Hyo-sun",
+				"job": "Matchmove Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500005,
+				"name": "Jung Ji-hyung",
+				"job": "Compositing Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2100271,
+				"name": "Lee Hee-eun",
+				"job": "Special Effects Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1395025,
+				"name": "James Wright",
+				"job": "Dolby Consultant",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2499967,
+				"name": "Samuel King",
+				"job": "Concept Artist",
+				"department": "Art"
+			},
+			{
+				"id": 2111566,
+				"name": "Oh Se-yeong",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2499992,
+				"name": "Jay Seung Jaegal",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 2499970,
+				"name": "Shin i Na",
+				"job": "Foley Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 2499994,
+				"name": "Jang Hansaem",
+				"job": "Simulation \u0026 Effects Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500010,
+				"name": "Jung Yeon-tae",
+				"job": "VFX Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2499969,
+				"name": "Kim Byung-in",
+				"job": "Supervising ADR Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 2499978,
+				"name": "Ha Jae-gu",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2499998,
+				"name": "Jang Mi-jin",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500007,
+				"name": "Jung Sung-jin",
+				"profile_path": "/iOlzedKr4E870tLNIvl4mxw80Nw.jpg",
+				"job": "Visual Effects Director",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 2499963,
+				"name": "Nam Sung-ho",
+				"job": "Unit Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 2499964,
+				"name": "Lee Jung-hoon",
+				"job": "Second Unit Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2500000,
+				"name": "Jo Eun-byul",
+				"job": "VFX Editor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2499959,
+				"name": "Lee Joo-hyun",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2499966,
+				"name": "Yoon Young-woo",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2220822,
+				"name": "Lee Chung-gyu",
+				"job": "Foley Artist",
+				"department": "Sound"
+			},
+			{
+				"id": 2499977,
+				"name": "Choi Seung-goo",
+				"job": "Matchmove Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2499980,
+				"name": "Seo Young Heo",
+				"job": "Lighting Artist",
+				"department": "Lighting"
+			},
+			{
+				"id": 2500008,
+				"name": "Jung Yeo-jin",
+				"job": "Animation",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1883005,
+				"name": "Park Hyun-cheol",
+				"job": "Third Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2499991,
+				"name": "Andras Ikladi",
+				"job": "3D Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500002,
+				"name": "Jung Seock-hee",
+				"job": "CG Supervisor",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2500003,
+				"name": "Jung Da-som",
+				"job": "Compositing Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2499961,
+				"name": "Bae Kyung-hye",
+				"job": "Special Effects Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2499972,
+				"name": "Park Sung-gyun",
+				"job": "Foley Artist",
+				"department": "Sound"
+			},
+			{
+				"id": 2499986,
+				"name": "Cheong Hyun-jun",
+				"job": "VFX Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2499984,
+				"name": "Hwang Eun-bi",
+				"job": "Compositing Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2499962,
+				"name": "Kim Sang-soo",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 2499974,
+				"name": "Peter Ahn",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2499976,
+				"name": "Cha Dong-ho",
+				"job": "Matchmove Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500095,
+				"name": "Yun Hee",
+				"job": "Simulation \u0026 Effects Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2499757,
+				"name": "Son Won-rak",
+				"job": "Compositing Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500090,
+				"name": "Yeom Do-seon",
+				"job": "Animation",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500047,
+				"name": "Kim Tae-hoon",
+				"job": "Simulation \u0026 Effects Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500070,
+				"name": "Lee Sin-woo",
+				"job": "Animation",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 2500071,
+				"name": "Lee Song-hee",
+				"job": "Compositing Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500077,
+				"name": "Park Hwon",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500089,
+				"name": "Ahnwoo Yang",
+				"job": "Compositing Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500023,
+				"name": "Kang Seong-pil",
+				"job": "Animation",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500026,
+				"name": "Kang Won-chul",
+				"job": "CG Supervisor",
+				"department": "Crew"
+			},
+			{
+				"id": 2500037,
+				"name": "Kim Hyeong-gi",
+				"job": "Lighting Artist",
+				"department": "Lighting"
+			},
+			{
+				"id": 2500075,
+				"name": "Jeong Min-hyuk",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500087,
+				"name": "Son Young-nam",
+				"job": "Animation",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500099,
+				"name": "Cha Sung-min",
+				"job": "Grip",
+				"department": "Camera"
+			},
+			{
+				"id": 2500049,
+				"name": "Kim Tae-hyung",
+				"job": "VFX Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500056,
+				"name": "Kong Miseon",
+				"job": "Compositing Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500076,
+				"name": "Oh Yu-min",
+				"job": "Matte Painter",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500033,
+				"name": "Chan-jin Chris Kim",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500067,
+				"name": "Lee Kyoung-min",
+				"job": "Animation",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500072,
+				"name": "Lee Young-young",
+				"job": "Compositing Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 141165,
+				"name": "Lee Ji-yeon",
+				"job": "Compositing Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500068,
+				"name": "Lee Min-ho",
+				"job": "Simulation \u0026 Effects Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500083,
+				"name": "Ryu Ga-hee",
+				"job": "Compositing Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500088,
+				"name": "Kim So-yoon",
+				"job": "Animation",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500028,
+				"name": "Kim Bok-yung",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500066,
+				"name": "Lee Jae-wook",
+				"job": "Compositing Lead",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2499725,
+				"name": "Moon Sung-oh",
+				"job": "Animation Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500079,
+				"name": "Park Ji-hyeon",
+				"job": "Matte Painter",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500093,
+				"name": "Youn Min-seok",
+				"job": "Compositing Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500054,
+				"name": "Ko Hee-kyung",
+				"job": "Matte Painter",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500060,
+				"name": "Lee Dong Kyu",
+				"job": "Compositing Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500062,
+				"name": "Lee Eun-seon",
+				"job": "Lighting Artist",
+				"department": "Lighting"
+			},
+			{
+				"id": 2500084,
+				"name": "Seok Jong-yeon",
+				"job": "Compositing Lead",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500086,
+				"name": "Shin Jeong-ho",
+				"job": "Visual Effects Production Assistant",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2499670,
+				"name": "Kim Bo-ra",
+				"job": "Compositing Lead",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500035,
+				"name": "Kim Eun-ji",
+				"job": "Animation",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500052,
+				"name": "Kim Tae-seob",
+				"job": "Lighting Supervisor",
+				"department": "Lighting"
+			},
+			{
+				"id": 2500073,
+				"name": "Liang Jun-ling",
+				"job": "Compositing Lead",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500085,
+				"name": "Lee Seung-yeon",
+				"job": "Compositing Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500096,
+				"name": "Yun Junshik-Raul",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500020,
+				"name": "Kang Jong-ik",
+				"job": "Visual Effects Director",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 2500058,
+				"name": "Kwon Yong-ho",
+				"job": "Lighting Artist",
+				"department": "Lighting"
+			},
+			{
+				"id": 2500100,
+				"name": "Cho Hye-lin",
+				"job": "Translator",
+				"department": "Crew"
+			},
+			{
+				"id": 2220948,
+				"name": "Kim Ji-su",
+				"job": "Compositing Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500045,
+				"name": "Kim Sang-hun",
+				"job": "CG Supervisor",
+				"department": "Crew"
+			},
+			{
+				"id": 2500094,
+				"name": "Yu Mi-hwa",
+				"job": "Compositing Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500097,
+				"name": "Byun Sang-jin",
+				"job": "Third Assistant \"A\" Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 2500053,
+				"name": "Kim Woo-ju",
+				"job": "VFX Editor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500082,
+				"name": "Park Sung-hyeok",
+				"job": "Lighting Artist",
+				"department": "Lighting"
+			},
+			{
+				"id": 2500015,
+				"name": "Kang Dong-hyuk",
+				"job": "Lead Animator",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500038,
+				"name": "Kim Jae-hwan",
+				"job": "Animation",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500038,
+				"name": "Kim Jae-hwan",
+				"job": "Compositing Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500064,
+				"name": "Hanhee Hailey Lee",
+				"job": "Compositing Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2296575,
+				"name": "Lee Hyang-hee",
+				"job": "VFX Editor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500069,
+				"name": "Lee Sang-yeol",
+				"job": "VFX Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500074,
+				"name": "Lim Tae-woo",
+				"job": "Simulation \u0026 Effects Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500078,
+				"name": "Park Hye-ri",
+				"job": "Simulation \u0026 Effects Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500092,
+				"name": "You Hyeon-jeong",
+				"job": "Matte Painter",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2500103,
+				"name": "Kim Hee-jae",
+				"job": "Costumer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2500107,
+				"name": "Norbert Elek",
+				"job": "Orchestrator",
+				"department": "Sound"
+			},
+			{
+				"id": 2320125,
+				"name": "Lee Ji-hye",
+				"profile_path": "/jyNJd288QFg0Me9a5DaLyQszuE9.jpg",
+				"job": "Vocals",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 2500105,
+				"name": "Yoon Hye-jeong",
+				"job": "Costumer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2386917,
+				"name": "Kang Dong-yul",
+				"job": "Costumer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2500101,
+				"name": "Cho Sang-won",
+				"job": "Grip",
+				"department": "Camera"
+			},
+			{
+				"id": 2078596,
+				"name": "Heo Jin",
+				"job": "Costumer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2500111,
+				"name": "Bálint Sapszon",
+				"job": "Orchestrator",
+				"department": "Sound"
+			},
+			{
+				"id": 2500112,
+				"name": "Woo Geum-ho",
+				"job": "Camera Car",
+				"department": "Camera"
+			},
+			{
+				"id": 2500102,
+				"name": "Lee Su-jin",
+				"job": "Data Management Technician",
+				"department": "Production"
+			},
+			{
+				"id": 2500106,
+				"name": "Yoon Na-yeon",
+				"job": "Costumer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2500104,
+				"name": "Shin Soo-bin",
+				"job": "Costumer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1674271,
+				"name": "Cho Won-woo",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1890443,
+				"name": "Han Mi-yeon",
+				"job": "Assistant Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 2197063,
+				"name": "Kim Seo-young",
+				"profile_path": "/hHVfNMZc1hikOFk6a6mGfTNt2g.jpg",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 21684,
+				"name": "Bong Joon Ho",
+				"profile_path": "/stwnTvZAoD8gEJEDHpDQyLCyDy5.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 21684,
+				"name": "Bong Joon Ho",
+				"profile_path": "/stwnTvZAoD8gEJEDHpDQyLCyDy5.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 21684,
+				"name": "Bong Joon Ho",
+				"profile_path": "/stwnTvZAoD8gEJEDHpDQyLCyDy5.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2320121,
+				"name": "Han Jin-won",
+				"profile_path": "/j9qXEqOsZENCqni8WzGH6pXginJ.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 21684,
+				"name": "Bong Joon Ho",
+				"profile_path": "/stwnTvZAoD8gEJEDHpDQyLCyDy5.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5278220,
+				"name": "Kim Jae-won",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 554400,
+				"name": "Jung Do-ahn",
+				"job": "Special Effects",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2478789,
+				"name": "Park Kyung-soo",
+				"job": "Special Effects",
+				"department": "Crew"
+			},
+			{
+				"id": 3204147,
+				"name": "Go Eun-ha",
+				"job": "Sound Editor",
+				"department": "Sound",
+				"gender": 1
+			}
+		]
+	}
+}

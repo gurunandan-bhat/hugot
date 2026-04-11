@@ -4,7 +4,7 @@ date = 2026-04-08T19:10:21.883912+05:30
 draft = false
 cast = ['Jean-Pierre Léaud', 'Claire Maurier', 'Albert Rémy', 'Georges Flamant', 'Patrick Auffay', 'Robert Beauvais', 'Yvonne Claudie', 'Pierre Repp', 'Guy Decomble', 'Daniel Couturier']
 genres = ['Drama']
-director = ['François Truffaut']
+directors = ['François Truffaut']
 language = ['fr']
 +++
 

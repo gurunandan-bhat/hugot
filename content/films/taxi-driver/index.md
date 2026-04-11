@@ -4,7 +4,7 @@ date = 2026-04-08T18:08:25.370283+05:30
 draft = false
 cast = ['Robert De Niro', 'Jodie Foster', 'Cybill Shepherd', 'Harvey Keitel', 'Peter Boyle', 'Leonard Harris', 'Albert Brooks', 'Diahnne Abbott', 'Frank Adu', 'Victor Argo']
 genres = ['Crime', 'Drama']
-director = ['Martin Scorsese']
+directors = ['Martin Scorsese']
 language = ['en']
 +++
 

@@ -4,7 +4,7 @@ date = 2026-04-08T18:11:40.149001+05:30
 draft = false
 cast = ['Bibi Andersson', 'Liv Ullmann', 'Margaretha Krook', 'Gunnar Björnstrand', 'Jörgen Lindström']
 genres = ['Drama']
-director = ['Ingmar Bergman']
+directors = ['Ingmar Bergman']
 language = ['sv']
 +++
 

@@ -4,7 +4,7 @@ date = 2026-04-08T19:06:30.279415+05:30
 draft = false
 cast = ['Brahim Hadjadj', 'Jean Martin', 'Yacef Saâdi', 'Fouzia El Kader', 'Mohamed Ben Kassen', 'Hadj Smaine Mohamed Seghir', 'Larbi Zekkal', 'Rouiched', 'Noureddine Brahimi', 'Si Mohamed Baghdadi']
 genres = ['Drama', 'War', 'History']
-director = ['Gillo Pontecorvo']
+directors = ['Gillo Pontecorvo']
 language = ['it']
 +++
 

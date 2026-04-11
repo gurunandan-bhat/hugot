@@ -1,0 +1,511 @@
+{
+	"id": 14696,
+	"title": "Ugetsu",
+	"original_title": "雨月物語",
+	"original_language": "ja",
+	"genres": [
+		{
+			"id": 14,
+			"name": "Fantasy"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 9648,
+			"name": "Mystery"
+		}
+	],
+	"overview": "In 16th century Japan, peasants Genjuro and Tobei sell their earthenware pots to a group of soldiers in a nearby village, in defiance of a local sage's warning against seeking to profit from warfare. Genjuro's pursuit of both riches and the mysterious Lady Wakasa, as well as Tobei's desire to become a samurai, run the risk of destroying both themselves and their wives, Miyagi and Ohama.",
+	"backdrop_path": "/iB1tCWl4MKl6OO1kMBD5LxM5BmJ.jpg",
+	"poster_path": "/r8RiuKTIYIJBjczBVsfeP5C00CJ.jpg",
+	"release_date": "1953-03-26",
+	"credits": {
+		"cast": [
+			{
+				"id": 7451,
+				"order": 0,
+				"name": "Machiko Kyō",
+				"profile_path": "/24tQVUgGN4s6rp1P9qlnT74RSJI.jpg",
+				"character": "Lady Wakasa",
+				"gender": 1
+			},
+			{
+				"id": 108021,
+				"order": 1,
+				"name": "Mitsuko Mito",
+				"profile_path": "/kCyFyOJieZ70TnYUmGQatdzET4n.jpg",
+				"character": "Ohama",
+				"gender": 1
+			},
+			{
+				"id": 24551,
+				"order": 2,
+				"name": "Kinuyo Tanaka",
+				"profile_path": "/1OnULAXSOskknSCxTzx3Naqoe5O.jpg",
+				"character": "Miyagi",
+				"gender": 1
+			},
+			{
+				"id": 7452,
+				"order": 3,
+				"name": "Masayuki Mori",
+				"profile_path": "/4HZFAdEGIOk7HxJjcdcxfL4k1x3.jpg",
+				"character": "Genjurô",
+				"gender": 2
+			},
+			{
+				"id": 97203,
+				"order": 4,
+				"name": "Eitarō Ozawa",
+				"profile_path": "/5ppJVvKljVAvBaXxEoCb7rbkjEJ.jpg",
+				"character": "Tôbei",
+				"gender": 2
+			},
+			{
+				"id": 1049221,
+				"order": 5,
+				"name": "Sugisaku Aoyama",
+				"character": "Old Priest",
+				"gender": 2
+			},
+			{
+				"id": 134387,
+				"order": 6,
+				"name": "Mitsusaburō Ramon",
+				"character": "Captain of Tamba Soldiers",
+				"gender": 2
+			},
+			{
+				"id": 551748,
+				"order": 7,
+				"name": "Ryōsuke Kagawa",
+				"profile_path": "/c6A6LKaPacYsgl4GOMsIfqXA6oa.jpg",
+				"character": "Village Master",
+				"gender": 2
+			},
+			{
+				"id": 7455,
+				"order": 8,
+				"name": "Kichijirō Ueda",
+				"profile_path": "/qjBYqwAobeFnOhpkxNnv36IvCQy.jpg",
+				"character": "Shop Owner",
+				"gender": 2
+			},
+			{
+				"id": 134625,
+				"order": 9,
+				"name": "Shōzō Nanbu",
+				"profile_path": "/rIEVvmIDTJEEFrZFu5GPu009FLr.jpg",
+				"character": "Shintô Priest",
+				"gender": 2
+			},
+			{
+				"id": 1092519,
+				"order": 10,
+				"name": "Kikue Mōri",
+				"character": "Ukon",
+				"gender": 1
+			},
+			{
+				"id": 1551755,
+				"order": 11,
+				"name": "Ryūzaburō Mitsuoka",
+				"profile_path": "/uta3NPnDzvtIIJJVRDt2PFkpOW9.jpg",
+				"character": "Soldier",
+				"gender": 2
+			},
+			{
+				"id": 1602376,
+				"order": 12,
+				"name": "Ichirō Amano",
+				"character": "Boatsman",
+				"gender": 2
+			},
+			{
+				"id": 555561,
+				"order": 13,
+				"name": "Eigorō Onoe",
+				"profile_path": "/yO78wJL2XBjORT7aldcovpNhUZM.jpg",
+				"character": "Knight",
+				"gender": 2
+			},
+			{
+				"id": 125011,
+				"order": 14,
+				"name": "Saburo Date",
+				"profile_path": "/2aApL79MtchtDoCdMtwuutioDTY.jpg",
+				"character": "Vassal",
+				"gender": 2
+			},
+			{
+				"id": 134620,
+				"order": 15,
+				"name": "Fumihiko Yokoyama",
+				"character": "Meshiro",
+				"gender": 2
+			},
+			{
+				"id": 2580258,
+				"order": 16,
+				"name": "Ichisaburo Sawamura",
+				"character": "Genichi",
+				"gender": 2
+			},
+			{
+				"id": 2580259,
+				"order": 17,
+				"name": "Koji Murata",
+				"character": "Armored Knight",
+				"gender": 2
+			},
+			{
+				"id": 555562,
+				"order": 18,
+				"name": "Yukio Horikita",
+				"profile_path": "/nMN21nawwsRi1ziigOpqVikLpJj.jpg",
+				"character": "Armored Knight",
+				"gender": 2
+			},
+			{
+				"id": 150319,
+				"order": 19,
+				"name": "Akira Shimizu",
+				"character": "Armored Knight",
+				"gender": 2
+			},
+			{
+				"id": 133712,
+				"order": 20,
+				"name": "Shuntaro Tamamura",
+				"character": "Armored Knight",
+				"gender": 2
+			},
+			{
+				"id": 1274820,
+				"order": 21,
+				"name": "Shirō Osaki",
+				"character": "Armored Knight",
+				"gender": 2
+			},
+			{
+				"id": 555557,
+				"order": 22,
+				"name": "Toshio Chiba",
+				"character": "Armored Knight",
+				"gender": 2
+			},
+			{
+				"id": 1551761,
+				"order": 23,
+				"name": "Hachiro Okuni",
+				"character": "Brothel Armored Knight",
+				"gender": 2
+			},
+			{
+				"id": 1897887,
+				"order": 24,
+				"name": "Shiro Miura",
+				"character": "Brothel Guest",
+				"gender": 2
+			},
+			{
+				"id": 555565,
+				"order": 25,
+				"name": "Hajime Koshikawa",
+				"character": "Brothel Guest",
+				"gender": 2
+			},
+			{
+				"id": 2069806,
+				"order": 26,
+				"name": "Tetsu Mikami",
+				"character": "Brothel Guest",
+				"gender": 2
+			},
+			{
+				"id": 134621,
+				"order": 27,
+				"name": "Jun Fujikawa",
+				"profile_path": "/5Wv81uX29uuFhmbG7NCiXsCTWcJ.jpg",
+				"character": "Defeated Soldier",
+				"gender": 2
+			},
+			{
+				"id": 1551758,
+				"order": 28,
+				"name": "Takaji Fukui",
+				"character": "Defeated Soldier",
+				"gender": 2
+			},
+			{
+				"id": 1954216,
+				"order": 29,
+				"name": "Eiji Ishikura",
+				"character": "Defeated Soldier",
+				"gender": 2
+			},
+			{
+				"id": 2580265,
+				"order": 30,
+				"name": "Tokurin Takeda",
+				"character": "Defeated Soldier",
+				"gender": 2
+			},
+			{
+				"id": 1863305,
+				"order": 31,
+				"name": "Koji Kanda",
+				"character": "Defeated Soldier",
+				"gender": 2
+			},
+			{
+				"id": 555564,
+				"order": 32,
+				"name": "Masayoshi Kikuno",
+				"character": "Chôhatsu's Soldier",
+				"gender": 2
+			},
+			{
+				"id": 1597586,
+				"order": 33,
+				"name": "Michio Yuri",
+				"character": "Chôhatsu's Soldier",
+				"gender": 2
+			},
+			{
+				"id": 2580275,
+				"order": 34,
+				"name": "Sô Funagami",
+				"character": "Chôhatsu's Soldier",
+				"gender": 2
+			},
+			{
+				"id": 1602378,
+				"order": 35,
+				"name": "Shigeru Hasegawa",
+				"character": "Chôhatsu's Soldier",
+				"gender": 2
+			},
+			{
+				"id": 372732,
+				"order": 36,
+				"name": "Teruko Ōmi",
+				"profile_path": "/9CyasumObS92NAiEBDXtC9wn1vN.jpg",
+				"character": "Prostitute",
+				"gender": 1
+			},
+			{
+				"id": 134349,
+				"order": 37,
+				"name": "Keiko Koyanagi",
+				"profile_path": "/yZEClBqTQFPBvRd174ey8YiCKTR.jpg",
+				"character": "Prostitute",
+				"gender": 1
+			},
+			{
+				"id": 1602393,
+				"order": 38,
+				"name": "Masako Tomura",
+				"character": "Prostitute",
+				"gender": 1
+			},
+			{
+				"id": 1200210,
+				"order": 39,
+				"name": "Tokiko Mita",
+				"profile_path": "/x0lGwlZDNlg6flCDYdsU9ynMcHG.jpg",
+				"character": "Lady Attendant",
+				"gender": 1
+			},
+			{
+				"id": 2580289,
+				"order": 40,
+				"name": "Tokuko Ueda",
+				"character": "Lady Attendant",
+				"gender": 1
+			},
+			{
+				"id": 1626906,
+				"order": 41,
+				"name": "Sachiko Soma",
+				"profile_path": "/A8XrBD4zX7KmPo7EO472vo21P1b.jpg",
+				"character": "Lady Attendant",
+				"gender": 1
+			},
+			{
+				"id": 134618,
+				"order": 42,
+				"name": "Reiko Kongō",
+				"character": "Old Woman in Brothel",
+				"gender": 1
+			},
+			{
+				"id": 134347,
+				"order": 43,
+				"name": "Ikkei Tamaki",
+				"profile_path": "/bTBFhevU8AyuBCRXmkuxXgeRVBk.jpg",
+				"character": "Villager",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 97202,
+				"name": "Kenji Mizoguchi",
+				"profile_path": "/ngKRZZPKh8d7GaeMgcM0eXbzMte.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 134343,
+				"name": "Yoshikata Yoda",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 7459,
+				"name": "Masaichi Nagata",
+				"profile_path": "/dPuhe47WZSUIu4IzFtrg8olqF9K.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 7460,
+				"name": "Fumio Hayasaka",
+				"profile_path": "/A4t45XV0SXKnYzZNkzrjCl4jHUy.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1092504,
+				"name": "Tamekichi Mochizuki",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 125001,
+				"name": "Ichirō Saitō",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1048948,
+				"name": "Mitsuzō Miyata",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 7461,
+				"name": "Kazuo Miyagawa",
+				"profile_path": "/zOuiKy1s39qfm1eY6HBF6OIFIBu.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 134342,
+				"name": "Matsutarō Kawaguchi",
+				"job": "Adaptation",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1552083,
+				"name": "Masatsugu Hashimoto",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1551748,
+				"name": "Kosaburō Nakajima",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2048274,
+				"name": "Tadaoto Kainoshō",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1551749,
+				"name": "Shima Yoshizane",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 2048275,
+				"name": "Yoshiya Fukuyama",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1551750,
+				"name": "Ritsu Hanai",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1529375,
+				"name": "Kisaku Ito",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1092518,
+				"name": "Akinari Ueda",
+				"job": "Original Story",
+				"department": "Writing"
+			},
+			{
+				"id": 1111737,
+				"name": "Iwao Ōtani",
+				"job": "Sound Recordist",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 83199,
+				"name": "Tokuzō Tanaka",
+				"profile_path": "/955mUKMcFxKnW9lrSQ4fXx9M0Tc.jpg",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2493118,
+				"name": "Akira Suzuki",
+				"job": "Sound Recordist",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1267600,
+				"name": "Ken'ichi Okamoto",
+				"job": "Gaffer",
+				"department": "Lighting",
+				"gender": 2
+			},
+			{
+				"id": 134382,
+				"name": "Hisakazu Tsuji",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			}
+		]
+	}
+}

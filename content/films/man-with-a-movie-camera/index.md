@@ -4,7 +4,7 @@ date = 2026-04-08T18:15:18.131204+05:30
 draft = false
 cast = ['Mikhail Kaufman']
 genres = ['Documentary']
-director = ['Dziga Vertov']
+directors = ['Dziga Vertov']
 language = ['ru']
 +++
 

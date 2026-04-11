@@ -4,7 +4,7 @@ date = 2026-04-08T18:17:27.70251+05:30
 draft = false
 cast = ['Maggie Cheung', 'Tony Leung Chiu-wai', 'Siu Ping-Lam', 'Rebecca Pan', 'Kelly Lai Chen', 'Joe Cheung Tung-Cho', 'Chan Man-Lei', 'Koo Kam-Wah', 'Mama Hung', 'Paulyn Sun']
 genres = ['Drama', 'Romance']
-director = ['Wong Kar-Wai']
+directors = ['Wong Kar-Wai']
 language = ['cn']
 +++
 

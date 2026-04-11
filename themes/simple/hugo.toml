@@ -23,6 +23,11 @@ title = 'My New Hugo Project'
     pageRef = '/cast'
     weight = 30
 
+  [[menus.main]]
+    name = 'Directors'
+    pageRef = '/directors'
+    weight = 40
+
 [module]
   [module.hugoVersion]
     extended = false

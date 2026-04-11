@@ -4,7 +4,7 @@ date = 2026-04-08T18:16:21.776195+05:30
 draft = false
 cast = ['Denis Lavant', 'Michel Subor', 'Grégoire Colin', 'Richard Courcet', 'Nicolas Duvauchelle', 'Adiatou Massudi', 'Mickael Ravovski', 'Dan Herzberg', 'Giuseppe Molino', 'Gianfranco Poddighe']
 genres = ['Drama']
-director = ['Claire Denis']
+directors = ['Claire Denis']
 language = ['fr']
 +++
 

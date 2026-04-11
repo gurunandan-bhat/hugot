@@ -1,0 +1,377 @@
+{
+	"id": 27019,
+	"title": "Céline and Julie Go Boating",
+	"original_title": "Céline et Julie vont en bateau",
+	"original_language": "fr",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 14,
+			"name": "Fantasy"
+		}
+	],
+	"overview": "Julie, a daydreaming librarian, meets Céline, an enigmatic magician, and together they become the heroines of a time-warping adventure involving a haunted house, psychotropic candy, and a murder-mystery melodrama.",
+	"backdrop_path": "/2sTbxKAPjLsH4RzQAP6ibYduJv2.jpg",
+	"poster_path": "/ijpehUwH4XFNFm8UcYHpRQVRQUF.jpg",
+	"release_date": "1974-09-18",
+	"credits": {
+		"cast": [
+			{
+				"id": 18228,
+				"order": 0,
+				"name": "Juliet Berto",
+				"profile_path": "/8V15SItRZvoTRDdivqAHS8YIrVu.jpg",
+				"character": "Céline",
+				"gender": 1
+			},
+			{
+				"id": 24541,
+				"order": 1,
+				"name": "Dominique Labourier",
+				"profile_path": "/xANec2JQw84vhzZvkgyjAiVMopB.jpg",
+				"character": "Julie",
+				"gender": 1
+			},
+			{
+				"id": 38341,
+				"order": 2,
+				"name": "Bulle Ogier",
+				"profile_path": "/lS4b8sdG6u2IBo7cBPTqNSqAq2O.jpg",
+				"character": "Camille",
+				"gender": 1
+			},
+			{
+				"id": 3536,
+				"order": 3,
+				"name": "Marie-France Pisier",
+				"profile_path": "/uSSMHQ6rAmo06qp6HYuLE5YS46T.jpg",
+				"character": "Sophie",
+				"gender": 1
+			},
+			{
+				"id": 23393,
+				"order": 4,
+				"name": "Barbet Schroeder",
+				"profile_path": "/w01XzkltJjm7BwqjXXFNrEj2vSd.jpg",
+				"character": "Olivier",
+				"gender": 2
+			},
+			{
+				"id": 1531625,
+				"order": 5,
+				"name": "Nathalie Asnar",
+				"character": "Madlyn"
+			},
+			{
+				"id": 1401952,
+				"order": 6,
+				"name": "Marie-Thérèse Saussure",
+				"character": "Poupie",
+				"gender": 1
+			},
+			{
+				"id": 548699,
+				"order": 7,
+				"name": "Philippe Clévenot",
+				"profile_path": "/3mt0QOKLqHid3bwNUjcq02e5eos.jpg",
+				"character": "Guilou",
+				"gender": 2
+			},
+			{
+				"id": 1505259,
+				"order": 8,
+				"name": "Anne Zamire",
+				"character": "Lil"
+			},
+			{
+				"id": 260837,
+				"order": 9,
+				"name": "Jean Douchet",
+				"profile_path": "/dtgf5Eo8CCNq8gub1LWxlMWTaFP.jpg",
+				"character": "M'sieur Dede",
+				"gender": 2
+			},
+			{
+				"id": 2489431,
+				"order": 10,
+				"name": "Adèle Taffetas",
+				"character": "Alice"
+			},
+			{
+				"id": 1187192,
+				"order": 11,
+				"name": "Monique Clément",
+				"character": "Myrtille"
+			},
+			{
+				"id": 1502642,
+				"order": 12,
+				"name": "Jérôme Richard",
+				"character": "Julien",
+				"gender": 2
+			},
+			{
+				"id": 2489432,
+				"order": 13,
+				"name": "Michael Graham",
+				"character": "Boris"
+			},
+			{
+				"id": 227409,
+				"order": 14,
+				"name": "Jean-Marie Sénia",
+				"character": "Cyrille",
+				"gender": 2
+			},
+			{
+				"id": 236609,
+				"order": 15,
+				"name": "Jean-Claude Biette",
+				"profile_path": "/9ceeWedRz3IdleX6T73p7WDxRo6.jpg",
+				"character": "Spectateur au cabaret (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2470079,
+				"order": 16,
+				"name": "Jacques Bontemps",
+				"character": "Lecteur à la bibliothèque (uncredited)"
+			},
+			{
+				"id": 3391211,
+				"order": 17,
+				"name": "Michel Caen",
+				"character": "Spectateur au cabaret (uncredited)"
+			},
+			{
+				"id": 53914,
+				"order": 18,
+				"name": "Jean Eustache",
+				"profile_path": "/rFedNBniKvCIbxuabF8hBzTyGYk.jpg",
+				"character": "Spectateur au cabaret/lecteur a la bibliohèque (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1123092,
+				"order": 19,
+				"name": "Jean-Claude Romer",
+				"character": "Un producteur dans le cabaret (uncredited)",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 73153,
+				"name": "Jacques Rivette",
+				"profile_path": "/4zA3QdtgIsYLD0ihn4385DZZ0jN.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 18228,
+				"name": "Juliet Berto",
+				"profile_path": "/8V15SItRZvoTRDdivqAHS8YIrVu.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 223279,
+				"name": "Eduardo de Gregorio",
+				"profile_path": "/d1B7gKmL8v2Sml8HvrNXLgZzVEB.jpg",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 24541,
+				"name": "Dominique Labourier",
+				"profile_path": "/xANec2JQw84vhzZvkgyjAiVMopB.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 38341,
+				"name": "Bulle Ogier",
+				"profile_path": "/lS4b8sdG6u2IBo7cBPTqNSqAq2O.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 3536,
+				"name": "Marie-France Pisier",
+				"profile_path": "/uSSMHQ6rAmo06qp6HYuLE5YS46T.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 73153,
+				"name": "Jacques Rivette",
+				"profile_path": "/4zA3QdtgIsYLD0ihn4385DZZ0jN.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 73154,
+				"name": "Nicole Lubtchansky",
+				"profile_path": "/8cFtvQMgQN7cJCbHdaf5atQBeGz.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 227409,
+				"name": "Jean-Marie Sénia",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 23393,
+				"name": "Barbet Schroeder",
+				"profile_path": "/w01XzkltJjm7BwqjXXFNrEj2vSd.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 11203,
+				"name": "Christian Fechner",
+				"profile_path": "/psPeNjw2OHNpoG5mxI5H9Wx5kE4.jpg",
+				"job": "Associate Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1433941,
+				"name": "Klaus Hellwig",
+				"job": "Associate Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2489413,
+				"name": "F. Lebovici",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 19052,
+				"name": "Vincent Malle",
+				"job": "Associate Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2489414,
+				"name": "François Marin",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 6100,
+				"name": "Margaret Ménégoz",
+				"profile_path": "/5pWXEemFnZ8L4ZlZ40nrsAoqwvV.jpg",
+				"job": "Associate Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2489416,
+				"name": "Jean-Luc Berne",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2489418,
+				"name": "Pierre D'Alby",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2489420,
+				"name": "Laurent Vicci",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1286778,
+				"name": "Ronaldo Abreu",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 35841,
+				"name": "Luc Béraud",
+				"profile_path": "/p7X4hHuDtkDc6hCbXbBlZSJZPG1.jpg",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2489422,
+				"name": "Pascal Lemaitre",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 24842,
+				"name": "Paul Lainé",
+				"profile_path": "/lJxtbYPfCV3rNBivoGI5FT3CUyx.jpg",
+				"job": "Sound",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1582933,
+				"name": "Elvire Lerner",
+				"job": "Sound Mixer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 2489426,
+				"name": "Gilbert Pereira",
+				"job": "Sound Assistant",
+				"department": "Sound"
+			},
+			{
+				"id": 45452,
+				"name": "Michel Cénet",
+				"job": "Assistant Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 1365058,
+				"name": "Cristiana Tullio-Altan",
+				"job": "Assistant Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 2489430,
+				"name": "Irina Lhomme",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 1360050,
+				"name": "Jacques Renard",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			}
+		]
+	}
+}

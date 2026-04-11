@@ -4,7 +4,7 @@ date = 2026-04-08T18:18:53.26036+05:30
 draft = false
 cast = ['Orson Welles', 'Joseph Cotten', 'Dorothy Comingore', 'Ray Collins', 'George Coulouris', 'Agnes Moorehead', 'Paul Stewart', 'Ruth Warrick', 'Erskine Sanford', 'William Alland']
 genres = ['Mystery', 'Drama']
-director = ['Orson Welles']
+directors = ['Orson Welles']
 language = ['en']
 +++
 

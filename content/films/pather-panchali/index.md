@@ -4,7 +4,7 @@ date = 2026-04-08T18:59:15.447858+05:30
 draft = false
 cast = ['Kanu Bannerjee', 'Karuna Banerjee', 'Chunibala Devi', 'Uma Das Gupta', 'Subir Banerjee', 'Runki Banerjee', 'Reba Devi', 'Aparna Devi', 'Tulsi Chakraborty', 'Binoy Mukherjee']
 genres = ['Drama', 'History']
-director = ['Satyajit Ray']
+directors = ['Satyajit Ray']
 language = ['bn']
 +++
 

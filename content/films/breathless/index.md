@@ -4,7 +4,7 @@ date = 2026-04-08T19:02:50.211939+05:30
 draft = false
 cast = ['Jean-Paul Belmondo', 'Jean Seberg', 'Daniel Boulanger', 'Henri-Jacques Huet', 'Roger Hanin', 'Van Doude', 'Claude Mansard', 'Liliane Dreyfus', 'Michel Fabre', 'Jean-Pierre Melville']
 genres = ['Drama', 'Crime']
-director = ['Jean-Luc Godard']
+directors = ['Jean-Luc Godard']
 language = ['fr']
 +++
 

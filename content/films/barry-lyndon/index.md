@@ -4,7 +4,7 @@ date = 2026-04-08T19:07:38.58169+05:30
 draft = false
 cast = ["Ryan O'Neal", 'Marisa Berenson', 'Patrick Magee', 'Hardy Krüger', 'Steven Berkoff', 'Gay Hamilton', 'Marie Kean', 'Diana Körner', 'Murray Melvin', 'Frank Middlemass']
 genres = ['Drama', 'Romance', 'War', 'History']
-director = ['Stanley Kubrick']
+directors = ['Stanley Kubrick']
 language = ['en']
 +++
 

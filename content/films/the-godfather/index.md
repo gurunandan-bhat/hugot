@@ -4,7 +4,7 @@ date = 2026-04-08T18:20:37.097672+05:30
 draft = false
 cast = ['Marlon Brando', 'Al Pacino', 'James Caan', 'Robert Duvall', 'Richard S. Castellano', 'Diane Keaton', 'Talia Shire', 'Gianni Russo', 'Sterling Hayden', 'John Marley']
 genres = ['Drama', 'Crime']
-director = ['Francis Ford Coppola']
+directors = ['Francis Ford Coppola']
 language = ['en']
 +++
 

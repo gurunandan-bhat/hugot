@@ -4,7 +4,7 @@ date = 2026-04-08T18:08:33.802153+05:30
 draft = false
 cast = ['Jitka Cerhová', 'Ivana Karbanová', 'Helena Anýžová', 'Julius Albert', 'Jan Klusák', 'Jiřina Myšková', 'Oldřich Hora', 'Marcela Březinová', 'Václav Chochola', 'Jaromír Vomáčka']
 genres = ['Comedy', 'Drama']
-director = ['Věra Chytilová']
+directors = ['Věra Chytilová']
 language = ['cs']
 +++
 
