@@ -9,7 +9,7 @@
 */}}
 {{- $page := .page }}
 {{- $taxonomy := .taxonomy }}
-
+<pre>Template: _partial/terms.html</pre>
 {{- with $page.GetTerms $taxonomy }}
     {{- $label := (index . 0).Parent.LinkTitle }}
     <div>
