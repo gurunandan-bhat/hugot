@@ -4,7 +4,7 @@ date = 2026-04-09T08:19:12.643739+05:30
 draft = false
 cast = ['Brigitte Mira', 'El Hedi ben Salem', 'Irm Hermann', 'Barbara Valentin', 'Elma Karlowa', 'Anita Bucher', 'Gusti Kreissl', 'Doris Mattes', 'Margit Symo', 'Katharina Herberg']
 genres = ['Romance', 'Drama']
-director = ['Rainer Werner Fassbinder']
+directors = ['Rainer Werner Fassbinder']
 language = ['de']
 +++
 

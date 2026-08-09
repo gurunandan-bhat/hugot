@@ -4,7 +4,7 @@ date = 2026-04-11T17:52:29.316492+05:30
 draft = false
 cast = ['Monica Vitti', 'Gabriele Ferzetti', 'Lea Massari', 'Dominique Blanchar', 'Renzo Ricci', 'James Addams', 'Dorothy De Poliolo', 'Lelio Luttazzi', 'Giovanni Petrucci', 'Esmeralda Ruspoli']
 genres = ['Drama', 'Mystery', 'Romance']
-director = ['Michelangelo Antonioni']
+directors = ['Michelangelo Antonioni']
 language = ['it']
 +++
 

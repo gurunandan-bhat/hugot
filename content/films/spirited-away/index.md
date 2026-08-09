@@ -4,7 +4,7 @@ date = 2026-04-11T17:55:25.421316+05:30
 draft = false
 cast = ['Rumi Hiiragi', 'Miyu Irino', 'Mari Natsuki', 'Takashi Naito', 'Yasuko Sawaguchi', 'Tatsuya Gashûin', 'Ryunosuke Kamiki', 'Yumi Tamai', 'Yo Oizumi', 'Koba Hayashi']
 genres = ['Animation', 'Family', 'Fantasy']
-director = ['Hayao Miyazaki']
+directors = ['Hayao Miyazaki']
 language = ['ja']
 +++
 

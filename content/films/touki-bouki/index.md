@@ -4,7 +4,7 @@ date = 2026-04-09T10:48:59.134842+05:30
 draft = false
 cast = ['Magaye Niang', 'Myriam Niang', 'Christoph Colomb', 'Mustapha Ture', 'Aminata Fall', 'Ousseynou Diop', 'Ndou Labia']
 genres = ['Drama', 'Romance']
-director = ['Djibril Diop Mambéty']
+directors = ['Djibril Diop Mambéty']
 language = ['wo']
 +++
 

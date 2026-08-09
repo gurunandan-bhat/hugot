@@ -4,7 +4,7 @@ date = 2026-04-09T08:27:14.917758+05:30
 draft = false
 cast = ['Trevante Rhodes', 'André Holland', 'Janelle Monáe', 'Ashton Sanders', 'Jharrel Jerome', 'Alex R. Hibbert', 'Jaden Piner', 'Naomie Harris', 'Mahershala Ali', 'Shariff Earp']
 genres = ['Drama']
-director = ['Barry Jenkins']
+directors = ['Barry Jenkins']
 language = ['en']
 +++
 

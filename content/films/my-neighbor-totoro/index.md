@@ -4,7 +4,7 @@ date = 2026-04-09T10:53:22.353149+05:30
 draft = false
 cast = ['Noriko Hidaka', 'Chika Sakamoto', 'Hitoshi Takagi', 'Shigesato Itoi', 'Sumi Shimamoto', 'Tanie Kitabayashi', 'Toshiyuki Amagasa', 'Yuko Maruyama', 'Masashi Hirose', 'Reiko Suzuki']
 genres = ['Fantasy', 'Animation', 'Family']
-director = ['Hayao Miyazaki']
+directors = ['Hayao Miyazaki']
 language = ['ja']
 +++
 

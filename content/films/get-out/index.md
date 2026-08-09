@@ -4,7 +4,7 @@ date = 2026-04-11T18:24:48.437076+05:30
 draft = false
 cast = ['Daniel Kaluuya', 'Allison Williams', 'Catherine Keener', 'Bradley Whitford', 'Caleb Landry Jones', 'Marcus Henderson', 'Betty Gabriel', 'LaKeith Stanfield', 'Stephen Root', 'Lil Rel Howery']
 genres = ['Mystery', 'Thriller', 'Horror']
-director = ['Jordan Peele']
+directors = ['Jordan Peele']
 language = ['en']
 +++
 

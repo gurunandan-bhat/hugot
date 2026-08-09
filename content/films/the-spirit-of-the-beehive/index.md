@@ -4,7 +4,7 @@ date = 2026-04-11T18:03:22.278743+05:30
 draft = false
 cast = ['Ana Torrent', 'Fernando Fernán Gómez', 'Teresa Gimpera', 'Isabel Tellería', 'Laly Soldevila', 'Miguel Picazo', 'José Villasante', 'Juan Margallo', 'Estanis González', 'Ketty de la Cámara']
 genres = ['Drama', 'Fantasy']
-director = ['Víctor Erice']
+directors = ['Víctor Erice']
 language = ['es']
 +++
 

@@ -4,7 +4,7 @@ date = 2026-04-11T17:55:59.917352+05:30
 draft = false
 cast = ['Mihály Víg', 'Putyi Horváth', 'Székely B. Miklós', 'Erika Bók', 'László feLugossy', 'Alfréd Járai', 'János Derzsi', 'Irén Szajki', 'Éva Almássy Albert', 'Erzsébet Gaál']
 genres = ['Drama']
-director = ['Béla Tarr']
+directors = ['Béla Tarr']
 language = ['hu']
 +++
 

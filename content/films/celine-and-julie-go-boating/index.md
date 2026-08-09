@@ -4,7 +4,7 @@ date = 2026-04-11T17:57:26.501505+05:30
 draft = false
 cast = ['Juliet Berto', 'Dominique Labourier', 'Bulle Ogier', 'Marie-France Pisier', 'Barbet Schroeder', 'Nathalie Asnar', 'Marie-Thérèse Saussure', 'Philippe Clévenot', 'Anne Zamire', 'Jean Douchet']
 genres = ['Comedy', 'Drama', 'Fantasy']
-director = ['Jacques Rivette']
+directors = ['Jacques Rivette']
 language = ['fr']
 +++
 

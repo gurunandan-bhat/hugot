@@ -4,7 +4,7 @@ date = 2026-04-09T10:49:45.282342+05:30
 draft = false
 cast = ['Agnès Varda', 'Bodan Litnanski', 'François Wertheimer']
 genres = ['Documentary']
-director = ['Agnès Varda']
+directors = ['Agnès Varda']
 language = ['fr']
 +++
 

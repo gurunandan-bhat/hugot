@@ -4,7 +4,7 @@ date = 2026-04-09T08:27:49.779758+05:30
 draft = false
 cast = ['Marcello Mastroianni', 'Anita Ekberg', 'Anouk Aimée', 'Yvonne Furneaux', 'Magali Noël', 'Alain Cuny', 'Annibale Ninchi', 'Walter Santesso', 'Valeria Ciangottini', 'Riccardo Garrone']
 genres = ['Comedy', 'Drama']
-director = ['Federico Fellini']
+directors = ['Federico Fellini']
 language = ['it']
 +++
 

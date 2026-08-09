@@ -4,7 +4,7 @@ date = 2026-04-11T18:06:24.88216+05:30
 draft = false
 cast = ['Charles Boyer', 'Danielle Darrieux', 'Vittorio De Sica', 'Jean Debucourt', 'Jean Galland', 'Mireille Perrey', 'Paul Azaïs', 'Jacques Josselin', 'Hubert Noël', 'Lia Di Leo']
 genres = ['Drama', 'Romance']
-director = ['Max Ophüls']
+directors = ['Max Ophüls']
 language = ['fr']
 +++
 

@@ -4,7 +4,7 @@ date = 2026-04-09T08:26:37.774983+05:30
 draft = false
 cast = ['Florence Delay', 'Amílcar Cabral', 'Arielle Dombasle', 'Bin Akao', 'David Coverdale', 'Chris Marker', 'Alexandra Stewart']
 genres = ['Documentary']
-director = ['Chris Marker']
+directors = ['Chris Marker']
 language = ['fr']
 +++
 

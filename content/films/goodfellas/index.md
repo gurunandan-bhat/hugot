@@ -4,7 +4,7 @@ date = 2026-04-09T10:47:00.251785+05:30
 draft = false
 cast = ['Robert De Niro', 'Ray Liotta', 'Joe Pesci', 'Lorraine Bracco', 'Paul Sorvino', 'Frank Sivero', 'Tony Darrow', 'Mike Starr', 'Frank Vincent', 'Chuck Low']
 genres = ['Drama', 'Crime']
-director = ['Martin Scorsese']
+directors = ['Martin Scorsese']
 language = ['en']
 +++
 

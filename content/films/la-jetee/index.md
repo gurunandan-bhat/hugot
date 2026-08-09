@@ -4,7 +4,7 @@ date = 2026-04-09T10:50:35.501754+05:30
 draft = false
 cast = ['Jean Négroni', 'Hélène Chatelain', 'Davos Hanich', 'Jacques Ledoux', 'André Heinrich', 'Jacques Branchu', 'Pierre Joffroy', 'Étienne Becker', 'Philbert von Lifchitz', 'Ligia Branice']
 genres = ['Drama', 'Romance', 'Science Fiction']
-director = ['Chris Marker']
+directors = ['Chris Marker']
 language = ['fr']
 +++
 

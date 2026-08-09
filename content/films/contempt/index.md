@@ -4,7 +4,7 @@ date = 2026-04-09T08:23:29.089415+05:30
 draft = false
 cast = ['Brigitte Bardot', 'Michel Piccoli', 'Jack Palance', 'Giorgia Moll', 'Fritz Lang', 'Raoul Coutard', 'Jean-Luc Godard', 'Linda Veras']
 genres = ['Drama', 'Romance']
-director = ['Jean-Luc Godard']
+directors = ['Jean-Luc Godard']
 language = ['fr']
 +++
 

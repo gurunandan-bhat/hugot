@@ -4,7 +4,7 @@ date = 2026-04-11T17:54:55.506547+05:30
 draft = false
 cast = ['Kinuyo Tanaka', 'Yoshiaki Hanayagi', 'Kyōko Kagawa', 'Eitarō Shindō', 'Ichirō Sugai', 'Bontarō Miake', 'Yōko Kozono', 'Chieko Naniwa', 'Kikue Mōri', 'Ken Mitsuda']
 genres = ['Drama']
-director = ['Kenji Mizoguchi']
+directors = ['Kenji Mizoguchi']
 language = ['ja']
 +++
 
