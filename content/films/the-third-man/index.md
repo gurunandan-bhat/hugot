@@ -4,7 +4,7 @@ date = 2026-04-09T10:48:17.547618+05:30
 draft = false
 cast = ['Joseph Cotten', 'Alida Valli', 'Trevor Howard', 'Orson Welles', 'Paul Hörbiger', 'Ernst Deutsch', 'Erich Ponto', 'Siegfried Breuer', 'Hedwig Bleibtreu', 'Bernard Lee']
 genres = ['Thriller', 'Mystery']
-director = ['Carol Reed']
+directors = ['Carol Reed']
 language = ['en']
 +++
 

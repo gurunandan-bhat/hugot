@@ -4,7 +4,7 @@ date = 2026-04-09T08:19:46.386067+05:30
 draft = false
 cast = ['Chantal Akerman']
 genres = ['Documentary']
-director = ['Chantal Akerman']
+directors = ['Chantal Akerman']
 language = ['fr']
 +++
 

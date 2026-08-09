@@ -4,7 +4,7 @@ date = 2026-04-11T17:58:36.626555+05:30
 draft = false
 cast = ['Charlie Chaplin', 'Paulette Goddard', 'Henry Bergman', 'Tiny Sandford', 'Chester Conklin', 'Hank Mann', 'Stanley Blystone', 'Al Ernest Garcia', 'Richard Alexander', 'Cecil Reynolds']
 genres = ['Comedy', 'Drama', 'Romance']
-director = ['Charlie Chaplin']
+directors = ['Charlie Chaplin']
 language = ['en']
 +++
 

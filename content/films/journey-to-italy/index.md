@@ -4,7 +4,7 @@ date = 2026-04-09T10:54:10.033978+05:30
 draft = false
 cast = ['Ingrid Bergman', 'George Sanders', 'Jackie Frost', 'Maria Mauban', 'Anna Proclemer', 'Leslie Daniels', 'Natalia Ray', 'Paul Müller', 'María Martín', 'Bianca Maria Cerasoli']
 genres = ['Drama', 'Romance']
-director = ['Roberto Rossellini']
+directors = ['Roberto Rossellini']
 language = ['it']
 +++
 

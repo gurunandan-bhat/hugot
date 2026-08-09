@@ -4,7 +4,7 @@ date = 2026-04-09T08:18:17.542717+05:30
 draft = false
 cast = ['Holly Hunter', 'Harvey Keitel', 'Sam Neill', 'Anna Paquin', 'Cliff Curtis', 'Kerry Walker', 'Ian Mune', 'Geneviève Lemon', 'Pete Smith', 'Bruce Allpress']
 genres = ['Drama', 'Romance']
-director = ['Jane Campion']
+directors = ['Jane Campion']
 language = ['en']
 +++
 

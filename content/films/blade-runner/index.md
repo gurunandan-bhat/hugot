@@ -4,7 +4,7 @@ date = 2026-04-09T08:20:25.543424+05:30
 draft = false
 cast = ['Harrison Ford', 'Rutger Hauer', 'Sean Young', 'Edward James Olmos', 'M. Emmet Walsh', 'Daryl Hannah', 'William Sanderson', 'Brion James', 'Joe Turkel', 'Joanna Cassidy']
 genres = ['Science Fiction', 'Drama', 'Thriller']
-director = ['Ridley Scott']
+directors = ['Ridley Scott']
 language = ['en']
 +++
 

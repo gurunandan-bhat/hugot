@@ -4,7 +4,7 @@ date = 2026-04-11T18:25:21.915983+05:30
 draft = false
 cast = ['Banlop Lomnoi', 'Sakda Kaewbuadee', 'Siriwej Jareornchon', 'Udom Promma', 'Huey Deesom', 'Saritpong Boonyadison', 'Arna Rattapan', 'Donruedee Chana', 'Mantana Wannaros']
 genres = ['Drama', 'Romance', 'Fantasy']
-director = ['Apichatpong Weerasethakul']
+directors = ['Apichatpong Weerasethakul']
 language = ['th']
 +++
 

@@ -4,7 +4,7 @@ date = 2026-04-11T18:08:28.070201+05:30
 draft = false
 cast = ['Machiko Kyō', 'Mitsuko Mito', 'Kinuyo Tanaka', 'Masayuki Mori', 'Eitarō Ozawa', 'Sugisaku Aoyama', 'Mitsusaburō Ramon', 'Ryōsuke Kagawa', 'Kichijirō Ueda', 'Shōzō Nanbu']
 genres = ['Fantasy', 'Drama', 'Mystery']
-director = ['Kenji Mizoguchi']
+directors = ['Kenji Mizoguchi']
 language = ['ja']
 +++
 

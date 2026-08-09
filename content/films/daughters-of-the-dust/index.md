@@ -4,7 +4,7 @@ date = 2026-04-09T08:28:28.710498+05:30
 draft = false
 cast = ['Cora Lee Day', 'Alva Rogers', 'Barbara O. Jones', 'Trula Hoosier', 'Umar Abdurrahamn', 'Adisa Anderson', 'Kaycee Moore', 'Bahni Turpin', 'Cheryl Lynn Bruce', 'Tommy Redmond Hicks']
 genres = ['Drama', 'Romance']
-director = ['Julie Dash']
+directors = ['Julie Dash']
 language = ['en']
 +++
 

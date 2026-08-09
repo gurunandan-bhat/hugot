@@ -4,7 +4,7 @@ date = 2026-04-11T18:28:20.914066+05:30
 draft = false
 cast = ['Claudia Cardinale', 'Henry Fonda', 'Jason Robards', 'Charles Bronson', 'Gabriele Ferzetti', 'Paolo Stoppa', 'Woody Strode', 'Jack Elam', 'Keenan Wynn', 'Frank Wolff']
 genres = ['Drama', 'Western']
-director = ['Sergio Leone']
+directors = ['Sergio Leone']
 language = ['it']
 +++
 

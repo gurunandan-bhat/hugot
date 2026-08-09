@@ -4,7 +4,7 @@ date = 2026-04-09T10:51:16.420849+05:30
 draft = false
 cast = ['Anatoliy Solonitsyn', 'Ivan Lapikov', 'Mykola Hrynko', 'Nikolai Sergeyev', 'Irma Raush', 'Nikolay Burlyaev', 'Yuriy Nazarov', 'Yuriy Nikulin', 'Rolan Bykov', 'Nikolay Grabbe']
 genres = ['Drama', 'History']
-director = ['Andrei Tarkovsky']
+directors = ['Andrei Tarkovsky']
 language = ['ru']
 +++
 

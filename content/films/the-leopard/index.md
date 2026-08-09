@@ -4,7 +4,7 @@ date = 2026-04-11T18:07:40.025565+05:30
 draft = false
 cast = ['Burt Lancaster', 'Claudia Cardinale', 'Alain Delon', 'Paolo Stoppa', 'Rina Morelli', 'Romolo Valli', 'Terence Hill', 'Pierre Clémenti', 'Lucilla Morlacchi', 'Giuliano Gemma']
 genres = ['Drama']
-director = ['Luchino Visconti']
+directors = ['Luchino Visconti']
 language = ['it']
 +++
 

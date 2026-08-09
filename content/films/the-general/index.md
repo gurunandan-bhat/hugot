@@ -4,7 +4,7 @@ date = 2026-04-11T18:27:00.726307+05:30
 draft = false
 cast = ['Buster Keaton', 'Marion Mack', 'Glen Cavender', 'Jim Farley', 'Frederick Vroom', 'Frank Barnes', 'Charles Henry Smith', 'Joe Keaton', 'Mike Donlin', 'Tom Nawn']
 genres = ['Action', 'Adventure', 'Comedy', 'War', 'Romance']
-director = ['Clyde Bruckman', 'Buster Keaton']
+directors = ['Clyde Bruckman', 'Buster Keaton']
 language = ['en']
 +++
 

@@ -4,7 +4,7 @@ date = 2026-04-09T08:25:30.408997+05:30
 draft = false
 cast = ['Buster Keaton', 'Kathryn McGuire', 'Joe Keaton', 'Erwin Connelly', 'Ward Crane', 'Doris Deane', 'Christine Francis', 'George Davis', 'Kewpie Morgan', 'Steve Murphy']
 genres = ['Action', 'Comedy', 'Mystery']
-director = ['Buster Keaton']
+directors = ['Buster Keaton']
 language = ['en']
 +++
 

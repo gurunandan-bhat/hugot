@@ -4,7 +4,7 @@ date = 2026-04-09T08:26:01.606256+05:30
 draft = false
 cast = ['Jack Lemmon', 'Shirley MacLaine', 'Fred MacMurray', 'Ray Walston', 'Jack Kruschen', 'David Lewis', 'Hope Holiday', 'Joan Shawlee', 'Naomi Stevens', 'Johnny Seven']
 genres = ['Comedy', 'Drama', 'Romance']
-director = ['Billy Wilder']
+directors = ['Billy Wilder']
 language = ['en']
 +++
 

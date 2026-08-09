@@ -4,7 +4,7 @@ date = 2026-04-11T18:02:49.071759+05:30
 draft = false
 cast = ['Jean-Paul Belmondo', 'Anna Karina', 'Graziella Galvani', 'Aicha Abadir', 'Henri Attal', 'Pascal Aubier', 'Maurice Auzel', 'Raymond Devos', 'Roger Dutoit', 'Samuel Fuller']
 genres = ['Drama', 'Romance', 'Crime']
-director = ['Jean-Luc Godard']
+directors = ['Jean-Luc Godard']
 language = ['fr']
 +++
 
