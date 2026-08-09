@@ -1,4 +1,4 @@
-{{- range (slice "css/main.css" "css/fonts.css") }}
+{{- range (slice "css/bootstrap.css" "css/fonts.css" "css/main.css") }}
     {{- with resources.Get . }}
         {{- $opts := dict
             "minify" (cond hugo.IsDevelopment false true)
